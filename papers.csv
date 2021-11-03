@@ -1,0 +1,680 @@
+YEAR,TITLE,Authors,Paper Link,ABSTRACT
+2017,Learning Active Learning from Data,Ksenia Konyushkova · Raphael Sznitman · Pascal Fua,http://papers.nips.cc/paper/by-source-2017-2224
+2017,Scalable Variational Inference for Dynamical Systems,Nico S Gorbach · Stefan Bauer · Joachim M Buhmann,http://papers.nips.cc/paper/by-source-2017-2503
+2017,Active Learning from Peers,Keerthiram Murugesan · Jaime Carbonell,http://papers.nips.cc/paper/by-source-2017-3527
+2017,Gradient Episodic Memory for Continual Learning,David Lopez-Paz · Marc'Aurelio Ranzato,http://papers.nips.cc/paper/by-source-2017-3235
+2017,Consistent Multitask Learning with Nonlinear Output Relations,Carlo Ciliberto · Alessandro Rudi · Lorenzo Rosasco · Massimiliano Pontil,http://papers.nips.cc/paper/by-source-2017-1220
+2017,Joint distribution optimal transportation for domain adaptation,Nicolas Courty · Rémi Flamary · Amaury Habrard · Alain Rakotomamonjy,http://papers.nips.cc/paper/by-source-2017-2081
+2017,Learning Multiple Tasks with Multilinear Relationship Networks,Mingsheng Long · ZHANGJIE CAO · Jianmin Wang · Philip S Yu,http://papers.nips.cc/paper/by-source-2017-1019
+2017,Label Efficient Learning of Transferable Representations acrosss Domains and Tasks,Zelun Luo · Yuliang Zou · Judy Hoffman · Li Fei-Fei,http://papers.nips.cc/paper/by-source-2017-142
+2017,Matching neural paths: transfer from recognition to correspondence search,Nikolay Savinov · Lubor Ladicky · Marc Pollefeys,http://papers.nips.cc/paper/by-source-2017-808
+2017,Do Deep Neural Networks Suffer from Crowding?,Anna Volokitin · Gemma Roig · Tomaso Poggio,http://papers.nips.cc/paper/by-source-2017-2880
+2017,SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability,Maithra Raghu · Justin Gilmer · Jason Yosinski · Jascha Sohl-Dickstein,http://papers.nips.cc/paper/by-source-2017-3088
+2017,Neural Expectation Maximization,Klaus Greff · Sjoerd van Steenkiste · Jürgen Schmidhuber,http://papers.nips.cc/paper/by-source-2017-3354
+2017,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,Charles Ruizhongtai Qi · Li Yi · Hao Su · Leonidas Guibas,http://papers.nips.cc/paper/by-source-2017-2650
+2017,PRUNE: Preserving Proximity and Global Ranking for Network Embedding,Yi-An Lai · Chin-Chi Hsu · Wen Hao Chen · Mi-Yen Yeh · Shou-De Lin,http://papers.nips.cc/paper/by-source-2017-2716
+2017,Unsupervised Transformation Learning via Convex Relaxations,Tatsunori Hashimoto · Percy Liang · John Duchi,http://papers.nips.cc/paper/by-source-2017-3449
+2017,"Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs",Saurabh Verma · Zhi-Li Zhang,http://papers.nips.cc/paper/by-source-2017-73
+2017,Deep Subspace Clustering Networks,Pan Ji · Tong Zhang · Hongdong Li · Mathieu Salzmann · Ian Reid,http://papers.nips.cc/paper/by-source-2017-34
+2017,Learning Graph Representations with Embedding Propagation,Alberto Garcia Duran · Mathias Niepert,http://papers.nips.cc/paper/by-source-2017-2655
+2017,Unsupervised Sequence Classification using Sequential Output Statistics,Yu Liu · Jianshu Chen · Li Deng,http://papers.nips.cc/paper/by-source-2017-2009
+2017,Context Selection for Embedding Models,Liping Liu · Francisco Ruiz · Susan Athey · David Blei,http://papers.nips.cc/paper/by-source-2017-2504
+2017,Probabilistic Rule Realization and Selection,Haizi Yu · Tianxi Li · Lav Varshney,http://papers.nips.cc/paper/by-source-2017-993
+2017,Trimmed Density Ratio Estimation,Song Liu · Akiko Takeda · Taiji Suzuki · Kenji Fukumizu,http://papers.nips.cc/paper/by-source-2017-2356
+2017,A Minimax Optimal Algorithm for Crowdsourcing,Thomas Bonald · Richard Combes,http://papers.nips.cc/paper/by-source-2017-2272
+2017,Introspective Classification with Convolutional Nets,Long Jin · Justin Lazarow · Zhuowen Tu,http://papers.nips.cc/paper/by-source-2017-556
+2017,Adaptive Classification for Prediction Under a Budget,Feng Nan · Venkatesh Saligrama,http://papers.nips.cc/paper/by-source-2017-2471
+2017,Learning with Feature Evolvable Streams,Bo-Jian Hou · Lijun Zhang · Zhi-Hua Zhou,http://papers.nips.cc/paper/by-source-2017-914
+2017,Aggressive Sampling for Multi-class to Binary Reduction with Applications to Text Classification,Bikash Joshi · Massih R. Amini · Ioannis Partalas · Franck Iutzeler · Yury Maximov,http://papers.nips.cc/paper/by-source-2017-2192
+2017,Adversarial Surrogate Losses for Ordinal Regression,Rizal Fathony · Mohammad Ali Bashiri · Brian Ziebart,http://papers.nips.cc/paper/by-source-2017-389
+2017,Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation,Matthias Hein · Maksym Andriushchenko,http://papers.nips.cc/paper/by-source-2017-1331
+2017,Cost efficient gradient boosting,Sven Peter · Ferran Diego · Fred Hamprecht · Boaz Nadler,http://papers.nips.cc/paper/by-source-2017-990
+2017,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,Guolin Ke · Qi Meng · Thomas Finley · Taifeng Wang · Wei Chen · Weidong Ma · Qiwei Ye · Tie-Yan Liu,http://papers.nips.cc/paper/by-source-2017-1786
+2017,Estimating Accuracy from Unlabeled Data: A Probabilistic Logic Approach,Emmanouil Platanios · Hoifung Poon · Tom M Mitchell · Eric Horvitz,http://papers.nips.cc/paper/by-source-2017-2274
+2017,Inferring Generative Model Structure with Static Analysis,Paroma Varma · Bryan He · Payal Bajaj · Nishith Khandwala · Imon Banerjee · Daniel Rubin · Christopher Ré,http://papers.nips.cc/paper/by-source-2017-183
+2017,Scalable Model Selection for Belief Networks,Zhao Song · Yusuke Muraoka · Ryohei Fujimaki · Lawrence Carin,http://papers.nips.cc/paper/by-source-2017-2410
+2017,"Time-dependent spatially varying graphical models, with application to brain fMRI data analysis",Kristjan Greenewald · Seyoung Park · Shuheng Zhou · Alexander Giessing,http://papers.nips.cc/paper/by-source-2017-2986
+2017,A Bayesian Data Augmentation Approach for Learning Deep Models,Toan Tran · Trung Pham · Gustavo Carneiro · Lyle Palmer · Ian Reid,http://papers.nips.cc/paper/by-source-2017-1583
+2017,Union of Intersections (UoI) for Interpretable Data Driven Discovery and Prediction,Kristofer Bouchard · Alejandro Bujan · Farbod Roosta-Khorasani · Shashanka Ubaru · Mr. Prabhat · Antoine Snijders · Jian-Hua Mao · Edward Chang · Michael W Mahoney · Sharmodeep Bhattacharya,http://papers.nips.cc/paper/by-source-2017-717
+2017,Deep Learning with Topological Signatures,Christoph Hofer · Roland Kwitt · Marc Niethammer · Andreas Uhl,http://papers.nips.cc/paper/by-source-2017-1027
+2017,Practical Hash Functions for Similarity Estimation and Dimensionality Reduction,Søren Dahlgaard · Mathias Knudsen · Mikkel Thorup,http://papers.nips.cc/paper/by-source-2017-3315
+2017,Maxing and Ranking with Few Assumptions,Moein Falahatgar · Yi Hao · Alon Orlitsky · Venkatadheeraj Pichapati · Vaishakh Ravindrakumar,http://papers.nips.cc/paper/by-source-2017-3549
+2017,Kernel functions based on triplet comparisons,Matthäus Kleindessner · Ulrike von Luxburg,http://papers.nips.cc/paper/by-source-2017-3425
+2017,Learning A Structured Optimal Bipartite Graph for Co-Clustering,Feiping Nie · Xiaoqian Wang · Cheng Deng · Heng Huang,http://papers.nips.cc/paper/by-source-2017-2184
+2017,Multi-way Interacting Regression via Factorization Machines,Mikhail Yurochkin · XuanLong Nguyen · nikolaos Vasiloglou,http://papers.nips.cc/paper/by-source-2017-1494
+2017,Maximum Margin Interval Trees,Alexandre Drouin · Toby Hocking · Francois Laviolette,http://papers.nips.cc/paper/by-source-2017-2558
+2017,Kernel Feature Selection via Conditional Covariance Minimization,Jianbo Chen · Mitchell Stern · Martin J Wainwright · Michael Jordan,http://papers.nips.cc/paper/by-source-2017-3482
+2017,Improved Graph Laplacian via Geometric Self-Consistency,Dominique Perrault-Joncas · Marina Meila · James McQueen,http://papers.nips.cc/paper/by-source-2017-2330
+2017,Mixture-Rank Matrix Approximation for Collaborative Filtering,Dongsheng Li · Chao Chen · Wei Liu · Tun Lu · Ning Gu · Stephen Chu,http://papers.nips.cc/paper/by-source-2017-341
+2017,Predictive State Recurrent Neural Networks,Carlton Downey · Ahmed Hefny · Byron Boots · Geoffrey Gordon · Boyue Li,http://papers.nips.cc/paper/by-source-2017-3085
+2017,Hierarchical Methods of Moments,Matteo Ruffini · Guillaume Rabusseau · Borja Balle,http://papers.nips.cc/paper/by-source-2017-1188
+2017,Multitask Spectral Learning of Weighted Automata,Guillaume Rabusseau · Borja Balle · Joelle Pineau,http://papers.nips.cc/paper/by-source-2017-1492
+2017,Generative Local Metric Learning for Kernel Regression,Yung-Kyun Noh · Masashi Sugiyama · Kee-Eung Kim · Frank Park · Daniel Lee,http://papers.nips.cc/paper/by-source-2017-1442
+2017,Principles of Riemannian Geometry  in Neural Networks,Michael Hauser · Asok Ray,http://papers.nips.cc/paper/by-source-2017-1594
+2017,Subset Selection and Summarization in Sequential Data,Ehsan Elhamifar · M. Clara De Paolis Kaluza,http://papers.nips.cc/paper/by-source-2017-675
+2017,On Quadratic Convergence of DC Proximal Newton Algorithm in Nonconvex Sparse Learning,Xingguo Li · Lin Yang · Jason Ge · Jarvis Haupt · Tong Zhang · Tuo Zhao,http://papers.nips.cc/paper/by-source-2017-1552
+2017,"Fast, Sample-Efficient Algorithms for Structured Phase Retrieval",Gauri Jagatap · Chinmay Hegde,http://papers.nips.cc/paper/by-source-2017-2542
+2017,k-Support and Ordered Weighted Sparsity for Overlapping Groups: Hardness and Algorithms,Cong Han Lim · Stephen Wright,http://papers.nips.cc/paper/by-source-2017-224
+2017,Parametric Simplex Method for Sparse Learning,Haotian Pang · Han Liu · Robert J Vanderbei · Tuo Zhao,http://papers.nips.cc/paper/by-source-2017-164
+2017,Learned D-AMP: Principled Neural Network based Compressive Image Recovery,Chris Metzler · Ali Mousavi · Richard Baraniuk,http://papers.nips.cc/paper/by-source-2017-1119
+2017,FALKON: An Optimal Large Scale Kernel Method,Alessandro Rudi · Luigi Carratino · Lorenzo Rosasco,http://papers.nips.cc/paper/by-source-2017-2109
+2017,Recursive Sampling for the Nystrom Method,Cameron Musco · Christopher Musco,http://papers.nips.cc/paper/by-source-2017-2097
+2017,Efficient Approximation Algorithms for Strings Kernel Based Sequence Classification,Muhammad Farhan · Juvaria Tariq · Arif Zaman · Mudassir Shabbir · Imdad Ullah Khan,http://papers.nips.cc/paper/by-source-2017-3476
+2017,Robust Hypothesis Test for Nonlinear Effect with Gaussian Processes,Jeremiah Liu · Brent Coull,http://papers.nips.cc/paper/by-source-2017-523
+2017,Invariance and Stability of Deep Convolutional Representations,Alberto Bietti · Julien Mairal,http://papers.nips.cc/paper/by-source-2017-3147
+2017,Testing and Learning on Distributions with Symmetric Noise Invariance,Ho Chung Law · Christopher Yau · Dino Sejdinovic,http://papers.nips.cc/paper/by-source-2017-876
+2017,An Empirical Study on The Properties of Random Bases for Kernel Methods,Maximilian Alber · Pieter-Jan Kindermans · Kristof Schütt · Klaus-Robert Müller · Fei Sha,http://papers.nips.cc/paper/by-source-2017-1562
+2017,Max-Margin Invariant Features from Transformed Unlabelled Data,Dipan Pal · Ashwin Kannan · Gautam Arakalgud · Marios Savvides,http://papers.nips.cc/paper/by-source-2017-920
+2017,SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud,Zahra Ghodsi · Tianyu Gu · Siddharth Garg,http://papers.nips.cc/paper/by-source-2017-2442
+2017,The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process,Hongyuan Mei · Jason Eisner,http://papers.nips.cc/paper/by-source-2017-3392
+2017,The Importance of Communities for Learning to Influence,Eric Balkanski · Nicole Immorlica · Yaron Singer,http://papers.nips.cc/paper/by-source-2017-2999
+2017,Inductive Representation Learning on Large Graphs,Will Hamilton · Zhitao Ying · Jure Leskovec,http://papers.nips.cc/paper/by-source-2017-671
+2017,A Meta-Learning Perspective on Cold-Start Recommendations for Items,Manasi Vartak · Arvind Thiagarajan · Conrado Miranda · Jeshua Bratman · Hugo Larochelle,http://papers.nips.cc/paper/by-source-2017-3464
+2017,DropoutNet: Addressing Cold Start in Recommender Systems,Maksims Volkovs · Guangwei Yu · Tomi Poutanen,http://papers.nips.cc/paper/by-source-2017-2563
+2017,Federated Multi-Task Learning,Virginia Smith · Chao-Kai Chiang · Maziar Sanjabi · Ameet S Talwalkar,http://papers.nips.cc/paper/by-source-2017-2307
+2017,Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks,Urs Köster · Tristan Webb · Xin Wang · Marcel Nassar · Arjun K Bansal · William Constable · Oguz Elibol · Stewart Hall · Luke Hornof · Amir Khosrowshahi · Carey Kloss · Ruby J Pai · Naveen Rao,http://papers.nips.cc/paper/by-source-2017-1099
+2017,Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes,Ahmed M. Alaa · Mihaela van der Schaar,http://papers.nips.cc/paper/by-source-2017-1951
+2017,Tomography of the London Underground: a Scalable Model for Origin-Destination Data,Nicolò Colombo · Ricardo Silva · Soong Moon Kang,http://papers.nips.cc/paper/by-source-2017-1741
+2017,Matching on Balanced Nonlinear Representations for Treatment Effects Estimation,Sheng Li · Yun Fu,http://papers.nips.cc/paper/by-source-2017-596
+2017,SchNet: A continuous-filter convolutional neural network for modeling quantum interactions,Kristof Schütt · Pieter-Jan Kindermans · Huziel Enoc Sauceda Felix · Stefan Chmiela · Alexandre Tkatchenko · Klaus-Robert Müller,http://papers.nips.cc/paper/by-source-2017-647
+2017,Hiding Images in Plain Sight: Deep Steganography,Shumeet Baluja,http://papers.nips.cc/paper/by-source-2017-1251
+2017,Universal Style Transfer via Feature Transforms,Yijun Li · Chen Fang · Jimei Yang · Zhaowen Wang · Xin Lu · Ming-Hsuan Yang,http://papers.nips.cc/paper/by-source-2017-295
+2017,Attend and Predict: Understanding Gene Regulation by Selective Attention on Chromatin,Ritambhara Singh · Jack Lanchantin · Arshdeep Sekhon · Yanjun Qi,http://papers.nips.cc/paper/by-source-2017-3418
+2017,Unbounded cache model for online language modeling with open vocabulary,Edouard Grave · Moustapha Cisse · Armand Joulin,http://papers.nips.cc/paper/by-source-2017-3079
+2017,Deconvolutional Paragraph Representation Learning,Yizhe Zhang · Dinghan Shen · Guoyin Wang · Zhe Gan · Ricardo Henao · Lawrence Carin,http://papers.nips.cc/paper/by-source-2017-2204
+2017,Analyzing Hidden Representations in End-to-End Automatic Speech Recognition Systems,Yonatan Belinkov · Jim Glass,http://papers.nips.cc/paper/by-source-2017-1433
+2017,Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model,Jiasen Lu · Anitha Kannan · Jianwei Yang · Devi Parikh · Dhruv Batra,http://papers.nips.cc/paper/by-source-2017-249
+2017,Teaching Machines to Describe Images with Natural Language Feedback,huan ling · Sanja Fidler,http://papers.nips.cc/paper/by-source-2017-2623
+2017,High-Order Attention Models for Visual Question Answering,Idan Schwartz · Alexander Schwing · Tamir Hazan,http://papers.nips.cc/paper/by-source-2017-2048
+2017,Visual Reference Resolution using Attention Memory for Visual Dialog,Paul Hongsuck Seo · Andreas Lehrmann · Bohyung Han · Leonid Sigal,http://papers.nips.cc/paper/by-source-2017-2079
+2017,Semi-Supervised Learning for Optical Flow with Generative Adversarial Networks,Wei-Sheng Lai · Jia-Bin Huang · Ming-Hsuan Yang,http://papers.nips.cc/paper/by-source-2017-286
+2017,Associative Embedding: End-to-End Learning for Joint Detection and Grouping,Alejandro Newell · Zhiao Huang · Jia Deng,http://papers.nips.cc/paper/by-source-2017-1334
+2017,Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction,Dan Xu · Wanli Ouyang · Xavier Alameda-Pineda · Elisa Ricci · Xiaogang Wang · Nicu Sebe,http://papers.nips.cc/paper/by-source-2017-2131
+2017,Incorporating Side Information by Adaptive Convolution,Di Kang · Debarun Dhar · Antoni Chan,http://papers.nips.cc/paper/by-source-2017-2104
+2017,Learning a Multi-View Stereo Machine,Abhishek Kar · Christian Häne · Jitendra Malik,http://papers.nips.cc/paper/by-source-2017-291
+2017,Pose Guided Person Image Generation,Liqian Ma · Xu Jia · Qianru Sun · Bernt Schiele · Tinne Tuytelaars · Luc Van Gool,http://papers.nips.cc/paper/by-source-2017-301
+2017,Working hard to know your neighbor's margins: Local descriptor learning loss,Anastasiia Mishchuk · Dmytro Mishkin · Filip Radenovic · Jiri Matas,http://papers.nips.cc/paper/by-source-2017-2512
+2017,Toward Multimodal Image-to-Image Translation,Jun-Yan Zhu · Richard Zhang · Deepak Pathak · Trevor Darrell · Alexei Efros · Oliver Wang · Eli Shechtman,http://papers.nips.cc/paper/by-source-2017-338
+2017,Deep Supervised Discrete Hashing,Qi Li · Zhenan Sun · Ran He · Tieniu Tan,http://papers.nips.cc/paper/by-source-2017-1448
+2017,SVD-Softmax: Fast Softmax Approximation on Large Vocabulary Neural Networks,Kyuhong Shim · Minjae Lee · Iksoo Choi · Yoonho Boo · Wonyong Sung,http://papers.nips.cc/paper/by-source-2017-2816
+2017,Hash Embeddings for Efficient Word Representations,Dan Tito Svenstrup · Jonas Hansen · Ole Winther,http://papers.nips.cc/paper/by-source-2017-2544
+2017,A Regularized Framework for Sparse and Structured Neural Attention,Vlad Niculae · Mathieu Blondel,http://papers.nips.cc/paper/by-source-2017-1888
+2017,Attentional Pooling for Action Recognition,Rohit Girdhar · Deva Ramanan,http://papers.nips.cc/paper/by-source-2017-47
+2017,"Plan, Attend, Generate: Planning for Sequence-to-Sequence Models",Caglar Gulcehre · Francis Dutil · Adam Trischler · Yoshua Bengio,http://papers.nips.cc/paper/by-source-2017-2824
+2017,Dilated Recurrent Neural Networks,Shiyu Chang · Yang Zhang · Wei Han · Mo Yu · Xiaoxiao Guo · Wei Tan · Xiaodong Cui · Michael Witbrock · Mark Hasegawa-Johnson · Thomas Huang,http://papers.nips.cc/paper/by-source-2017-72
+2017,Learning Hierarchical Information Flow with Recurrent Neural Modules,Danijar Hafner · Alexander Irpan · James Davidson · Nicolas Heess,http://papers.nips.cc/paper/by-source-2017-3374
+2017,Wasserstein Learning of Deep Generative Point Process Models,Shuai Xiao · Mehrdad Farajtabar · Xiaojing Ye · Junchi Yan · Xiaokang Yang · Le Song · Hongyuan Zha,http://papers.nips.cc/paper/by-source-2017-1846
+2017,Stabilizing Training of Generative Adversarial Networks through Regularization,Kevin Roth · Aurelien Lucchi · Sebastian Nowozin · Thomas Hofmann,http://papers.nips.cc/paper/by-source-2017-1236
+2017,Neural Variational Inference and Learning in Undirected Graphical Models,Volodymyr Kuleshov · Stefano Ermon,http://papers.nips.cc/paper/by-source-2017-3376
+2017,Adversarial Symmetric Variational Autoencoder,Yuchen Pu · Weiyao Wang · Ricardo Henao · Liqun Chen · Zhe Gan · Chunyuan Li · Lawrence Carin,http://papers.nips.cc/paper/by-source-2017-2260
+2017,Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space,Liwei Wang · Alexander Schwing · Svetlana Lazebnik,http://papers.nips.cc/paper/by-source-2017-2941
+2017,Z-Forcing: Training Stochastic Recurrent Networks,Anirudh Goyal ALIAS PARTH GOYAL · Alessandro Sordoni · Marc-Alexandre Côté · Nan Rosemary Ke · Yoshua Bengio,http://papers.nips.cc/paper/by-source-2017-3370
+2017,One-Shot Imitation Learning,Yan Duan · Marcin Andrychowicz · Bradly Stadie · OpenAI Jonathan Ho · Jonas Schneider · Ilya Sutskever · Pieter Abbeel · Wojciech Zaremba,http://papers.nips.cc/paper/by-source-2017-732
+2017,Reconstruct & Crush Network,Erinc Merdivan · Mohammad Reza Loghmani · Matthieu Geist,http://papers.nips.cc/paper/by-source-2017-2377
+2017,Fader Networks:Manipulating Images by Sliding Attributes,Guillaume Lample · Neil Zeghidour · Nicolas Usunier · Antoine Bordes · Ludovic DENOYER · Marc'Aurelio Ranzato,http://papers.nips.cc/paper/by-source-2017-3042
+2017,PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs,Yunbo Wang · Mingsheng Long · Jianmin Wang · Zhifeng Gao · Philip S Yu,http://papers.nips.cc/paper/by-source-2017-573
+2017,VAIN: Attentional Multi-agent Predictive Modeling,Yedid Hoshen,http://papers.nips.cc/paper/by-source-2017-1535
+2017,Real Time Image Saliency for Black Box Classifiers,Piotr Dabkowski · Yarin Gal,http://papers.nips.cc/paper/by-source-2017-3492
+2017,Prototypical Networks for Few-shot Learning,Jake Snell · Kevin Swersky · Richard Zemel,http://papers.nips.cc/paper/by-source-2017-2153
+2017,Few-Shot Learning Through an Information Retrieval  Lens,Eleni Triantafillou · Richard Zemel · Raquel Urtasun,http://papers.nips.cc/paper/by-source-2017-1329
+2017,The Reversible Residual Network: Backpropagation Without Storing Activations,Aidan Gomez · Mengye Ren · Raquel Urtasun · Roger Grosse,http://papers.nips.cc/paper/by-source-2017-1321
+2017,Gated Recurrent Convolution Neural Network for OCR,Jianfeng Wang · Xiaolin Hu,http://papers.nips.cc/paper/by-source-2017-253
+2017,Learning Efficient Object Detection Models with Knowledge Distillation,Guobin Chen · Wongun Choi · Xiang Yu · Tony Han · Manmohan Chandraker,http://papers.nips.cc/paper/by-source-2017-483
+2017,"Decoupling ""when to update"" from ""how to update""",Eran Malach · Shai Shalev-Shwartz,http://papers.nips.cc/paper/by-source-2017-615
+2017,Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks,Nanyang Ye · Zhanxing Zhu · Rafal Mantiuk,http://papers.nips.cc/paper/by-source-2017-433
+2017,Differentiable Learning of Logical Rules for Knowledge Base Reasoning,Fan Yang · Zhilin Yang · William Cohen,http://papers.nips.cc/paper/by-source-2017-1347
+2017,Deliberation Networks: Sequence Generation Beyond One-Pass Decoding,Yingce Xia · Fei Tian · Lijun Wu · Jianxin Lin · Tao Qin · Nenghai Yu · Tie-Yan Liu,http://papers.nips.cc/paper/by-source-2017-1120
+2017,Neural Program Meta-Induction,Jacob Devlin · Rudy Bunel · Rishabh Singh · Matthew Hausknecht · Pushmeet Kohli,http://papers.nips.cc/paper/by-source-2017-1255
+2017,Saliency-based Sequential Image Attention with Multiset Prediction,Sean Welleck · Jialin Mao · Kyunghyun Cho · Zheng Zhang,http://papers.nips.cc/paper/by-source-2017-2670
+2017,Protein Interface Prediction using Graph Convolutional Networks,Alex Fout · Jonathon Byrd · Basir Shariat · Asa Ben-Hur,http://papers.nips.cc/paper/by-source-2017-3278
+2017,Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis,Jian Zhao · Lin Xiong · Panasonic Karlekar Jayashree · Jianshu Li · Fang Zhao · Zhecan Wang · Panasonic Sugiri Pranata · Panasonic Shengmei Shen · Shuicheng Yan · Jiashi Feng,http://papers.nips.cc/paper/by-source-2017-70
+2017,Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks,Arash Vahdat,http://papers.nips.cc/paper/by-source-2017-2874
+2017,Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations,Eirikur Agustsson · Fabian Mentzer · Michael Tschannen · Lukas Cavigelli · Radu Timofte · Luca Benini · Luc V Gool,http://papers.nips.cc/paper/by-source-2017-773
+2017,Selective Classification for Deep Neural Networks,Yonatan Geifman · Ran El-Yaniv,http://papers.nips.cc/paper/by-source-2017-2519
+2017,Deep Lattice Networks and Partial Monotonic Functions,Seungil You · David Ding · Kevin Canini · Jan Pfeifer · Maya Gupta,http://papers.nips.cc/paper/by-source-2017-1713
+2017,Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon,Xin Dong · Shangyu Chen · Sinno Pan,http://papers.nips.cc/paper/by-source-2017-2517
+2017,Bayesian Compression for Deep Learning,Christos Louizos · Karen Ullrich · Max Welling,http://papers.nips.cc/paper/by-source-2017-1865
+2017,Lower bounds on the robustness to adversarial perturbations,Jonathan Peck · Joris Roels · Bart Goossens · Yvan Saeys,http://papers.nips.cc/paper/by-source-2017-532
+2017,Sobolev Training for Neural Networks,Wojciech Czarnecki · Simon Osindero · Max Jaderberg · Grzegorz Swirszcz · Razvan Pascanu,http://papers.nips.cc/paper/by-source-2017-2246
+2017,Structured Bayesian Pruning via Log-Normal Multiplicative Noise,Kirill Neklyudov · Dmitry Molchanov · Arsenii Ashukha · Dmitry Vetrov,http://papers.nips.cc/paper/by-source-2017-3407
+2017,Population Matching Discrepancy and Applications in Deep Learning,Jianfei Chen · Chongxuan LI · Yizhong Ru · Jun Zhu,http://papers.nips.cc/paper/by-source-2017-3157
+2017,Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice,Jeffrey Pennington · Samuel Schoenholz · Surya Ganguli,http://papers.nips.cc/paper/by-source-2017-2497
+2017,Robust Imitation of Diverse Behaviors,Ziyu Wang · Josh Merel · Scott Reed · Nando de Freitas · Gregory Wayne · Nicolas Heess,http://papers.nips.cc/paper/by-source-2017-2754
+2017,Question Asking as Program Generation,Anselm Rothe · Brenden Lake · Todd Gureckis,http://papers.nips.cc/paper/by-source-2017-683
+2017,Variational Laws of Visual Attention for Dynamic Scenes,Dario Zanca · Marco Gori,http://papers.nips.cc/paper/by-source-2017-2096
+2017,Flexible statistical inference for mechanistic models of neural dynamics,Jan-Matthis Lueckmann · Pedro Goncalves · Giacomo Bassetto · Kaan Öcal · Marcel Nonnenmacher · Jakob H Macke,http://papers.nips.cc/paper/by-source-2017-855
+2017,Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems,Ingmar Kanitscheider · Ila Fiete,http://papers.nips.cc/paper/by-source-2017-2373
+2017,YASS: Yet Another Spike Sorter,Jin Hyung Lee · David Carlson · Hooshmand Shokri Razaghi · Weichi Yao · Georges A Goetz · Espen Hagen · Eleanor Batty · E.J. Chichilnisky · Gaute T. Einevoll · Liam Paninski,http://papers.nips.cc/paper/by-source-2017-2138
+2017,Neural system identification for large populations separating “what” and “where”,David Klindt · Alexander Ecker · Thomas Euler · Matthias Bethge,http://papers.nips.cc/paper/by-source-2017-1986
+2017,A simple model of recognition and recall memory,Nisheeth Srivastava · Edward Vul,http://papers.nips.cc/paper/by-source-2017-229
+2017,Gaussian process based nonlinear latent structure discovery in multivariate spike train data,Anqi Wu · Nicholas Roy · Stephen Keeley · Jonathan Pillow,http://papers.nips.cc/paper/by-source-2017-1981
+2017,Reconstructing perceived faces from brain activations with deep adversarial neural decoding,Yağmur Güçlütürk · Umut Güçlü · Katja Seeliger · Sander Bosch · Rob van Lier · Marcel A. J. van Gerven,http://papers.nips.cc/paper/by-source-2017-2227
+2017,Cross-Spectral Factor Analysis,Neil Gallagher · Kyle Ulrich · Austin Talbot · Kafui Dzirasa · Lawrence Carin · David Carlson,http://papers.nips.cc/paper/by-source-2017-3435
+2017,Regularized Modal Regression with Applications in Cognitive Impairment Prediction,Xiaoqian Wang · Hong Chen · Weidong Cai · Dinggang Shen · Heng Huang,http://papers.nips.cc/paper/by-source-2017-924
+2017,Stochastic Submodular Maximization: The Case of Coverage Functions,Mohammad Karimi · Mario Lucic · Hamed Hassani · Andreas Krause,http://papers.nips.cc/paper/by-source-2017-3437
+2017,Gradient Methods for Submodular Maximization,Hamed Hassani · Mahdi Soltanolkotabi · Amin Karbasi,http://papers.nips.cc/paper/by-source-2017-2992
+2017,Non-convex Finite-Sum Optimization Via SCSG Methods,Lihua Lei · Cheng Ju · Jianbo Chen · Michael Jordan,http://papers.nips.cc/paper/by-source-2017-1371
+2017,Influence Maximization with $\varepsilon$-Almost Submodular Threshold Functions,Qiang Li · Wei Chen · Institute of Computing Xiaoming Sun · Institute of Computing Jialin Zhang,http://papers.nips.cc/paper/by-source-2017-2094
+2017,Subset Selection under Noise,Chao Qian · Jing-Cheng Shi · Yang Yu · Ke Tang · Zhi-Hua Zhou,http://papers.nips.cc/paper/by-source-2017-2010
+2017,Polynomial time algorithms for dual volume sampling,Chengtao Li · Stefanie Jegelka · Suvrit Sra,http://papers.nips.cc/paper/by-source-2017-2592
+2017,Lookahead  Bayesian Optimization with Inequality Constraints,Remi Lam · Karen Willcox,http://papers.nips.cc/paper/by-source-2017-1177
+2017,Non-monotone Continuous DR-submodular  Maximization: Structure and Algorithms,Yatao Bian · Kfir Levy · Andreas Krause · Joachim M Buhmann,http://papers.nips.cc/paper/by-source-2017-342
+2017,Solving Most Systems of Random Quadratic Equations,Gang Wang · Georgios Giannakis · Yousef Saad · Jie Chen,http://papers.nips.cc/paper/by-source-2017-1172
+2017,Learning ReLUs via Gradient Descent,Mahdi Soltanolkotabi,http://papers.nips.cc/paper/by-source-2017-1233
+2017,Stochastic Mirror Descent in Variationally Coherent Optimization Problems,Zhengyuan Zhou · Panayotis Mertikopoulos · Nicholas Bambos · Stephen Boyd · Peter W Glynn,http://papers.nips.cc/paper/by-source-2017-3547
+2017,Accelerated First-order Methods for Geodesically Convex Optimization on Riemannian Manifolds,Yuanyuan Liu · Fanhua Shang · James Cheng · Hong Cheng · Licheng Jiao,http://papers.nips.cc/paper/by-source-2017-2518
+2017,On the Fine-Grained Complexity of Empirical Risk Minimization: Kernel Methods and Neural Networks,Arturs Backurs · Piotr Indyk · Ludwig Schmidt,http://papers.nips.cc/paper/by-source-2017-2252
+2017,Large-Scale Quadratically Constrained Quadratic Program via Low-Discrepancy Sequences,Kinjal Basu · Ankan Saha · Shaunak Chatterjee,http://papers.nips.cc/paper/by-source-2017-1339
+2017,A New Alternating Direction Method for Linear Programming,Sinong Wang · Ness Shroff,http://papers.nips.cc/paper/by-source-2017-947
+2017,"Dykstra's Algorithm, ADMM, and Coordinate Descent: Connections, Insights, and Extensions",Ryan Tibshirani,http://papers.nips.cc/paper/by-source-2017-366
+2017,Smooth Primal-Dual Coordinate Descent Algorithms for Nonsmooth Convex Optimization,Ahmet Alacaoglu · Quoc Tran Dinh · Olivier Fercoq · Volkan Cevher,http://papers.nips.cc/paper/by-source-2017-2998
+2017,First-Order Adaptive Sample Size Methods to Reduce Complexity of Empirical Risk Minimization,Aryan Mokhtari · Alejandro Ribeiro,http://papers.nips.cc/paper/by-source-2017-1250
+2017,Accelerated consensus via Min-Sum Splitting,Patrick Rebeschini · Sekhar C Tatikonda,http://papers.nips.cc/paper/by-source-2017-890
+2017,Integration Methods and Optimization Algorithms,Damien Scieur · Vincent Roulet · Francis Bach · Alexandre d'Aspremont,http://papers.nips.cc/paper/by-source-2017-758
+2017,Efficient Use of Limited-Memory Accelerators for Linear Learning on Heterogeneous Systems,Celestine Dünner · Thomas Parnell · Martin Jaggi,http://papers.nips.cc/paper/by-source-2017-2233
+2017,A Screening Rule for l1-Regularized Ising Model Estimation,Zhaobin Kuang · Sinong Geng · David Page,http://papers.nips.cc/paper/by-source-2017-477
+2017,Uprooting and Rerooting Higher-Order Graphical Models,Mark Rowland · Adrian Weller,http://papers.nips.cc/paper/by-source-2017-172
+2017,Concentration of Multilinear Functions of the Ising Model with Applications to Network Data,Constantinos Daskalakis · Nishanth Dikkala · Gautam Kamath,http://papers.nips.cc/paper/by-source-2017-26
+2017,Inference in Graphical Models via Semidefinite Programming Hierarchies,Murat Erdogdu · Yash Deshpande · Andrea Montanari,http://papers.nips.cc/paper/by-source-2017-319
+2017,Beyond normality: Learning sparse probabilistic graphical models in the non-Gaussian setting,Rebecca Morrison · Ricardo Baptista · Youssef Marzouk,http://papers.nips.cc/paper/by-source-2017-1380
+2017,Dynamic Importance Sampling for Anytime Bounds of the Partition Function,Qi Lou · Rina Dechter · Alexander Ihler,http://papers.nips.cc/paper/by-source-2017-1807
+2017,Nonbacktracking Bounds on the Influence in Independent Cascade Models,Emmanuel Abbe · Sanjeev Kulkarni · Eun Jee Lee,http://papers.nips.cc/paper/by-source-2017-913
+2017,Rigorous Dynamics and Consistent Estimation in Arbitrarily Conditioned Linear Systems,Alyson Fletcher · Mojtaba Sahraee-Ardakan · Sundeep Rangan · Philip Schniter,http://papers.nips.cc/paper/by-source-2017-1481
+2017,Learning Disentangled Representations with Semi-Supervised Deep Generative Models,Siddharth Narayanaswamy · Brooks Paige · Jan-Willem van de Meent · Alban Desmaison · Noah Goodman · Pushmeet Kohli · Frank Wood · Philip Torr,http://papers.nips.cc/paper/by-source-2017-3021
+2017,Gauging Variational Inference,Sungsoo Ahn · Michael Chertkov · Jinwoo Shin,http://papers.nips.cc/paper/by-source-2017-1647
+2017,Variational Inference via $\chi$ Upper Bound Minimization,Adji Bousso Dieng · Dustin Tran · Rajesh Ranganath · John Paisley · David Blei,http://papers.nips.cc/paper/by-source-2017-1548
+2017,Collapsed variational Bayes for Markov jump processes,Boqian Zhang · Jiangwei Pan · Vinayak Rao,http://papers.nips.cc/paper/by-source-2017-2085
+2017,Bayesian Dyadic Trees and Histograms for  Regression,Stéphanie van der Pas · Veronika Rockova,http://papers.nips.cc/paper/by-source-2017-1269
+2017,Differentially private Bayesian learning on distributed data,Mikko Heikkilä · Eemil Lagerspetz · Samuel Kaski · Kana Shimizu · Sasu Tarkoma · Antti Honkela,http://papers.nips.cc/paper/by-source-2017-1835
+2017,Model-Powered Conditional Independence Test,Rajat Sen · Ananda Theertha Suresh · Karthikeyan Shanmugam · Alexandros Dimakis · Sanjay Shakkottai,http://papers.nips.cc/paper/by-source-2017-1707
+2017,When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness,Chris Russell · Matt Kusner · Joshua Loftus · Ricardo Silva,http://papers.nips.cc/paper/by-source-2017-3209
+2017,Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes,Jianshu Chen · Chong Wang · Lin Xiao · Ji He · Lihong Li · Li Deng,http://papers.nips.cc/paper/by-source-2017-2572
+2017,Probabilistic Models for Integration Error in the Assessment of Functional Cardiac Models,Chris Oates · Steven Niederer · Angela Lee · François-Xavier Briol · Mark Girolami,http://papers.nips.cc/paper/by-source-2017-93
+2017,Expectation Propagation for t-Exponential Family Using q-Algebra,Futoshi Futami · Issei Sato · Masashi Sugiyama,http://papers.nips.cc/paper/by-source-2017-1327
+2017,A Probabilistic Framework for Nonlinearities in Stochastic Neural Networks,Qinliang Su · xuejun Liao · Lawrence Carin,http://papers.nips.cc/paper/by-source-2017-2339
+2017,Clone MCMC: Parallel High-Dimensional Gaussian Gibbs Sampling,Andrei-Cristian Barbos · Francois Caron · Jean-François Giovannelli · Arnaud Doucet,http://papers.nips.cc/paper/by-source-2017-2590
+2017,Learning spatiotemporal piecewise-geodesic trajectories from longitudinal manifold-valued data,Stéphanie ALLASSONNIERE · Juliette Chevallier · Stephane Oudard,http://papers.nips.cc/paper/by-source-2017-774
+2017,Scalable Levy Process Priors for Spectral Kernel Learning,Phillip Jang · Andrew Loeb · Matthew Davidow · Andrew Wilson,http://papers.nips.cc/paper/by-source-2017-2121
+2017,InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations,Yunzhu Li · Jiaming Song · Stefano Ermon,http://papers.nips.cc/paper/by-source-2017-2095
+2017,Hybrid Reward Architecture for Reinforcement Learning,Harm Van Seijen · Mehdi Fatemi · Romain Laroche · Joshua Romoff · Tavian Barnes · Jeffrey Tsang,http://papers.nips.cc/paper/by-source-2017-2792
+2017,Shallow Updates for Deep Reinforcement Learning,Nir Levine · Tom Zahavy · Daniel J Mankowitz · Aviv Tamar · Shie Mannor,http://papers.nips.cc/paper/by-source-2017-1785
+2017,Towards Generalization and Simplicity in Continuous Control,Aravind Rajeswaran · Kendall Lowrey · Emanuel Todorov · Sham Kakade,http://papers.nips.cc/paper/by-source-2017-3286
+2017,Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning,Shixiang (Shane) Gu · Timothy Lillicrap · Richard Turner · Zoubin Ghahramani · Bernhard Schölkopf · Sergey Levine,http://papers.nips.cc/paper/by-source-2017-2098
+2017,Scalable Planning with Tensorflow for Hybrid Nonlinear Domains,Ga Wu · Buser Say · Scott Sanner,http://papers.nips.cc/paper/by-source-2017-3164
+2017,Task-based End-to-end Model Learning in Stochastic Optimization,Priya Donti · J. Zico Kolter · Brandon Amos,http://papers.nips.cc/paper/by-source-2017-2825
+2017,Value Prediction Network,Junhyuk Oh · Satinder Singh · Honglak Lee,http://papers.nips.cc/paper/by-source-2017-3108
+2017,Variable Importance Using Decision Trees,Jalil Kazemitabar · Arash Amini · Adam Bloniarz · Ameet S Talwalkar,http://papers.nips.cc/paper/by-source-2017-322
+2017,The Expressive Power of Neural Networks: A View from the Width,Zhou Lu · Hongming Pu · Feicheng Wang · Zhiqiang Hu · Liwei Wang,http://papers.nips.cc/paper/by-source-2017-3152
+2017,SGD Learns the Conjugate Kernel Class of the Network,Amit Daniely,http://papers.nips.cc/paper/by-source-2017-1424
+2017,Effective Parallelisation for Machine Learning,Michael Kamp · Mario Boley · Olana Missura · Thomas Gärtner,http://papers.nips.cc/paper/by-source-2017-3243
+2017,Noise-Tolerant Interactive Learning Using Pairwise Comparisons,Yichong Xu · Hongyang Zhang · Aarti Singh · Artur Dubrawski · Kyle Miller,http://papers.nips.cc/paper/by-source-2017-1431
+2017,A PAC-Bayesian Analysis of Randomized Learning with Application to Stochastic Gradient Descent,Ben London,http://papers.nips.cc/paper/by-source-2017-1687
+2017,Revisiting Perceptron: Efficient and Label-Optimal Learning of Halfspaces,Songbai Yan · Chicheng Zhang,http://papers.nips.cc/paper/by-source-2017-684
+2017,Sample and Computationally Efficient Learning Algorithms under S-Concave Distributions,Maria-Florina Balcan · Hongyang Zhang,http://papers.nips.cc/paper/by-source-2017-2501
+2017,"Nearest-Neighbor Sample Compression: Efficiency, Consistency, Infinite Dimensions",Aryeh Kontorovich · Sivan Sabato · Roi Weiss,http://papers.nips.cc/paper/by-source-2017-994
+2017,Learning Identifiable Gaussian Bayesian Networks in Polynomial Time and Sample Complexity,Asish Ghoshal · Jean Honorio,http://papers.nips.cc/paper/by-source-2017-3226
+2017,From which world is your graph,Cheng Li · Felix MF Wong · Zhenming Liu · Varun Kanade,http://papers.nips.cc/paper/by-source-2017-942
+2017,Mean Field Residual Networks: On the Edge of Chaos,Ge Yang · Samuel Schoenholz,http://papers.nips.cc/paper/by-source-2017-1642
+2017,Learning from uncertain curves: The 2-Wasserstein metric for Gaussian processes,Anton Mallasto · Aasa Feragen,http://papers.nips.cc/paper/by-source-2017-2891
+2017,On clustering network-valued data,Soumendu Sundar Mukherjee · Purnamrita Sarkar · Lizhen Lin,http://papers.nips.cc/paper/by-source-2017-3550
+2017,On the Power of Truncated SVD for General High-rank Matrix Estimation Problems,Simon Du · Yining Wang · Aarti Singh,http://papers.nips.cc/paper/by-source-2017-325
+2017,AdaGAN: Boosting Generative Models,Ilya Tolstikhin · Sylvain Gelly · Olivier Bousquet · Carl-Johann SIMON-GABRIEL · Bernhard Schölkopf,http://papers.nips.cc/paper/by-source-2017-2808
+2017,Discovering Potential Correlations via Hypercontractivity,Hyeji Kim · Weihao Gao · Sreeram Kannan · Sewoong Oh · Pramod Viswanath,http://papers.nips.cc/paper/by-source-2017-2396
+2017,Phase Transitions in the Pooled Data Problem,Jonathan Scarlett · Volkan Cevher,http://papers.nips.cc/paper/by-source-2017-292
+2017,Coded Distributed Computing for Inverse Problems,Yaoqing Yang · Pulkit Grover · Soummya Kar,http://papers.nips.cc/paper/by-source-2017-475
+2017,Query Complexity of Clustering with Side Information,Arya Mazumdar · Barna Saha,http://papers.nips.cc/paper/by-source-2017-2454
+2017,Revisit Fuzzy Neural Network: Demystifying Batch Normalization and ReLU with Generalized Hamming Network,Lixin Fan,http://papers.nips.cc/paper/by-source-2017-1193
+2017,Optimistic posterior sampling for reinforcement learning: worst-case regret bounds,Shipra Agrawal · Randy Jia,http://papers.nips.cc/paper/by-source-2017-787
+2017,A framework for Multi-A(rmed)/B(andit) Testing with Online FDR Control,Fanny Yang · Aaditya Ramdas · Kevin Jamieson · Martin Wainwright,http://papers.nips.cc/paper/by-source-2017-3039
+2017,Monte-Carlo Tree Search by Best Arm Identification,Emilie Kaufmann · Wouter Koolen,http://papers.nips.cc/paper/by-source-2017-2523
+2017,Minimal Exploration in Structured Stochastic Bandits,Richard Combes · Stefan Magureanu · Alexandre Proutiere,http://papers.nips.cc/paper/by-source-2017-1115
+2017,Regret Analysis for Continuous Dueling Bandit,Wataru Kumagai,http://papers.nips.cc/paper/by-source-2017-948
+2017,Elementary Symmetric Polynomials for Optimal Experimental Design,Zelda Mariet · Suvrit Sra,http://papers.nips.cc/paper/by-source-2017-1282
+2017,Learning Linear Dynamical Systems via Spectral Filtering,Elad Hazan · Karan Singh · Cyril Zhang,http://papers.nips.cc/paper/by-source-2017-3368
+2017,Efficient and Flexible Inference for Stochastic Systems,Stefan Bauer · Nico S Gorbach · Djordje Miladinovic · Joachim M Buhmann,http://papers.nips.cc/paper/by-source-2017-3506
+2017,Group Sparse Additive Machine,Hong Chen · Xiaoqian Wang · Cheng Deng · Heng Huang,http://papers.nips.cc/paper/by-source-2017-166
+2017,Bregman Divergence for Stochastic Variance Reduction: Saddle-Point and Adversarial Prediction,Zhan Shi · Xinhua Zhang · Yaoliang Yu,http://papers.nips.cc/paper/by-source-2017-3076
+2017,Online multiclass boosting,Young H Jung · Jack Goetz · Ambuj Tewari,http://papers.nips.cc/paper/by-source-2017-590
+2017,Universal consistency and minimax rates for online Mondrian Forests,Jaouad Mourtada · Stéphane Gaïffas · Erwan Scornet,http://papers.nips.cc/paper/by-source-2017-2086
+2017,Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results,Antti Tarvainen · Harri Valpola,http://papers.nips.cc/paper/by-source-2017-789
+2017,Learning from Complementary Labels,Takashi Ishida · Gang Niu · Weihua Hu · Masashi Sugiyama,http://papers.nips.cc/paper/by-source-2017-2887
+2017,Positive-Unlabeled Learning with Non-Negative Risk Estimator,Ryuichi Kiryo · Gang Niu · Marthinus C du Plessis · Masashi Sugiyama,http://papers.nips.cc/paper/by-source-2017-1048
+2017,"Semisupervised Clustering, AND-Queries and Locally Encodable Source Coding",Arya Mazumdar · Soumyabrata Pal,http://papers.nips.cc/paper/by-source-2017-3256
+2017,A Learning Error Analysis for Structured Prediction with Approximate Inference,Yuanbin Wu · Man Lan · Shiliang Sun · Qi Zhang · Xuanjing Huang,http://papers.nips.cc/paper/by-source-2017-3110
+2017,On Optimal Generalizability in Parametric Learning,Ahmad Beirami · Meisam Razaviyayn · Shahin Shahrampour · Vahid Tarokh,http://papers.nips.cc/paper/by-source-2017-1967
+2017,Multi-Objective Non-parametric Sequential Prediction,Guy Uziel · Ran El-Yaniv,http://papers.nips.cc/paper/by-source-2017-1915
+2017,Fixed-Rank Approximation of a Positive-Semidefinite Matrix from Streaming Data,Joel A Tropp · Alp Yurtsever · Madeleine Udell · Volkan Cevher,http://papers.nips.cc/paper/by-source-2017-821
+2017,QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding,Dan Alistarh · Demjan Grubic · Jerry Li · Ryota Tomioka · Milan Vojnovic,http://papers.nips.cc/paper/by-source-2017-1063
+2017,Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent,Peva Blanchard · El Mahdi El Mhamdi · Rachid Guerraoui · Julien Stainer,http://papers.nips.cc/paper/by-source-2017-94
+2017,Ranking Data with Continuous Labels through Oriented Recursive Partitions,Stéphan Clémençon · Mastane Achab,http://papers.nips.cc/paper/by-source-2017-2407
+2017,Practical Data-Dependent Metric Compression with Provable Guarantees,Piotr Indyk · Ilya Razenshteyn · Tal Wagner,http://papers.nips.cc/paper/by-source-2017-1504
+2017,Simple strategies for recovering inner products from coarsely quantized random projections,Ping Li · Martin Slawski,http://papers.nips.cc/paper/by-source-2017-2384
+2017,Clustering Stable Instances of Euclidean k-means.,Aravindan Vijayaraghavan · Abhratanu Dutta · Alex Wang,http://papers.nips.cc/paper/by-source-2017-3260
+2017,Affinity Clustering: Hierarchical Clustering at Scale,Mohammadhossein Bateni · Soheil Behnezhad · Mahsa Derakhshan · MohammadTaghi Hajiaghayi · Raimondas Kiveris · Silvio Lattanzi · Vahab Mirrokni,http://papers.nips.cc/paper/by-source-2017-3447
+2017,Sparse Embedded $k$-Means Clustering,Weiwei Liu · Xiaobo Shen · Ivor Tsang,http://papers.nips.cc/paper/by-source-2017-1880
+2017,K-Medoids For K-Means Seeding,James Newling · François Fleuret,http://papers.nips.cc/paper/by-source-2017-2674
+2017,"Approximation Bounds for Hierarchical Clustering: Average Linkage, Bisecting K-means, and Local Search",Benjamin Moseley · Joshua Wang,http://papers.nips.cc/paper/by-source-2017-1755
+2017,Inhomogeneous Hypergraph Clustering with Applications,Pan Li · Olgica Milenkovic,http://papers.nips.cc/paper/by-source-2017-1344
+2017,Subspace Clustering via Tangent Cones,Amin Jalali · Rebecca Willett,http://papers.nips.cc/paper/by-source-2017-3391
+2017,Tensor Biclustering,Soheil Feizi · Hamid Javadi · David Tse,http://papers.nips.cc/paper/by-source-2017-867
+2017,A Unified Approach to Interpreting Model Predictions,Scott M Lundberg · Su-In Lee,http://papers.nips.cc/paper/by-source-2017-2493
+2017,Efficient Sublinear-Regret Algorithms for Online Sparse Linear Regression with Limited Observation,Shinji Ito · Daisuke Hatano · Hanna Sumita · Akihiro Yabe · Takuro Fukunaga · Naonori Kakimura · Ken-Ichi Kawarabayashi,http://papers.nips.cc/paper/by-source-2017-2163
+2017,Unbiased estimates for linear regression via volume sampling,Michal Derezinski · Manfred K. Warmuth,http://papers.nips.cc/paper/by-source-2017-1748
+2017,"On Separability of Loss Functions, and Revisiting Discriminative Vs Generative Models",Adarsh Prasad · Alexandru Niculescu-Mizil · Pradeep Ravikumar,http://papers.nips.cc/paper/by-source-2017-3548
+2017,Generalized Linear Model Regression under Distance-to-set Penalties,Jason Xu · Eric Chi · Kenneth Lange,http://papers.nips.cc/paper/by-source-2017-896
+2017,Group Additive Structure Identification for Kernel Nonparametric Regression,Chao Pan · Michael Zhu,http://papers.nips.cc/paper/by-source-2017-2539
+2017,Learning Overcomplete HMMs,Vatsal Sharan · Sham Kakade · Percy Liang · Gregory Valiant,http://papers.nips.cc/paper/by-source-2017-598
+2017,Matrix Norm Estimation from a Few Entries,Ashish Khetan · Sewoong Oh,http://papers.nips.cc/paper/by-source-2017-3214
+2017,Optimal Shrinkage of Singular Values Under Random Data Contamination,Danny Barash · Matan Gavish,http://papers.nips.cc/paper/by-source-2017-3120
+2017,A New Theory for Matrix Completion,Guangcan Liu · Qingshan Liu · Xiaotong Yuan,http://papers.nips.cc/paper/by-source-2017-521
+2017,Learning Low-Dimensional Metrics,Blake Mason · Lalit Jain · Robert Nowak,http://papers.nips.cc/paper/by-source-2017-2185
+2017,Alternating minimization for dictionary learning with random initialization,Niladri Chatterji · Peter Bartlett,http://papers.nips.cc/paper/by-source-2017-1226
+2017,Consistent Robust Regression,Kush Bhatia · Prateek Jain · Parameswaran Kamalaruban · Purushottam Kar,http://papers.nips.cc/paper/by-source-2017-1274
+2017,Partial Hard Thresholding: Towards A Principled Analysis of Support Recovery,Jie Shen · Ping Li,http://papers.nips.cc/paper/by-source-2017-1782
+2017,Minimax Estimation of Bandable Precision Matrices,Addison Hu · Sahand Negahban,http://papers.nips.cc/paper/by-source-2017-2520
+2017,Diffusion Approximations for Online Principal Component Estimation and Global Convergence,Chris Junchi Li · Mengdi Wang · Tong Zhang,http://papers.nips.cc/paper/by-source-2017-443
+2017,Estimation of the covariance structure of heavy-tailed distributions,Xiaohan Wei · Stanislav Minsker,http://papers.nips.cc/paper/by-source-2017-1641
+2017,Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition,Naoya Takeishi · Yoshinobu Kawahara · Takehisa Yairi,http://papers.nips.cc/paper/by-source-2017-768
+2017,Stochastic Approximation for Canonical Correlation Analysis,Raman Arora · Teodor Vanislavov Marinov · Poorya Mianjy · Nati Srebro,http://papers.nips.cc/paper/by-source-2017-2494
+2017,Diving into the shallows: a computational perspective on large-scale shallow learning,SIYUAN MA · Mikhail Belkin,http://papers.nips.cc/paper/by-source-2017-2089
+2017,The Unreasonable Effectiveness of Structured Random Orthogonal Embeddings,Krzysztof Choromanski · Mark Rowland · Adrian Weller,http://papers.nips.cc/paper/by-source-2017-174
+2017,Generalization Properties of Learning with Random Features,Alessandro Rudi · Lorenzo Rosasco,http://papers.nips.cc/paper/by-source-2017-1832
+2017,Gaussian Quadrature for Kernel Features,Tri Dao · Christopher M De Sa · Christopher Ré,http://papers.nips.cc/paper/by-source-2017-3101
+2017,A Linear-Time Kernel Goodness-of-Fit Test,Wittawat Jitkrittum · Wenkai Xu · Zoltan Szabo · Kenji Fukumizu · Arthur Gretton,http://papers.nips.cc/paper/by-source-2017-213
+2017,Convergence rates of a partition based Bayesian multivariate density estimation method,Linxi Liu · Dangna Li · Wing Hung Wong,http://papers.nips.cc/paper/by-source-2017-2482
+2017,The power of absolute discounting: all-dimensional distribution estimation,Moein Falahatgar · Mesrob Ohannessian · Alon Orlitsky · Venkatadheeraj Pichapati,http://papers.nips.cc/paper/by-source-2017-3334
+2017,Learning Populations of Parameters,Kevin Tian · Weihao Kong · Gregory Valiant,http://papers.nips.cc/paper/by-source-2017-2950
+2017,Communication-Efficient Distributed Learning of Discrete Distributions,Ilias Diakonikolas · Elena Grigorescu · Jerry Li · Abhiram Natarajan · Krzysztof Onak · Ludwig Schmidt,http://papers.nips.cc/paper/by-source-2017-3202
+2017,Improved Dynamic Regret for Non-degenerate Functions,Lijun Zhang · Tianbao Yang · Jinfeng Yi · Rong Jin · Zhi-Hua Zhou,http://papers.nips.cc/paper/by-source-2017-478
+2017,Parameter-Free Online Learning via Model Selection,Dylan J Foster · Satyen Kale · Mehryar Mohri · Karthik Sridharan,http://papers.nips.cc/paper/by-source-2017-3075
+2017,Fast Rates for Bandit Optimization with Upper-Confidence Frank-Wolfe,Quentin Berthet · Vianney Perchet,http://papers.nips.cc/paper/by-source-2017-1322
+2017,Online Learning with Transductive Regret,Scott Yang · Mehryar Mohri,http://papers.nips.cc/paper/by-source-2017-2683
+2017,Multi-Armed Bandits with Metric Movement Costs,Tomer Koren · Roi Livni · Yishay Mansour,http://papers.nips.cc/paper/by-source-2017-2169
+2017,Differentially Private Empirical Risk Minimization Revisited: Faster and More General,Di Wang · Minwei Ye · Jinhui Xu,http://papers.nips.cc/paper/by-source-2017-1544
+2017,Certified Defenses for Data Poisoning Attacks,Jacob Steinhardt · Pang Wei Koh · Percy Liang,http://papers.nips.cc/paper/by-source-2017-1988
+2017,Sparse Approximate Conic Hulls,Greg Van Buskirk · Benjamin Raichel · Nicholas Ruozzi,http://papers.nips.cc/paper/by-source-2017-1466
+2017,On Tensor Train Rank Minimization : Statistical Efficiency and Scalable Algorithm,Masaaki Imaizumi · Takanori Maehara · Kohei Hayashi,http://papers.nips.cc/paper/by-source-2017-2119
+2017,Sparse convolutional coding for neuronal assembly detection,Sven Peter · Elke Kirschbaum · Martin Both · Lee Campbell · Brandon Harvey · Conor Heins · Daniel Durstewitz · Ferran Diego · Fred Hamprecht,http://papers.nips.cc/paper/by-source-2017-2050
+2017,Estimating High-dimensional Non-Gaussian Multiple Index Models via Stein’s Lemma,Zhuoran Yang · Krishnakumar Balasubramanian · Zhaoran Wang · Han Liu,http://papers.nips.cc/paper/by-source-2017-3095
+2017,Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities,Michael Eickenberg · Georgios Exarchakis · Matthew Hirn · Stephane Mallat,http://papers.nips.cc/paper/by-source-2017-3285
+2017,Clustering Billions of Reads for DNA Data Storage,Cyrus Rashtchian · Konstantin Makarychev · Miklos Racz · Siena Ang · Djordje Jevdjic · Sergey Yekhanin · Luis Ceze · Karin Strauss,http://papers.nips.cc/paper/by-source-2017-1910
+2017,Deep Recurrent Neural Network-Based Identification of Precursor microRNAs,Seunghyun Park · Seonwoo Min · Hyun-Soo Choi · Sungroh Yoon,http://papers.nips.cc/paper/by-source-2017-1662
+2017,Decoding with Value Networks for Neural Machine Translation,Di He · Hanqing Lu · Yingce Xia · Tao Qin · Liwei Wang · Tie-Yan Liu,http://papers.nips.cc/paper/by-source-2017-145
+2017,Learned in Translation: Contextualized Word Vectors,Bryan McCann · James Bradbury · Caiming Xiong · Richard Socher,http://papers.nips.cc/paper/by-source-2017-3167
+2017,Deep Voice 2: Multi-Speaker Neural Text-to-Speech,Andrew Gibiansky · Sercan Arik · Gregory Diamos · John Miller · Kainan Peng · Wei Ping · Jonathan Raiman · Yanqi Zhou,http://papers.nips.cc/paper/by-source-2017-1708
+2017,Modulating early visual processing by language,Harm de Vries · Florian Strub · Jeremie Mary · Hugo Larochelle · Olivier Pietquin · Aaron Courville,http://papers.nips.cc/paper/by-source-2017-3302
+2017,Multimodal Learning and Reasoning for Visual Question Answering,Ilija Ilievski · Jiashi Feng,http://papers.nips.cc/paper/by-source-2017-375
+2017,Learning to Model the Tail,Yu-Xiong Wang · Deva Ramanan · Martial Hebert,http://papers.nips.cc/paper/by-source-2017-3544
+2017,Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts,Raymond Yeh · Jinjun Xiong · Wen-Mei Hwu · Minh Do · Alexander Schwing,http://papers.nips.cc/paper/by-source-2017-1192
+2017,Multiscale Quantization for Fast Similarity Search,Xiang Wu · Ruiqi Guo · Ananda Theertha Suresh · Sanjiv Kumar · Daniel Holtmann-Rice · David Simcha · Felix Yu,http://papers.nips.cc/paper/by-source-2017-2935
+2017,MaskRNN: Instance Level Video Object Segmentation,Yuan-Ting Hu · Jia-Bin Huang · Alexander Schwing,http://papers.nips.cc/paper/by-source-2017-250
+2017,Learning Spherical Convolution for Fast Features from 360° Imagery,Yu-Chuan Su · Kristen Grauman,http://papers.nips.cc/paper/by-source-2017-369
+2017,Deep Mean-Shift Priors for Image Restoration,Siavash Arjomand Bigdeli · Matthias Zwicker · Paolo Favaro · Meiguang Jin,http://papers.nips.cc/paper/by-source-2017-517
+2017,Pixels to Graphs by Associative Embedding,Alejandro Newell · Jia Deng,http://papers.nips.cc/paper/by-source-2017-1294
+2017,MarrNet: 3D Shape Reconstruction via 2.5D Sketches,Jiajun Wu · Yifan Wang · Tianfan Xue · Xingyuan Sun · Bill Freeman · Josh Tenenbaum,http://papers.nips.cc/paper/by-source-2017-374
+2017,Temporal Coherency based Criteria for Predicting Video Frames using Deep Multi-stage Generative Adversarial Networks,Prateep Bhattacharjee · Sukhendu Das,http://papers.nips.cc/paper/by-source-2017-2237
+2017,Self-Supervised Intrinsic Image Decomposition,Michael Janner · Jiajun Wu · Tejas Kulkarni · Ilker Yildirim · Josh Tenenbaum,http://papers.nips.cc/paper/by-source-2017-3022
+2017,Unsupervised learning of object frames by dense equivariant image labelling,James Thewlis · Hakan Bilen · Andrea Vedaldi,http://papers.nips.cc/paper/by-source-2017-565
+2017,One-Sided Unsupervised Domain Mapping,Sagie Benaim · Lior Wolf,http://papers.nips.cc/paper/by-source-2017-514
+2017,Contrastive Learning for Image Captioning,Bo Dai · Dahua Lin,http://papers.nips.cc/paper/by-source-2017-582
+2017,Dynamic Routing Between Capsules,Sara Sabour · Nicholas Frosst · Geoffrey E Hinton,http://papers.nips.cc/paper/by-source-2017-2100
+2017,What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?,Alex Kendall · Yarin Gal,http://papers.nips.cc/paper/by-source-2017-2871
+2017,Efficient Optimization for Linear Dynamical Systems with Applications to Clustering and Sparse Coding,Wenbing Huang · Mehrtash Harandi · Tong Zhang · Lijie Fan · Fuchun Sun · Junzhou Huang,http://papers.nips.cc/paper/by-source-2017-1956
+2017,Label Distribution Learning Forests,Wei Shen · KAI ZHAO · Yilu Guo · Alan Yuille,http://papers.nips.cc/paper/by-source-2017-557
+2017,Graph Matching via Multiplicative Update Algorithm,Bo Jiang · Jin Tang · Chris Ding · Yihong Gong · Bin Luo,http://papers.nips.cc/paper/by-source-2017-1806
+2017,Training Quantized Nets: A Deeper Understanding,Hao Li · Soham De · Zheng Xu · Christoph Studer · Hanan Samet · Tom Goldstein,http://papers.nips.cc/paper/by-source-2017-2965
+2017,An inner-loop free solution to inverse problems using deep neural networks,Kai Fan · Qi Wei · Lawrence Carin · Katherine Heller,http://papers.nips.cc/paper/by-source-2017-1394
+2017,Towards Accurate Binary Convolutional Neural Network,Xiaofan Lin · Cong Zhao · Wei Pan,http://papers.nips.cc/paper/by-source-2017-261
+2017,Runtime Neural Pruning,Ji Lin · Yongming Rao · Jiwen Lu · Jie Zhou,http://papers.nips.cc/paper/by-source-2017-1298
+2017,Structured Embedding Models for Grouped Data,Maja Rudolph · Francisco Ruiz · Susan Athey · David Blei,http://papers.nips.cc/paper/by-source-2017-193
+2017,Poincaré Embeddings for Learning Hierarchical Representations,Maximillian Nickel · Douwe Kiela,http://papers.nips.cc/paper/by-source-2017-3176
+2017,Language Modeling with Recurrent Highway Hypernetworks,Joseph Suarez,http://papers.nips.cc/paper/by-source-2017-1861
+2017,Preventing Gradient Explosions in Gated Recurrent Units,Sekitoshi Kanai · Yasuhiro Fujiwara · Sotetsu Iwamura,http://papers.nips.cc/paper/by-source-2017-324
+2017,"Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning",Zhen He · Shaobing Gao · Liang Xiao · Daxue Liu · Hangen He · David Barber,http://papers.nips.cc/paper/by-source-2017-17
+2017,Fast-Slow Recurrent Neural Networks,Asier Mujika · Florian Meier · Angelika Steger,http://papers.nips.cc/paper/by-source-2017-3020
+2017,Cold-Start Reinforcement Learning with Softmax Policy Gradient,Nan Ding · Radu Soricut,http://papers.nips.cc/paper/by-source-2017-1608
+2017,Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model,Xingjian Shi · Zhihan Gao · Leonard Lausen · Hao Wang · Dit-Yan Yeung · Wai-kin Wong · Wang-chun WOO,http://papers.nips.cc/paper/by-source-2017-2878
+2017,Recurrent Ladder Networks,Isabeau Prémont-Schwarz · Alexander Ilin · Tele Hao · Antti Rasmus · Rinu Boney · Harri Valpola,http://papers.nips.cc/paper/by-source-2017-3060
+2017,Predictive-State Decoders: Encoding the Future into Recurrent Networks,Arun Venkatraman · Nicholas Rhinehart · Wen Sun · Lerrel Pinto · Martial Hebert · Byron Boots · Kris Kitani · J. Bagnell,http://papers.nips.cc/paper/by-source-2017-786
+2017,QMDP-Net: Deep Learning for Planning under Partial Observability,Peter Karkus · David Hsu · Wee Sun Lee,http://papers.nips.cc/paper/by-source-2017-2460
+2017,Filtering Variational Objectives,Chris Maddison · John Lawson · George Tucker · Nicolas Heess · Mohammad Norouzi · Andriy Mnih · Arnaud Doucet · Yee Teh,http://papers.nips.cc/paper/by-source-2017-3298
+2017,Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data,Wei-Ning Hsu · Yu Zhang · James Glass,http://papers.nips.cc/paper/by-source-2017-1173
+2017,Neural Discrete Representation Learning,Aaron van den Oord · Oriol Vinyals · koray kavukcuoglu,http://papers.nips.cc/paper/by-source-2017-3169
+2017,Variational Memory Addressing in Generative Models,Jörg Bornschein · Andriy Mnih · Daniel Zoran · Danilo Jimenez Rezende,http://papers.nips.cc/paper/by-source-2017-2117
+2017,Cortical microcircuits as gated-recurrent neural networks,Rui Costa · Yannis Assael · Brendan Shillingford · Nando de Freitas · TIm Vogels,http://papers.nips.cc/paper/by-source-2017-None
+2017,Continual Learning with Deep Generative Replay,Hanul Shin · Jung Kwon Lee · Jaehong Kim · Jiwon Kim,http://papers.nips.cc/paper/by-source-2017-1715
+2017,Hierarchical Attentive Recurrent Tracking,Adam Kosiorek · Alex Bewley · Ingmar Posner,http://papers.nips.cc/paper/by-source-2017-1739
+2017,VAE Learning via Stein Variational Gradient Descent,Yuchen Pu · Zhe Gan · Ricardo Henao · Chunyuan Li · Shaobo Han · Lawrence Carin,http://papers.nips.cc/paper/by-source-2017-2225
+2017,Learning to Inpaint for Image Compression,Mohammad Haris Baig · Vladlen Koltun · Lorenzo Torresani,http://papers.nips.cc/paper/by-source-2017-833
+2017,Visual Interaction Networks: Learning a Physics Simulator from Video,Nicholas Watters · Daniel Zoran · Theophane Weber · Peter Battaglia · Razvan Pascanu · Andrea Tacchetti,http://papers.nips.cc/paper/by-source-2017-2374
+2017,NeuralFDR: Learning Discovery Thresholds from Hypothesis Features,Fei Xia · Martin J Zhang · James Zou · David Tse,http://papers.nips.cc/paper/by-source-2017-982
+2017,Eigen-Distortions of Hierarchical Representations,Alexander Berardino · Valero Laparra · Johannes Ballé · Eero Simoncelli,http://papers.nips.cc/paper/by-source-2017-1993
+2017,On-the-fly Operation Batching in Dynamic Computation Graphs,Graham Neubig · Yoav Goldberg · Chris Dyer,http://papers.nips.cc/paper/by-source-2017-2133
+2017,Learning Affinity via Spatial Propagation Networks,Sifei Liu · Shalini De Mello · Jinwei Gu · Guangyu Zhong · Ming-Hsuan Yang · Jan Kautz,http://papers.nips.cc/paper/by-source-2017-972
+2017,Few-Shot Adversarial Domain Adaptation,Saeid Motiian · Quinn Jones · Seyed Iranmanesh · Gianfranco Doretto,http://papers.nips.cc/paper/by-source-2017-3343
+2017,Deep Hyperspherical Learning,Weiyang Liu · Yan-Ming Zhang · Xingguo Li · Zhiding Yu · Bo Dai · Tuo Zhao · Le Song,http://papers.nips.cc/paper/by-source-2017-2127
+2017,Riemannian approach to batch normalization,Minhyung Cho · Jaehyung Lee,http://papers.nips.cc/paper/by-source-2017-2686
+2017,Training Deep Networks without Learning Rates Through Coin Betting,Francesco Orabona · Tatiana Tommasi,http://papers.nips.cc/paper/by-source-2017-1293
+2017,Convergent Block Coordinate Descent for Training Tikhonov Regularized Deep Neural Networks,Ziming Zhang · Matthew Brand,http://papers.nips.cc/paper/by-source-2017-1092
+2017,Collaborative Deep Learning in Fixed Topology Networks,Zhanhong Jiang · Aditya Balu · Chinmay Hegde · Soumik Sarkar,http://papers.nips.cc/paper/by-source-2017-3019
+2017,How regularization affects the critical points in linear networks,Amirhossein Taghvaei · Jin W Kim · Prashant Mehta,http://papers.nips.cc/paper/by-source-2017-1459
+2017,Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network,Wengong Jin · Connor Coley · Regina Barzilay · Tommi Jaakkola,http://papers.nips.cc/paper/by-source-2017-1498
+2017,Predicting Scene Parsing and Motion Dynamics in the Future,Xiaojie Jin · Huaxin Xiao · Xiaohui Shen · Jimei Yang · Zhe Lin · Yunpeng Chen · Zequn Jie · Jiashi Feng · Shuicheng Yan,http://papers.nips.cc/paper/by-source-2017-3470
+2017,Houdini: Fooling Deep Structured Visual and Speech Recognition Models with Adversarial Examples,Moustapha Cisse · Yossi Adi · Natalia Neverova · Joseph Keshet,http://papers.nips.cc/paper/by-source-2017-3501
+2017,Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks,Federico Monti · Michael Bronstein · Xavier Bresson,http://papers.nips.cc/paper/by-source-2017-2059
+2017,Compression-aware Training of Deep Networks,Jose Alvarez · Mathieu Salzmann,http://papers.nips.cc/paper/by-source-2017-566
+2017,Non-parametric Structured Output Networks,Andreas Lehrmann · Leonid Sigal,http://papers.nips.cc/paper/by-source-2017-2223
+2017,GibbsNet: Iterative Adversarial Inference for Deep Graphical Models,Alex Lamb · R Devon Hjelm · Yaroslav Ganin · Joseph Paul Cohen · Aaron Courville · Yoshua Bengio,http://papers.nips.cc/paper/by-source-2017-2649
+2017,Exploring Generalization in Deep Learning,Behnam Neyshabur · Srinadh Bhojanapalli · David Mcallester · Nati Srebro,http://papers.nips.cc/paper/by-source-2017-3037
+2017,Regularizing Deep Neural Networks by Noise: Its Interpretation and Optimization,Hyeonwoo Noh · Tackgeun You · Jonghwan Mun · Bohyung Han,http://papers.nips.cc/paper/by-source-2017-2653
+2017,Extracting low-dimensional dynamics from multiple large-scale neural population recordings by learning to predict correlations,Marcel Nonnenmacher · Srinivas C Turaga · Jakob H Macke,http://papers.nips.cc/paper/by-source-2017-2907
+2017,Adaptive stimulus selection for optimizing neural population responses,Benjamin Cowley · Ryan Williamson · Katerina Clemens · Matthew Smith · Byron M Yu,http://papers.nips.cc/paper/by-source-2017-901
+2017,OnACID: Online Analysis of Calcium Imaging Data in Real Time,Andrea Giovannucci · Johannes Friedrich · Matt Kaufman · Anne Churchland · Dmitri Chklovskii · Liam Paninski · Eftychios Pnevmatikakis,http://papers.nips.cc/paper/by-source-2017-1403
+2017,Detrended Partial Cross Correlation for Brain Connectivity Analysis,Jaime Ide · Fábio Cappabianco · Fabio Faria · Chiang-shan R Li,http://papers.nips.cc/paper/by-source-2017-575
+2017,Practical Bayesian Optimization for Model Fitting with Bayesian Adaptive Direct Search,Luigi Acerbi · Wei Ji,http://papers.nips.cc/paper/by-source-2017-1148
+2017,An Error Detection and Correction Framework for Connectomics,Jonathan Zung · Ignacio Tartavull · Kisuk Lee · H. Sebastian Seung,http://papers.nips.cc/paper/by-source-2017-3428
+2017,GP CaKe: Effective brain connectivity with causal kernels,Luca Ambrogioni · Max Hinne · Marcel Van Gerven · Eric Maris,http://papers.nips.cc/paper/by-source-2017-604
+2017,Learning Neural Representations of Human Cognition across Many fMRI Studies,Arthur Mensch · Julien Mairal · Danilo Bzdok · Bertrand Thirion · Gael Varoquaux,http://papers.nips.cc/paper/by-source-2017-3001
+2017,Mapping distinct timescales of functional interactions among brain networks,Mali Sundaresan · Arshed Nabeel · Devarajan Sridharan,http://papers.nips.cc/paper/by-source-2017-2165
+2017,Robust Estimation of Neural Signals in Calcium Imaging,Hakan Inan · Murat Erdogdu · Mark Schnitzer,http://papers.nips.cc/paper/by-source-2017-1663
+2017,Learning the Morphology of Brain Signals Using Alpha-Stable Convolutional Sparse Coding,Mainak Jas · Tom Dupré la Tour · Umut Simsekli · Alexandre Gramfort,http://papers.nips.cc/paper/by-source-2017-753
+2017,Streaming Weak Submodularity: Interpreting Neural Networks on the Fly,Ethan Elenberg · Alexandros Dimakis · Moran Feldman · Amin Karbasi,http://papers.nips.cc/paper/by-source-2017-2145
+2017,Decomposable Submodular Function Minimization: Discrete and Continuous,Alina Ene · Huy Nguyen · László A. Végh,http://papers.nips.cc/paper/by-source-2017-1645
+2017,Differentiable Learning of Submodular Functions,Josip Djolonga · Andreas Krause,http://papers.nips.cc/paper/by-source-2017-668
+2017,Robust Optimization for Non-Convex Objectives,Robert S Chen · Brendan Lucier · Yaron Singer · Vasilis Syrgkanis,http://papers.nips.cc/paper/by-source-2017-2462
+2017,On the Optimization Landscape of Tensor Decompositions,Rong Ge · Tengyu Ma,http://papers.nips.cc/paper/by-source-2017-2039
+2017,Gradient Descent Can Take Exponential Time to Escape Saddle Points,Simon Du · Chi Jin · Jason D Lee · Michael Jordan · Aarti Singh · Barnabas Poczos,http://papers.nips.cc/paper/by-source-2017-688
+2017,Convolutional Phase Retrieval,Qing Qu · Yuqian Zhang · Yonina Eldar · John Wright,http://papers.nips.cc/paper/by-source-2017-3092
+2017,Implicit Regularization in Matrix Factorization,Suriya Gunasekar · Blake Woodworth · Srinadh Bhojanapalli · Behnam Neyshabur · Nati Srebro,http://papers.nips.cc/paper/by-source-2017-3116
+2017,Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration,Jason Altschuler · Jonathan Niles-Weed · Philippe Rigollet,http://papers.nips.cc/paper/by-source-2017-1203
+2017,On Frank-Wolfe and Equilibrium Computation,Jacob D Abernethy · Jun-Kun Wang,http://papers.nips.cc/paper/by-source-2017-3299
+2017,Greedy Algorithms for Cone Constrained Optimization with Convergence Guarantees,Francesco Locatello · Michael Tschannen · Gunnar Raetsch · Martin Jaggi,http://papers.nips.cc/paper/by-source-2017-519
+2017,When Cyclic Coordinate Descent Outperforms Randomized Coordinate Descent,Mert Gurbuzbalaban · Asuman Ozdaglar · Pablo A Parrilo · Nuri Vanli,http://papers.nips.cc/paper/by-source-2017-3507
+2017,Linear Convergence of a Frank-Wolfe Type Algorithm over Trace-Norm Balls,Zeyuan Allen-Zhu · Elad Hazan · Wei Hu · Yuanzhi Li,http://papers.nips.cc/paper/by-source-2017-3135
+2017,"Adaptive Accelerated Gradient Converging Method under H\""{o}lderian Error Bound Condition",Mingrui Liu · Tianbao Yang,http://papers.nips.cc/paper/by-source-2017-1758
+2017,Adaptive SVRG Methods under Error Bound Conditions with Unknown Growth Parameter,Yi Xu · Qihang Lin · Tianbao Yang,http://papers.nips.cc/paper/by-source-2017-1863
+2017,Geometric Descent Method for Convex Composite Minimization,Shixiang Chen · Shiqian Ma · Wei Liu,http://papers.nips.cc/paper/by-source-2017-440
+2017,Faster and Non-ergodic O(1/K) Stochastic Alternating Direction Method of Multipliers,Cong Fang · Feng Cheng · Zhouchen Lin,http://papers.nips.cc/paper/by-source-2017-2334
+2017,Doubly Accelerated Stochastic Variance Reduced Dual Averaging Method for Regularized Empirical Risk Minimization,Tomoya Murata · Taiji Suzuki,http://papers.nips.cc/paper/by-source-2017-429
+2017,Limitations on Variance-Reduction and Acceleration Schemes for Finite Sums Optimization,Yossi Arjevani,http://papers.nips.cc/paper/by-source-2017-2007
+2017,Nonlinear Acceleration of Stochastic Algorithms,Damien Scieur · Francis Bach · Alexandre d'Aspremont,http://papers.nips.cc/paper/by-source-2017-2134
+2017,Acceleration and Averaging in Stochastic Descent Dynamics,Walid Krichene · Peter Bartlett,http://papers.nips.cc/paper/by-source-2017-3420
+2017,Multiscale Semi-Markov Dynamics for Intracortical Brain-Computer Interfaces,Daniel Milstein · Jason Pacheco · Leigh Hochberg · John D Simeral · Beata Jarosiewicz · Erik Sudderth,http://papers.nips.cc/paper/by-source-2017-567
+2017,"EEG-GRAPH: A Factor-Graph-Based Model for Capturing Spatial, Temporal, and Observational Relationships in Electroencephalograms",Yogatheesan Varatharajah · Min Jin Chong · Krishnakant Saboo · Brent M Berry · Benjamin Brinkmann · Gregory Worrell · Ravishankar Iyer,http://papers.nips.cc/paper/by-source-2017-2786
+2017,Asynchronous Parallel Coordinate Minimization for MAP Inference,Ofer Meshi · Alexander Schwing,http://papers.nips.cc/paper/by-source-2017-2934
+2017,Speeding Up Latent Variable Gaussian Graphical Model Estimation via Nonconvex Optimization,Pan Xu · Jian Ma · Quanquan Gu,http://papers.nips.cc/paper/by-source-2017-1197
+2017,The Expxorcist: Nonparametric Graphical Models Via Conditional Exponential Densities,Arun Suggala · Mladen Kolar · Pradeep Ravikumar,http://papers.nips.cc/paper/by-source-2017-2328
+2017,Reducing Reparameterization Gradient Variance,Andrew Miller · Nick Foti · Alexander D'Amour · Ryan Adams,http://papers.nips.cc/paper/by-source-2017-2069
+2017,Robust Conditional Probabilities,Yoav Wald · Amir Globerson,http://papers.nips.cc/paper/by-source-2017-3184
+2017,Stein Variational Gradient Descent as Gradient Flow,Qiang Liu,http://papers.nips.cc/paper/by-source-2017-1762
+2017,Parallel Streaming Wasserstein Barycenters,Matthew Staib · Sebastian Claici · Justin M Solomon · Stefanie Jegelka,http://papers.nips.cc/paper/by-source-2017-1521
+2017,AIDE: An algorithm for measuring the accuracy of probabilistic inference algorithms,Marco Cusumano-Towner · Vikash Mansinghka,http://papers.nips.cc/paper/by-source-2017-1720
+2017,Deep Dynamic Poisson Factorization Model,Chengyue Gong · win-bin huang,http://papers.nips.cc/paper/by-source-2017-1039
+2017,On the Model Shrinkage Effect of Gamma Process Edge Partition Models,Iku Ohama · Issei Sato · Takuya Kida · Hiroki Arimura,http://papers.nips.cc/paper/by-source-2017-299
+2017,Model evidence from nonequilibrium simulations,Michael Habeck,http://papers.nips.cc/paper/by-source-2017-1104
+2017,A-NICE-MC: Adversarial Training for MCMC,Jiaming Song · Shengjia Zhao · Stefano Ermon,http://papers.nips.cc/paper/by-source-2017-2661
+2017,Identification of Gaussian Process State Space Models,Stefanos Eleftheriadis · Tom Nicholson · Marc Deisenroth · James Hensman,http://papers.nips.cc/paper/by-source-2017-2748
+2017,Streaming Sparse Gaussian Process Approximations,Thang Bui · Cuong Nguyen · Richard Turner,http://papers.nips.cc/paper/by-source-2017-1877
+2017,Bayesian Optimization with Gradients,Jian Wu · Matthias Poloczek · Andrew Wilson · Peter Frazier,http://papers.nips.cc/paper/by-source-2017-2724
+2017,Variational Inference for Gaussian Process Models with Linear Complexity,Ching-An Cheng · Byron Boots,http://papers.nips.cc/paper/by-source-2017-2671
+2017,Efficient Modeling of Latent Information in Supervised Learning using Gaussian Processes,Zhenwen Dai · Mauricio Álvarez · Neil Lawrence,http://papers.nips.cc/paper/by-source-2017-2656
+2017,Non-Stationary Spectral Kernels,Sami Remes · Markus Heinonen · Samuel Kaski,http://papers.nips.cc/paper/by-source-2017-2426
+2017,Scalable Log Determinants for Gaussian Process Kernel Learning,Kun Dong · David Eriksson · Hannes Nickisch · David Bindel · Andrew Wilson,http://papers.nips.cc/paper/by-source-2017-3171
+2017,Spectral Mixture Kernels for Multi-Output Gaussian Processes,Gabriel Parra · Felipe Tobar,http://papers.nips.cc/paper/by-source-2017-3348
+2017,Linearly constrained Gaussian processes,Carl Jidling · Niklas Wahlström · Adrian Wills · Thomas Schön,http://papers.nips.cc/paper/by-source-2017-815
+2017,Hindsight Experience Replay,Marcin Andrychowicz · Filip Wolski · Alex Ray · Jonas Schneider · Rachel Fong · Peter Welinder · Bob McGrew · Josh Tobin · OpenAI Pieter Abbeel · Wojciech Zaremba,http://papers.nips.cc/paper/by-source-2017-2595
+2017,Log-normality and Skewness of Estimated State/Action Values in Reinforcement Learning,Liangpeng Zhang · Ke Tang · Xin Yao,http://papers.nips.cc/paper/by-source-2017-1129
+2017,Finite sample analysis of the GTD Policy Evaluation Algorithms in Markov Setting,Yue Wang · Wei Chen · Yuting Liu · Zhi-Ming Ma · Tie-Yan Liu,http://papers.nips.cc/paper/by-source-2017-2837
+2017,Inverse Filtering for Hidden Markov Models,Robert Mattila · Cristian Rojas · Vikram Krishnamurthy · Bo Wahlberg,http://papers.nips.cc/paper/by-source-2017-2213
+2017,Safe Model-based Reinforcement Learning with Stability Guarantees,Felix Berkenkamp · Matteo Turchetta · Angela Schoellig · Andreas Krause,http://papers.nips.cc/paper/by-source-2017-587
+2017,Data-Efficient Reinforcement Learning in Continuous State-Action Gaussian-POMDPs,Rowan McAllister · Carl Edward Rasmussen,http://papers.nips.cc/paper/by-source-2017-1245
+2017,Linear regression without correspondence,Daniel Hsu · Kevin Shi · Xiaorui Sun,http://papers.nips.cc/paper/by-source-2017-979
+2017,On the Complexity of Learning Neural Networks,Le Song · Santosh Vempala · John Wilmes · Bo Xie,http://papers.nips.cc/paper/by-source-2017-2840
+2017,Near Optimal Sketching of Low-Rank Tensor Regression,Xingguo Li · Jarvis Haupt · David Woodruff,http://papers.nips.cc/paper/by-source-2017-1972
+2017,Is Input Sparsity Time Possible for Kernel Low-Rank Approximation?,Cameron Musco · David Woodruff,http://papers.nips.cc/paper/by-source-2017-2312
+2017,Higher-Order Total Variation Classes on Grids: Minimax Theory and Trend Filtering Methods,Veeranjaneyulu Sadhanala · Yu-Xiang Wang · James Sharpnack · Ryan Tibshirani,http://papers.nips.cc/paper/by-source-2017-2961
+2017,Alternating Estimation for Structured High-Dimensional Multi-Response Models,Sheng Chen · Arindam Banerjee,http://papers.nips.cc/paper/by-source-2017-1618
+2017,Adaptive Clustering through Semidefinite Programming,Martin Royer,http://papers.nips.cc/paper/by-source-2017-1121
+2017,Eigenvalue Decay Implies Polynomial-Time Learnability for Neural Networks,Surbhi Goel · Adam Klivans,http://papers.nips.cc/paper/by-source-2017-1314
+2017,Learning with Average Top-k Loss,Yanbo Fan · Siwei Lyu · Yiming Ying · Baogang Hu,http://papers.nips.cc/paper/by-source-2017-356
+2017,Hierarchical Clustering Beyond the Worst-Case,Vincent Cohen-Addad · Varun Kanade · Frederik Mallmann-Trenn,http://papers.nips.cc/paper/by-source-2017-3139
+2017,Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee,Alireza Aghasi · Afshin Abdi · Nam Nguyen · Justin Romberg,http://papers.nips.cc/paper/by-source-2017-1803
+2017,A graph-theoretic approach to multitasking,Noga Alon · Daniel Reichman · Igor Shinkar · Tal Wagner · Sebastian Musslick · Jonathan D Cohen · Tom Griffiths · Biswadip dey · Kayhan Ozcimder,http://papers.nips.cc/paper/by-source-2017-1270
+2017,Information-theoretic analysis of generalization capability of learning algorithms,Aolin Xu · Maxim Raginsky,http://papers.nips.cc/paper/by-source-2017-1462
+2017,Independence clustering (without a matrix),Daniil Ryabko,http://papers.nips.cc/paper/by-source-2017-2139
+2017,Polynomial Codes: an Optimal Design for High-Dimensional Coded Matrix Multiplication,Qian Yu · Mohammad Maddah-Ali · Salman Avestimehr,http://papers.nips.cc/paper/by-source-2017-2304
+2017,Estimating Mutual Information for Discrete-Continuous Mixtures,Weihao Gao · Sreeram Kannan · Sewoong Oh · Pramod Viswanath,http://papers.nips.cc/paper/by-source-2017-3050
+2017,Best Response Regression,Omer Ben-Porat · Moshe Tennenholtz,http://papers.nips.cc/paper/by-source-2017-963
+2017,Statistical Cost Sharing,Eric Balkanski · Umar Syed · Sergei Vassilvitskii,http://papers.nips.cc/paper/by-source-2017-3149
+2017,A Sample Complexity Measure with Applications to Learning Optimal Auctions,Vasilis Syrgkanis,http://papers.nips.cc/paper/by-source-2017-2770
+2017,"Multiplicative Weights Update with Constant Step-Size in Congestion Games:  Convergence, Limit Cycles and Chaos",Gerasimos Palaiopanos · Ioannis Panageas · Georgios Piliouras,http://papers.nips.cc/paper/by-source-2017-3000
+2017,Welfare Guarantees from Data,Darrell Hoy · Denis Nekipelov · Vasilis Syrgkanis,http://papers.nips.cc/paper/by-source-2017-2088
+2017,Safe and Nested Subgame Solving for Imperfect-Information Games,Noam Brown · Tuomas Sandholm,http://papers.nips.cc/paper/by-source-2017-459
+2017,Multi-output Polynomial Networks and Factorization Machines,Mathieu Blondel · Vlad Niculae · Takuma Otsuka · Naonori Ueda,http://papers.nips.cc/paper/by-source-2017-1906
+2017,Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples,Haw-Shiuan Chang · Erik Learned-Miller · Andrew McCallum,http://papers.nips.cc/paper/by-source-2017-658
+2017,Deep Reinforcement Learning from Human Preferences,Paul Christiano · Jan Leike · Tom Brown · Miljan Martic · Shane Legg · Dario Amodei,http://papers.nips.cc/paper/by-source-2017-2251
+2017,Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets,Karol Hausman · Yevgen Chebotar · Stefan Schaal · Gaurav Sukhatme · Joseph Lim,http://papers.nips.cc/paper/by-source-2017-823
+2017,EX2: Exploration with Exemplar Models for Deep Reinforcement Learning,Justin Fu · John Co-Reyes · Sergey Levine,http://papers.nips.cc/paper/by-source-2017-1489
+2017,#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning,Haoran Tang · Rein Houthooft · Davis Foote · Adam Stooke · OpenAI Xi Chen · Yan Duan · John Schulman · Filip DeTurck · Pieter Abbeel,http://papers.nips.cc/paper/by-source-2017-1560
+2017,Thinking Fast and Slow with Deep Learning and Tree Search,Thomas Anthony · Zheng Tian · David Barber,http://papers.nips.cc/paper/by-source-2017-2771
+2017,Natural Value Approximators: Learning when to Trust Past Estimates,Zhongwen Xu · Joseph Modayil · Hado van Hasselt · Andre Barreto · David Silver · Tom Schaul,http://papers.nips.cc/paper/by-source-2017-1276
+2017,Active Exploration for Learning Symbolic Representations,Garrett Andersen · George Konidaris,http://papers.nips.cc/paper/by-source-2017-2588
+2017,State Aware Imitation Learning,Yannick Schroecker · Charles Isbell,http://papers.nips.cc/paper/by-source-2017-1677
+2017,Successor Features for Transfer in Reinforcement Learning,Andre Barreto · Will Dabney · Remi Munos · Jonathan Hunt · Tom Schaul · David Silver · Hado van Hasselt,http://papers.nips.cc/paper/by-source-2017-2151
+2017,Bridging the Gap Between Value and Policy Based Reinforcement Learning,Ofir Nachum · Mohammad Norouzi · Kelvin Xu · Dale Schuurmans,http://papers.nips.cc/paper/by-source-2017-1564
+2017,Using Options and Covariance Testing for Long Horizon Off-Policy Policy Evaluation,Zhaohan Guo · Philip S. Thomas · Emma Brunskill,http://papers.nips.cc/paper/by-source-2017-1452
+2017,Compatible Reward Inverse Reinforcement Learning,Alberto Maria Metelli · Matteo Pirotta · Marcello Restelli,http://papers.nips.cc/paper/by-source-2017-1247
+2017,Adaptive Batch Size for Safe Policy Gradients,Matteo Papini · Matteo Pirotta · Marcello Restelli,http://papers.nips.cc/paper/by-source-2017-2019
+2017,Regret Minimization in MDPs with Options without Prior Knowledge,Ronan Fruit · Matteo Pirotta · Alessandro Lazaric · Emma Brunskill,http://papers.nips.cc/paper/by-source-2017-1796
+2017,Is the Bellman residual a bad proxy?,Matthieu Geist · Bilal Piot · Olivier Pietquin,http://papers.nips.cc/paper/by-source-2017-1831
+2017,Learning Unknown Markov Decision Processes: A Thompson Sampling Approach,Yi Ouyang · Mukul Gagrani · Ashutosh Nayyar · Rahul Jain,http://papers.nips.cc/paper/by-source-2017-874
+2017,Online Reinforcement Learning in Stochastic Games,Chen-Yu Wei · Yi-Te Hong · Chi-Jen Lu,http://papers.nips.cc/paper/by-source-2017-2585
+2017,Reinforcement Learning under Model Mismatch,Aurko Roy · Huan Xu · Sebastian Pokutta,http://papers.nips.cc/paper/by-source-2017-1738
+2017,Zap Q-Learning,Adithya M Devraj · Sean Meyn,http://papers.nips.cc/paper/by-source-2017-1323
+2017,Ensemble Sampling,Xiuyuan Lu · Benjamin Van Roy,http://papers.nips.cc/paper/by-source-2017-1854
+2017,Action Centered Contextual Bandits,Kristjan Greenewald · Ambuj Tewari · Susan Murphy · Predag Klasnja,http://papers.nips.cc/paper/by-source-2017-3049
+2017,Conservative Contextual Linear Bandits,Abbas Kazerouni · Mohammad Ghavamzadeh · Yasin Abbasi · Benjamin Van Roy,http://papers.nips.cc/paper/by-source-2017-2115
+2017,Rotting Bandits,Nir Levine · Yacov Crammer · Shie Mannor,http://papers.nips.cc/paper/by-source-2017-1745
+2017,Identifying Outlier Arms in Multi-Armed Bandit,Honglei Zhuang · Chi Wang · Yifan Wang,http://papers.nips.cc/paper/by-source-2017-2681
+2017,Multi-Task Learning for Contextual Bandits,Aniket Anand Deshmukh · Urun Dogan · Clay Scott,http://papers.nips.cc/paper/by-source-2017-2514
+2017,Boltzmann Exploration Done Right,Nicolò Cesa-Bianchi · Claudio Gentile · Gergely Neu · Gabor Lugosi,http://papers.nips.cc/paper/by-source-2017-3165
+2017,Improving the Expected Improvement Algorithm,Chao Qin · Diego Klabjan · Daniel Russo,http://papers.nips.cc/paper/by-source-2017-2789
+2017,A KL-LUCB algorithm for Large-Scale Crowdsourcing,Ervin Tanczos · Robert Nowak · Bob Mankoff,http://papers.nips.cc/paper/by-source-2017-3008
+2017,Scalable Generalized Linear Bandits: Online Computation and Hashing,Kwang-Sung Jun · Aniruddha Bhargava · Robert Nowak · Rebecca Willett,http://papers.nips.cc/paper/by-source-2017-77
+2017,Bandits Dueling on Partially Ordered Sets,Julien Audiffren · Liva Ralaivola,http://papers.nips.cc/paper/by-source-2017-1279
+2017,Position-based Multiple-play Bandit Problem with Unknown Position Bias,Junpei Komiyama · Junya Honda · Akiko Takeda,http://papers.nips.cc/paper/by-source-2017-2586
+2017,Online Influence Maximization under Independent Cascade Model with Semi-Bandit Feedback,Zheng Wen · Branislav Kveton · Michal Valko · Sharan Vaswani,http://papers.nips.cc/paper/by-source-2017-1728
+2017,A Scale Free Algorithm for Stochastic Bandits with Bounded Kurtosis,Tor Lattimore,http://papers.nips.cc/paper/by-source-2017-1004
+2017,Adaptive Active Hypothesis Testing under Limited Information,Fabio Cecchi · Nidhi Hegde,http://papers.nips.cc/paper/by-source-2017-2143
+2017,Near-Optimal Edge Evaluation in Explicit Generalized Binomial Graphs,Sanjiban Choudhury · Shervin Javdani · Siddhartha Srinivasa · Sebastian Scherer,http://papers.nips.cc/paper/by-source-2017-2421
+2017,Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes,Taylor Killian · Samuel Daulton · Finale Doshi-Velez · George Konidaris,http://papers.nips.cc/paper/by-source-2017-3156
+2017,Overcoming Catastrophic Forgetting by Incremental Moment Matching,Sang-Woo Lee · Jin-Hwa Kim · Jaehyun Jun · Jung-Woo Ha · Byoung-Tak Zhang,http://papers.nips.cc/paper/by-source-2017-2434
+2017,Hypothesis Transfer Learning via Transformation Functions,Simon Du · Jayanth Koushik · Aarti Singh · Barnabas Poczos,http://papers.nips.cc/paper/by-source-2017-399
+2017,Learning multiple visual domains with residual adapters,Sylvestre-Alvise Rebuffi · Hakan Bilen · Andrea Vedaldi,http://papers.nips.cc/paper/by-source-2017-360
+2017,Self-supervised Learning of Motion Capture,Hsiao-Yu Tung · Hsiao-Wei Tung · Ersin Yumer · Katerina Fragkiadaki,http://papers.nips.cc/paper/by-source-2017-2697
+2017,"Information Theoretic Properties of Markov Random Fields, and their Algorithmic Applications",Linus Hamilton · Frederic Koehler · Ankur Moitra,http://papers.nips.cc/paper/by-source-2017-1443
+2017,Maximizing Subset Accuracy with Recurrent Neural Networks in Multi-label Classification,Jinseok Nam · Eneldo Loza Mencía · Hyunwoo J Kim · Johannes Fürnkranz,http://papers.nips.cc/paper/by-source-2017-2802
+2017,Local Aggregative Games,Vikas Garg · Tommi Jaakkola,http://papers.nips.cc/paper/by-source-2017-2769
+2017,An Empirical Bayes Approach to Optimizing Machine Learning Algorithms,James McInerney,http://papers.nips.cc/paper/by-source-2017-1538
+2017,Learning Chordal Markov Networks via Branch and Bound,Kari Rantanen · Antti Hyttinen · Matti Järvisalo,http://papers.nips.cc/paper/by-source-2017-1156
+2017,Optimal Sample Complexity of M-wise Data for Top-K Ranking,Minje Jang · Sunghyun Kim · Changho Suh · Sewoong Oh,http://papers.nips.cc/paper/by-source-2017-1058
+2017,Translation Synchronization via Truncated Least Squares,Xiangru Huang · Zhenxiao Liang · Chandrajit Bajaj · Qixing Huang,http://papers.nips.cc/paper/by-source-2017-931
+2017,From Bayesian Sparsity to Gated Recurrent Nets,Hao He · Bo Xin · Satoshi Ikehata · David Wipf,http://papers.nips.cc/paper/by-source-2017-2863
+2017,Online Learning for Multivariate Hawkes Processes,Yingxiang Yang · Jalal Etesami · Niao He · Negar Kiyavash,http://papers.nips.cc/paper/by-source-2017-2546
+2017,Efficient Second-Order Online Kernel Learning with Adaptive Embedding,Daniele Calandriello · Alessandro Lazaric · Michal Valko,http://papers.nips.cc/paper/by-source-2017-3115
+2017,"Online to Offline Conversions, Universality and Adaptive Minibatch Sizes",Kfir Levy,http://papers.nips.cc/paper/by-source-2017-1023
+2017,Nonparametric Online Regression while Learning the Metric,Ilja Kuzborskij · Nicolò Cesa-Bianchi,http://papers.nips.cc/paper/by-source-2017-455
+2017,Stochastic and Adversarial Online Learning without Hyperparameters,Ashok Cutkosky · Kwabena A Boahen,http://papers.nips.cc/paper/by-source-2017-2613
+2017,Affine-Invariant Online Optimization and the Low-rank Experts Problem,Tomer Koren · Roi Livni,http://papers.nips.cc/paper/by-source-2017-2490
+2017,Online Convex Optimization with Stochastic Constraints,Hao Yu · Michael Neely · Xiaohan Wei,http://papers.nips.cc/paper/by-source-2017-917
+2017,Online Learning with a Hint,Ofer Dekel · arthur flajolet · Nika Haghtalab · Patrick Jaillet,http://papers.nips.cc/paper/by-source-2017-2743
+2017,Efficient Online Linear Optimization with Approximation Algorithms,Dan Garber,http://papers.nips.cc/paper/by-source-2017-434
+2017,Random Permutation Online Isotonic Regression,Wojciech Kotlowski · Wouter Koolen · Alan Malek,http://papers.nips.cc/paper/by-source-2017-2208
+2017,Near Minimax Optimal Players for the Finite-Time 3-Expert Prediction Problem,Yasin Abbasi Yadkori · Peter Bartlett · Victor Gabillon,http://papers.nips.cc/paper/by-source-2017-1730
+2017,Online Learning of Optimal Bidding Strategy in Repeated Multi-Commodity Auctions,M. Sevi Baltaoglu · Lang Tong · Qing Zhao,http://papers.nips.cc/paper/by-source-2017-2353
+2017,Online Prediction with Selfish Experts,Tim Roughgarden · Okke Schrijvers,http://papers.nips.cc/paper/by-source-2017-865
+2017,Real-Time Bidding with Side Information,arthur flajolet · Patrick Jaillet,http://papers.nips.cc/paper/by-source-2017-2669
+2017,Improving Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms and Its Applications,Qinshi Wang · Wei Chen,http://papers.nips.cc/paper/by-source-2017-780
+2017,A General Framework for Robust Interactive Learning,Ehsan Emamjomeh-Zadeh · David Kempe,http://papers.nips.cc/paper/by-source-2017-3576
+2017,Practical Locally Private Heavy Hitters,Raef Bassily · Kobbi Nissim · Uri Stemmer · Abhradeep Guha Thakurta,http://papers.nips.cc/paper/by-source-2017-1336
+2017,Deanonymization in the Bitcoin P2P Network,Giulia Fanti · Pramod Viswanath,http://papers.nips.cc/paper/by-source-2017-882
+2017,Accuracy First: Selecting a Differential Privacy Level for Accuracy Constrained ERM,Katrina Ligett · Seth Neel · Aaron Roth · Bo Waggoner · Steven Wu,http://papers.nips.cc/paper/by-source-2017-1486
+2017,Renyi Differential Privacy Mechanisms for Posterior Sampling,Joseph Geumlek · Shuang Song · Kamalika Chaudhuri,http://papers.nips.cc/paper/by-source-2017-2739
+2017,Collecting Telemetry Data Privately,Bolin Ding · Janardhan Kulkarni · Sergey Yekhanin,http://papers.nips.cc/paper/by-source-2017-2012
+2017,Generating steganographic images via adversarial training,Jamie Hayes · George Danezis,http://papers.nips.cc/paper/by-source-2017-1200
+2017,Fitting Low-Rank Tensors in Constant Time,Kohei Hayashi · Yuichi Yoshida,http://papers.nips.cc/paper/by-source-2017-1447
+2017,Thy Friend is My Friend: Iterative Collaborative Filtering for Sparse Matrix Estimation,Christian Borgs · Jennifer Chayes · Christina Lee · Devavrat Shah,http://papers.nips.cc/paper/by-source-2017-2470
+2017,Fair Clustering Through Fairlets,Flavio Chierichetti · Ravi Kumar · Silvio Lattanzi · Sergei Vassilvitskii,http://papers.nips.cc/paper/by-source-2017-2591
+2017,On Fairness and Calibration,Geoff Pleiss · Manish Raghavan · Felix Wu · Jon Kleinberg · Kilian Weinberger,http://papers.nips.cc/paper/by-source-2017-2904
+2017,Avoiding Discrimination through Causal Reasoning,Niki Kilbertus · Mateo Rojas Carulla · Giambattista Parascandolo · Moritz Hardt · Dominik Janzing · Bernhard Schölkopf,http://papers.nips.cc/paper/by-source-2017-450
+2017,Optimized Pre-Processing for Discrimination Prevention,Flavio Calmon · Dennis Wei · Bhanukiran Vinzamuri · Karthikeyan Natesan Ramamurthy · Kush Varshney,http://papers.nips.cc/paper/by-source-2017-2135
+2017,Recycling Privileged Learning and Distribution Matching for Fairness,Novi Quadrianto · Viktoriia Sharmanska,http://papers.nips.cc/paper/by-source-2017-456
+2017,From Parity to Preference-based Notions of Fairness in Classification,Muhammad Bilal Zafar · Isabel Valera · Manuel Rodriguez · Krishna Gummadi · Adrian Weller,http://papers.nips.cc/paper/by-source-2017-175
+2017,Beyond Parity: Fairness Objectives for Collaborative Filtering,Sirui Yao · Bert Huang,http://papers.nips.cc/paper/by-source-2017-1679
+2017,Multi-view Matrix Factorization for Linear Dynamical System Estimation,Mahdi Karami · Martha White · Dale Schuurmans · Csaba Szepesvari,http://papers.nips.cc/paper/by-source-2017-3588
+2017,Random Projection Filter Bank for Time Series Data,Amir-massoud Farahmand · Sepideh Pourazarm · Daniel Nikovski,http://papers.nips.cc/paper/by-source-2017-3293
+2017,A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering,Hongteng Xu · Hongyuan Zha,http://papers.nips.cc/paper/by-source-2017-878
+2017,Predicting User Activity Level In Point Processes With Mass Transport Equation,Yichen Wang · Xiaojing Ye · Hongyuan Zha · Le Song,http://papers.nips.cc/paper/by-source-2017-1035
+2017,Off-policy evaluation for slate recommendation,Adith Swaminathan · Akshay Krishnamurthy · Alekh Agarwal · Miro Dudik · John Langford · Damien Jose · Imed Zitouni,http://papers.nips.cc/paper/by-source-2017-2032
+2017,Expectation Propagation with Stochastic Kinetic Model in Complex Interaction Systems,Le Fang · Fan Yang · Wen Dong · Tong Guan · Chunming Qiao,http://papers.nips.cc/paper/by-source-2017-1238
+2017,A multi-agent reinforcement learning model of common-pool resource appropriation,Julien Pérolat · Joel Leibo · Vinicius Zambaldi · Charles Beattie · Karl Tuyls · Thore Graepel,http://papers.nips.cc/paper/by-source-2017-2035
+2017,Balancing information exposure in social networks,Kiran Garimella · Aristides Gionis · Nikos Parotsidis · Nikolaj Tatti,http://papers.nips.cc/paper/by-source-2017-2439
+2017,Scalable Demand-Aware Recommendation,Jinfeng Yi · Cho-Jui Hsieh · Kush Varshney · Lijun Zhang · Yao Li,http://papers.nips.cc/paper/by-source-2017-1421
+2017,A Greedy Approach for Budgeted Maximum Inner Product Search,Hsiang-Fu Yu · Cho-Jui Hsieh · Qi Lei · Inderjit Dhillon,http://papers.nips.cc/paper/by-source-2017-2813
+2017,DPSCREEN: Dynamic Personalized Screening,Kartik Ahuja · William Zame · Mihaela van der Schaar,http://papers.nips.cc/paper/by-source-2017-870
+2017,Deep Multi-task Gaussian Processes for Survival Analysis with Competing Risks,Ahmed M. Alaa · Mihaela van der Schaar,http://papers.nips.cc/paper/by-source-2017-1350
+2017,Premise Selection for Theorem Proving by Deep Graph Embedding,Mingzhe Wang · Yihe Tang · Jian Wang · Jia Deng,http://papers.nips.cc/paper/by-source-2017-1567
+2017,Gradients of Generative Models for Improved Discriminative Analysis of Tandem Mass Spectra,John T Halloran · David M Rocke,http://papers.nips.cc/paper/by-source-2017-2923
+2017,Style Transfer from Non-Parallel Text by Cross-Alignment,Tianxiao Shen · Tao Lei · Regina Barzilay · Tommi Jaakkola,http://papers.nips.cc/paper/by-source-2017-3430
+2017,Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols,Serhii Havrylov · Ivan Titov,http://papers.nips.cc/paper/by-source-2017-1290
+2017,"ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games",Yuandong Tian · Qucheng Gong · Wenling Shang · Yuxin Wu · Larry Zitnick,http://papers.nips.cc/paper/by-source-2017-1522
+2017,"ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events",Evan Racah · Christopher Beckham · Tegan Maharaj · Samira Ebrahimi Kahou · Mr. Prabhat · Chris Pal,http://papers.nips.cc/paper/by-source-2017-1942
+2017,Approximation and Convergence Properties of Generative Adversarial Learning,Shuang Liu · Olivier Bousquet · Kamalika Chaudhuri,http://papers.nips.cc/paper/by-source-2017-2857
+2017,Gradient descent GAN optimization is locally stable,Vaishnavh Nagarajan · J. Zico Kolter,http://papers.nips.cc/paper/by-source-2017-2872
+2017,f-GANs in an Information Geometric Nutshell,Richard Nock · Zac Cranko · Aditya K Menon · Lizhen Qu · Robert Williamson,http://papers.nips.cc/paper/by-source-2017-334
+2017,The Numerics of GANs,Lars Mescheder · Sebastian Nowozin · Andreas Geiger,http://papers.nips.cc/paper/by-source-2017-1144
+2017,Generalizing GANs: A Turing Perspective,Roderich Gross · Yue Gu · Wei Li · Melvin Gauci,http://papers.nips.cc/paper/by-source-2017-3170
+2017,Dualing GANs,Yujia Li · Alexander Schwing · Kuan-Chieh Wang · Richard Zemel,http://papers.nips.cc/paper/by-source-2017-2876
+2017,Fisher GAN,Youssef Mroueh · Tom Sercu,http://papers.nips.cc/paper/by-source-2017-1460
+2017,Learning to Pivot with Adversarial Networks,Gilles Louppe · Michael Kagan · Kyle Cranmer,http://papers.nips.cc/paper/by-source-2017-624
+2017,Improved Training of Wasserstein GANs,Ishaan Gulrajani · Faruk Ahmed · Martin Arjovsky · Vincent Dumoulin · Aaron Courville,http://papers.nips.cc/paper/by-source-2017-2945
+2017,MMD GAN: Towards Deeper Understanding of Moment Matching Network,Chun-Liang Li · Wei-Cheng Chang · Yu Cheng · Yiming Yang · Barnabas Poczos,http://papers.nips.cc/paper/by-source-2017-1315
+2017,GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium,Martin Heusel · Hubert Ramsauer · Thomas Unterthiner · Bernhard Nessler · Sepp Hochreiter,http://papers.nips.cc/paper/by-source-2017-3319
+2017,VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning,Akash Srivastava · Lazar Valkov · Chris Russell · Michael U. Gutmann · Charles Sutton,http://papers.nips.cc/paper/by-source-2017-1879
+2017,Semi-supervised Learning with GANs: Manifold Invariance with Improved Inference,Abhishek Kumar · Prasanna Sattigeri · Tom Fletcher,http://papers.nips.cc/paper/by-source-2017-2851
+2017,Good Semi-supervised Learning That Requires a Bad GAN,Zihang Dai · Zhilin Yang · Fan Yang · William Cohen · Ruslan Salakhutdinov,http://papers.nips.cc/paper/by-source-2017-3272
+2017,Bayesian GAN,Yunus Saatci · Andrew Wilson,http://papers.nips.cc/paper/by-source-2017-2025
+2017,Dual Discriminator Generative Adversarial Nets,Tu Nguyen · Trung Le · Hung Vu · Dinh Phung,http://papers.nips.cc/paper/by-source-2017-1526
+2017,ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching,Chunyuan Li · Hao Liu · Changyou Chen · Yuchen Pu · Liqun Chen · Ricardo Henao · Lawrence Carin,http://papers.nips.cc/paper/by-source-2017-2833
+2017,Triple Generative Adversarial Nets,Chongxuan LI · Kun Xu · Jun Zhu · Bo Zhang,http://papers.nips.cc/paper/by-source-2017-2162
+2017,Triangle Generative Adversarial Networks,Zhe Gan · Liqun Chen · Weiyao Wang · Yuchen Pu · Yizhe Zhang · Hao Liu · Chunyuan Li · Lawrence Carin,http://papers.nips.cc/paper/by-source-2017-2712
+2017,Structured Generative Adversarial Networks,Zhijie Deng · Hao Zhang · Xiaodan Liang · Luona Yang · Shizhen Xu · Jun Zhu · Eric Xing,http://papers.nips.cc/paper/by-source-2017-2110
+2017,PixelGAN Autoencoders,Alireza Makhzani · Brendan J Frey,http://papers.nips.cc/paper/by-source-2017-1209
+2017,Learning to Compose Domain-Specific Transformations for Data Augmentation,Alexander Ratner · Henry Ehrenberg · Zeshan Hussain · Jared Dunnmon · Christopher Ré,http://papers.nips.cc/paper/by-source-2017-1836
+2017,Unsupervised Image-to-Image Translation Networks,Ming-Yu Liu · Thomas Breuel · Jan Kautz,http://papers.nips.cc/paper/by-source-2017-469
+2017,Controllable Invariance through Adversarial Feature Learning,Qizhe Xie · Zihang Dai · Yulun Du · Eduard Hovy · Graham Neubig,http://papers.nips.cc/paper/by-source-2017-406
+2017,Adversarial Ranking for Language Generation,Kevin Lin · Dianqi Li · Xiaodong He · Ming-ting Sun · Zhengyou Zhang,http://papers.nips.cc/paper/by-source-2017-1791
+2017,Linear Time Computation of Moments in Sum-Product Networks,Han Zhao · Geoffrey Gordon,http://papers.nips.cc/paper/by-source-2017-3455
+2017,Attention is All you Need,Ashish Vaswani · Noam Shazeer · Niki Parmar · Jakob Uszkoreit · Llion Jones · Aidan Gomez · Łukasz Kaiser · Illia Polosukhin,http://papers.nips.cc/paper/by-source-2017-3058
+2017,Masked Autoregressive Flow for Density Estimation,George Papamakarios · Iain Murray · Theo Pavlakou,http://papers.nips.cc/paper/by-source-2017-1368
+2017,Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net,Anirudh Goyal ALIAS PARTH GOYAL · Nan Rosemary Ke · Surya Ganguli · Yoshua Bengio,http://papers.nips.cc/paper/by-source-2017-2300
+2017,TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning,Wei Wen · Cong Xu · Feng Yan · Chunpeng Wu · Yandan Wang · Yiran Chen · Hai Li,http://papers.nips.cc/paper/by-source-2017-970
+2017,End-to-End Differentiable Proving,Tim Rocktäschel · Sebastian Riedel,http://papers.nips.cc/paper/by-source-2017-2093
+2017,A simple neural network module for relational reasoning,Adam Santoro · David Raposo · David Barrett · Mateusz Malinowski · Razvan Pascanu · Peter Battaglia · Timothy Lillicrap,http://papers.nips.cc/paper/by-source-2017-2565
+2017,Dual Path Networks,Yunpeng Chen · Jianan Li · Huaxin Xiao · Xiaojie Jin · Shuicheng Yan · Jiashi Feng,http://papers.nips.cc/paper/by-source-2017-2333
+2017,Spherical convolutions and their application in molecular modelling,Wouter Boomsma · Jes Frellsen,http://papers.nips.cc/paper/by-source-2017-1952
+2017,Deep Sets,Manzil Zaheer · Satwik Kottur · Siamak Ravanbakhsh · Barnabas Poczos · Ruslan Salakhutdinov · Alexander Smola,http://papers.nips.cc/paper/by-source-2017-1939
+2017,Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles,Balaji Lakshminarayanan · Alexander Pritzel · Charles Blundell,http://papers.nips.cc/paper/by-source-2017-3205
+2017,Self-Normalizing Neural Networks,Günter Klambauer · Thomas Unterthiner · Andreas Mayr · Sepp Hochreiter,http://papers.nips.cc/paper/by-source-2017-617
+2017,Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models,Sergey Ioffe,http://papers.nips.cc/paper/by-source-2017-1198
+2017,"Train longer, generalize better: closing the generalization gap in large batch training of neural networks",Elad Hoffer · Itay Hubara · Daniel Soudry,http://papers.nips.cc/paper/by-source-2017-1098
+2017,Nonlinear random matrix theory for deep learning,Jeffrey Pennington · Pratik Worah,http://papers.nips.cc/paper/by-source-2017-1512
+2017,Distral: Robust multitask reinforcement learning,Yee Teh · Victor Bapst · Wojciech Czarnecki · John Quan · James Kirkpatrick · Raia Hadsell · Nicolas Heess · Razvan Pascanu,http://papers.nips.cc/paper/by-source-2017-2351
+2017,Imagination-Augmented Agents for Deep Reinforcement Learning,Sébastien Racanière · Theophane Weber · David Reichert · Lars Buesing · Arthur Guez · Danilo Jimenez Rezende · Adrià Puigdomènech Badia · Oriol Vinyals · Nicolas Heess · Yujia Li · Razvan Pascanu · Peter Battaglia · Demis Hassabis · David Silver · Daan Wierstra,http://papers.nips.cc/paper/by-source-2017-2906
+2017,Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation,Yuhuai Wu · Elman Mansimov · Roger Grosse · Shun Liao · Jimmy Ba,http://papers.nips.cc/paper/by-source-2017-2732
+2017,Learning Combinatorial Optimization Algorithms over Graphs,Elias Khalil · Hanjun Dai · Yuyu Zhang · Bistra Dilkina · Le Song,http://papers.nips.cc/paper/by-source-2017-3183
+2017,Targeting EEG/LFP Synchrony with Neural Nets,Yitong Li · michael Murias · samantha Major · geraldine Dawson · Kafui Dzirasa · Lawrence Carin · David Carlson,http://papers.nips.cc/paper/by-source-2017-2420
+2017,Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System,Chengxu Zhuang · Jonas Kubilius · Mitra JZ Hartmann · Daniel Yamins,http://papers.nips.cc/paper/by-source-2017-1482
+2017,Fast amortized inference of neural activity from calcium imaging data with variational autoencoders,Artur Speiser · Jinyao Yan · Evan Archer · Lars Buesing · Srinivas C Turaga · Jakob H Macke,http://papers.nips.cc/paper/by-source-2017-2141
+2017,Learning to See Physics via Visual De-animation,Jiajun Wu · Erika Lu · Pushmeet Kohli · Bill Freeman · Josh Tenenbaum,http://papers.nips.cc/paper/by-source-2017-121
+2017,Shape and Material from Sound,Zhoutong Zhang · Qiujia Li · Zhengjia Huang · Jiajun Wu · Josh Tenenbaum · Bill Freeman,http://papers.nips.cc/paper/by-source-2017-847
+2017,Neural Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons,Nikhil Parthasarathy · Eleanor Batty · William Falcon · Thomas Rutten · Mohit Rajpal · E.J. Chichilnisky · Liam Paninski,http://papers.nips.cc/paper/by-source-2017-3218
+2017,Quantifying how much sensory information in a neural code is relevant for behavior,Giuseppe Pica · Eugenio Piasini · Houman Safaai · Caroline Runyan · Christopher Harvey · Mathew Diamond · Christoph Kayser · Tommaso Fellin · Stefano Panzeri,http://papers.nips.cc/paper/by-source-2017-2051
+2017,Model-based Bayesian inference of neural activity and connectivity from all-optical interrogation of a neural circuit,Laurence Aitchison · Lloyd Russell · Adam Packer · Jinyao Yan · Philippe Castonguay · Michael Hausser · Srinivas C Turaga,http://papers.nips.cc/paper/by-source-2017-1980
+2017,Deep Hyperalignment,Muhammad Yousefnezhad · Daoqiang Zhang,http://papers.nips.cc/paper/by-source-2017-1021
+2017,Unified representation of tractography and diffusion-weighted MRI data using sparse multidimensional arrays,Cesar F Caiafa · Olaf Sporns · Andrew Saykin · Franco Pestilli,http://papers.nips.cc/paper/by-source-2017-2264
+2017,Online Dynamic Programming,Holakou Rahmanian · Manfred K. Warmuth,http://papers.nips.cc/paper/by-source-2017-1611
+2017,Unsupervised Learning of Disentangled Representations from Video,Emily Denton · vighnesh Birodkar,http://papers.nips.cc/paper/by-source-2017-2305
+2017,Interactive Submodular Bandit,Lin Chen · Andreas Krause · Amin Karbasi,http://papers.nips.cc/paper/by-source-2017-106
+2017,Streaming Robust Submodular Maximization: A Partitioned Thresholding Approach,Slobodan Mitrovic · Ilija Bogunovic · Ashkan Norouzi-Fard · Jakub M Tarnawski · Volkan Cevher,http://papers.nips.cc/paper/by-source-2017-2383
+2017,Minimizing a Submodular Function from Samples,Eric Balkanski · Yaron Singer,http://papers.nips.cc/paper/by-source-2017-547
+2017,Process-constrained batch Bayesian optimisation,Pratibha Vellanki · Santu Rana · Sunil Gupta · David Rubin · Alessandra Sutti · Thomas Dorin · Murray Height · Paul Sanders · Svetha Venkatesh,http://papers.nips.cc/paper/by-source-2017-1946
+2017,The Marginal Value of Adaptive Gradient Methods in Machine Learning,Ashia C Wilson · Becca Roelofs · Mitchell Stern · Nati Srebro · Benjamin Recht,http://papers.nips.cc/paper/by-source-2017-2186
+2017,Breaking the Nonsmooth Barrier: A Scalable Parallel Method for Composite Optimization,Fabian Pedregosa · Rémi Leblond · Simon Lacoste-Julien,http://papers.nips.cc/paper/by-source-2017-60
+2017,Beyond Worst-case: A Probabilistic Analysis of Affine Policies in Dynamic Optimization,Omar El Housni · Vineet Goyal,http://papers.nips.cc/paper/by-source-2017-2491
+2017,Approximate Supermodularity Bounds for Experimental Design,Luiz Chamon · Alejandro Ribeiro,http://papers.nips.cc/paper/by-source-2017-2799
+2017,On Blackbox Backpropagation and Jacobian Sensing,Krzysztof Choromanski · Vikas Sindhwani,http://papers.nips.cc/paper/by-source-2017-3273
+2017,Asynchronous Coordinate Descent under More Realistic Assumptions,Tao Sun · Robert Hannah · Wotao Yin,http://papers.nips.cc/paper/by-source-2017-3132
+2017,Clustering with Noisy Queries,Arya Mazumdar · Barna Saha,http://papers.nips.cc/paper/by-source-2017-2956
+2017,Approximation Algorithms for $\ell_0$-Low Rank Approximation,Karl Bringmann · Pavel Kolev · David Woodruff,http://papers.nips.cc/paper/by-source-2017-3328
+2017,Convergence Analysis of Two-layer Neural Networks with ReLU Activation,Yuanzhi Li · Yang Yuan,http://papers.nips.cc/paper/by-source-2017-409
+2017,Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent,Xiangru Lian · Ce Zhang · Huan Zhang · Cho-Jui Hsieh · Wei Zhang · Ji Liu,http://papers.nips.cc/paper/by-source-2017-2767
+2017,Decomposition-Invariant Conditional Gradient for General Polytopes with Line Search,Mohammad Ali Bashiri · Xinhua Zhang,http://papers.nips.cc/paper/by-source-2017-1531
+2017,Straggler Mitigation in Distributed Optimization Through Data Encoding,Can Karakus · Yifan Sun · Suhas Diggavi · Wotao Yin,http://papers.nips.cc/paper/by-source-2017-2810
+2017,ADMM without a Fixed Penalty Parameter: Faster Convergence with New Adaptive Penalization,Yi Xu · Mingrui Liu · Qihang Lin · Tianbao Yang,http://papers.nips.cc/paper/by-source-2017-844
+2017,Accelerated Stochastic Greedy Coordinate Descent by Soft Thresholding Projection onto Simplex,Chaobing Song · Shaobo Cui · Yong Jiang · Shu-Tao Xia,http://papers.nips.cc/paper/by-source-2017-2513
+2017,Safe Adaptive Importance Sampling,Sebastian Stich · Anant Raj · Martin Jaggi,http://papers.nips.cc/paper/by-source-2017-2290
+2017,"Sharpness, Restart and Acceleration",Vincent Roulet · Alexandre d'Aspremont,http://papers.nips.cc/paper/by-source-2017-760
+2017,Stochastic Optimization with Variance Reduction for Infinite Datasets with Finite Sum Structure,Alberto Bietti · Julien Mairal,http://papers.nips.cc/paper/by-source-2017-1025
+2017,Min-Max Propagation,Christopher Srinivasa · Inmar Givoni · Siamak Ravanbakhsh · Brendan J Frey,http://papers.nips.cc/paper/by-source-2017-2870
+2017,A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning,Marco Fraccaro · Simon Kamronn · Ulrich Paquet · Ole Winther,http://papers.nips.cc/paper/by-source-2017-2020
+2017,Concrete Dropout,Yarin Gal · Jiri Hron · Alex Kendall,http://papers.nips.cc/paper/by-source-2017-2018
+2017,"REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models",George Tucker · Andriy Mnih · Chris J Maddison · John Lawson · Jascha Sohl-Dickstein,http://papers.nips.cc/paper/by-source-2017-1508
+2017,Hierarchical Implicit Models and Likelihood-Free Variational Inference,Dustin Tran · Rajesh Ranganath · David Blei,http://papers.nips.cc/paper/by-source-2017-2844
+2017,"Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference",Geoffrey Roeder · Yuhuai Wu · David Duvenaud,http://papers.nips.cc/paper/by-source-2017-3474
+2017,Perturbative Black Box Variational Inference,Robert Bamler · Cheng Zhang · Manfred Opper · Stephan Mandt,http://papers.nips.cc/paper/by-source-2017-2634
+2017,Fast Black-box Variational Inference through Stochastic Trust-Region Optimization,Jeffrey Regier · Michael Jordan · Jon McAuliffe,http://papers.nips.cc/paper/by-source-2017-1417
+2017,Excess Risk Bounds for the Bayes Risk using Variational Inference in Latent Gaussian Models,Rishit Sheth · Roni Khardon,http://papers.nips.cc/paper/by-source-2017-2667
+2017,Experimental Design for Learning Causal Graphs with Latent Variables,Murat Kocaoglu · Karthikeyan Shanmugam · Elias Bareinboim,http://papers.nips.cc/paper/by-source-2017-3536
+2017,Permutation-based Causal Inference Algorithms with Interventions,Yuhao Wang · Liam Solus · Karren Yang · Caroline Uhler,http://papers.nips.cc/paper/by-source-2017-2985
+2017,Learning Causal Structures Using Regression Invariance,AmirEmad Ghassami · Saber Salehkaleybar · Negar Kiyavash · Kun Zhang,http://papers.nips.cc/paper/by-source-2017-1724
+2017,Counterfactual Fairness,Matt Kusner · Joshua Loftus · Chris Russell · Ricardo Silva,http://papers.nips.cc/paper/by-source-2017-2152
+2017,Causal Effect Inference with Deep Latent-Variable Models,Christos Louizos · Uri Shalit · Joris M Mooij · David Sontag · Richard Zemel · Max Welling,http://papers.nips.cc/paper/by-source-2017-3219
+2017,Conic Scan-and-Cover algorithms for nonparametric topic modeling,Mikhail Yurochkin · Aritra Guha · XuanLong Nguyen,http://papers.nips.cc/paper/by-source-2017-2107
+2017,Tractability in Structured Probability Spaces,Arthur Choi · Yujia Shen · Adnan Darwiche,http://papers.nips.cc/paper/by-source-2017-1973
+2017,PASS-GLM: polynomial approximate sufficient statistics for scalable Bayesian GLM inference,Jonathan Huggins · Ryan Adams · Tamara Broderick,http://papers.nips.cc/paper/by-source-2017-2024
+2017,Adaptive Bayesian Sampling with Monte Carlo EM,Anirban Roychowdhury · Srinivasan Parthasarathy,http://papers.nips.cc/paper/by-source-2017-841
+2017,Reliable Decision Support using Counterfactual Models,Peter Schulam · Suchi Saria,http://papers.nips.cc/paper/by-source-2017-1060
+2017,Multi-Information Source Optimization,Matthias Poloczek · Jialei Wang · Peter Frazier,http://papers.nips.cc/paper/by-source-2017-2247
+2017,Doubly Stochastic Variational Inference for Deep Gaussian Processes,Hugh Salimbeni · Marc Deisenroth,http://papers.nips.cc/paper/by-source-2017-2404
+2017,Convolutional Gaussian Processes,Mark van der Wilk · Carl Edward Rasmussen · James Hensman,http://papers.nips.cc/paper/by-source-2017-1636
+2017,Multiresolution Kernel Approximation for Gaussian Process Regression,Yi Ding · Risi Kondor · Jonathan Eskreis-Winkler,http://papers.nips.cc/paper/by-source-2017-2082
+2017,Unifying PAC and Regret: Uniform PAC Bounds for Episodic Reinforcement Learning,Christoph Dann · Tor Lattimore · Emma Brunskill,http://papers.nips.cc/paper/by-source-2017-2921
+2017,Repeated Inverse Reinforcement Learning,Kareem Amin · Nan Jiang · Satinder Singh,http://papers.nips.cc/paper/by-source-2017-1142
+2017,Inverse Reward Design,Dylan Hadfield-Menell · Smitha Milli · Pieter Abbeel · Stuart J Russell · Anca Dragan,http://papers.nips.cc/paper/by-source-2017-3406
+2017,Dynamic-Depth Context Tree Weighting,Joao V Messias · Shimon Whiteson,http://papers.nips.cc/paper/by-source-2017-1886
+2017,Policy Gradient With Value Function Approximation For Collective Multiagent Planning,Duc Thien Nguyen · Akshat Kumar · Hoong Chuin Lau,http://papers.nips.cc/paper/by-source-2017-2255
+2017,A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning,Marc Lanctot · Vinicius Zambaldi · Audrunas Gruslys · Angeliki Lazaridou · Karl Tuyls · Julien Perolat · David Silver · Thore Graepel,http://papers.nips.cc/paper/by-source-2017-2211
+2017,Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning,El Mahdi El Mhamdi · Rachid Guerraoui · Hadrien Hendrikx · Alexandre Maurer,http://papers.nips.cc/paper/by-source-2017-95
+2017,Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments,Ryan Lowe · YI WU · Aviv Tamar · Jean Harb · OpenAI Pieter Abbeel · Igor Mordatch,http://papers.nips.cc/paper/by-source-2017-3193
+2017,Spectrally-normalized margin bounds for neural networks,Peter Bartlett · Dylan J Foster · Matus Telgarsky,http://papers.nips.cc/paper/by-source-2017-3155
+2017,On Structured Prediction Theory with Calibrated Convex Surrogate Losses,Anton Osokin · Francis Bach · Simon Lacoste-Julien,http://papers.nips.cc/paper/by-source-2017-246
+2017,Collaborative PAC Learning,Avrim Blum · Nika Haghtalab · Ariel Procaccia · Mingda Qiao,http://papers.nips.cc/paper/by-source-2017-1404
+2017,Submultiplicative Glivenko-Cantelli and Uniform Convergence of Revenues,Noga Alon · Moshe Babaioff · Yannai A. Gonczarowski · Yishay Mansour · Shay Moran · Amir Yehudayoff,http://papers.nips.cc/paper/by-source-2017-1037
+2017,Discriminative State Space Models,Vitaly Kuznetsov · Mehryar Mohri,http://papers.nips.cc/paper/by-source-2017-2892
+2017,Countering Feedback Delays in Multi-Agent Learning,Zhengyuan Zhou · Panayotis Mertikopoulos · Nicholas Bambos · Peter W Glynn · Claire Tomlin,http://papers.nips.cc/paper/by-source-2017-3123
+2017,Variance-based Regularization with Convex Objectives,Hongseok Namkoong · John Duchi,http://papers.nips.cc/paper/by-source-2017-1710
+2017,Learning Mixture of Gaussians with Streaming Data,Aditi Raghunathan · Prateek Jain · Ravishankar Krishnawamy,http://papers.nips.cc/paper/by-source-2017-3303
+2017,On the Consistency of Quick Shift,Heinrich Jiang,http://papers.nips.cc/paper/by-source-2017-49
+2017,Early stopping for kernel boosting algorithms: A general analysis with localized complexities,Yuting Wei · Fanny Yang · Martin Wainwright,http://papers.nips.cc/paper/by-source-2017-3086
+2017,"A Sharp Error Analysis for the Fused Lasso, with Application to Approximate Changepoint Screening",Kevin Lin · James Sharpnack · Alessandro Rinaldo · Ryan Tibshirani,http://papers.nips.cc/paper/by-source-2017-3454
+2017,The Scaling Limit of High-Dimensional Online Independent Component Analysis,Chuang Wang · Yue Lu,http://papers.nips.cc/paper/by-source-2017-3321
+2017,A Universal Analysis of Large-Scale Regularized Least Squares Solutions,Ashkan Panahi · Babak Hassibi,http://papers.nips.cc/paper/by-source-2017-1937
+2017,Convergence of Gradient EM on Multi-component Mixture of Gaussians,Bowei Yan · Mingzhang Yin · Purnamrita Sarkar,http://papers.nips.cc/paper/by-source-2017-3485
+2017,Online control of the false discovery rate with decaying memory,Aaditya Ramdas · Fanny Yang · Martin Wainwright · Michael Jordan,http://papers.nips.cc/paper/by-source-2017-2889
+2017,Learning with Bandit Feedback in Potential Games,Amélie Héliou · Johanne Cohen · Panayotis Mertikopoulos,http://papers.nips.cc/paper/by-source-2017-3185
+2017,Fully Decentralized Policies for Multi-Agent Systems: An Information Theoretic Approach,Roel Dobbe · David Fridovich-Keil · Claire Tomlin,http://papers.nips.cc/paper/by-source-2017-1706
+2017,Revenue Optimization with Approximate Bid Predictions,Andres Munoz · Sergei Vassilvitskii,http://papers.nips.cc/paper/by-source-2017-1160
+2017,A Decomposition of Forecast Error in Prediction Markets,Miro Dudik · Sebastien Lahaie · Ryan Rogers · Jennifer Wortman Vaughan,http://papers.nips.cc/paper/by-source-2017-2279
+2017,Dynamic Revenue Sharing,Santiago Balseiro · Max Lin · Vahab Mirrokni · Renato Leme · IIIS Song Zuo,http://papers.nips.cc/paper/by-source-2017-1530
+2017,Multi-View Decision Processes: The Helper-AI Problem,Christos Dimitrakakis · David Parkes · Goran Radanovic · Paul Tylkin,http://papers.nips.cc/paper/by-source-2017-2811
