@@ -2,11 +2,11 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-source = requests.get('https://nips.cc/Conferences/2017/Schedule?type=Poster').text
+source = requests.get('https://nips.cc/Conferences/2018/Schedule?type=Poster').text
 
 soup = BeautifulSoup(source, 'lxml')
 
-csv_file = open('papers_with_abstract.csv', 'w')
+csv_file = open('papers_with_abstract.csv', 'a')
 
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['YEAR', 'TITLE', 'Authors', 'Paper Link', 'ABSTRACT'])
@@ -31,7 +31,7 @@ for section in soup.find_all('div',class_='maincard narrower poster'):
         abstracts = paper_soup.find('div',class_='container-fluid')
         abstracts = abstracts.find('div', class_='col')
         abstract = abstracts.find_all('p')[3].text
-        entry = [2017, title_text, authors, pdf_link, abstract]
+        entry = [2018, title_text, authors, pdf_link, abstract]
     except Exception as e:
         entry = ''
     print('Progress : {}'.format(count /(len(soup.find_all('div',class_='maincard narrower poster')))))
