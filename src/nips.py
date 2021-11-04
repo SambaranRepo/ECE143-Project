@@ -5,7 +5,8 @@ from tqdm import tqdm
 nips = ['https://papers.nips.cc/paper/2018','https://papers.nips.cc/paper/2019','https://papers.nips.cc/paper/2020',]
 
 
-csv_file = open('nips.csv', 'w')
+parent = '/home/sambaran/UCSD/Quarter2/ECE143/Project/data'
+csv_file = open(parent + '/nips_2018-2020.csv', 'w')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['YEAR', 'TITLE', 'Authors', 'Paper Link', 'ABSTRACT'])
 
