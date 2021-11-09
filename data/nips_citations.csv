@@ -1484,3 +1484,456 @@ year,paper,citations
 2020,CoSE: Compositional Stroke Embeddings,6
 2020,Biological credit assignment through dynamic inversion of feedforward networks,5
 2020,Learning Multi-Agent Communication through Structured Attentive Reasoning,5
+2020,Graph Policy Network for Transferable Active Learning on Graphs,8
+2020,Evidential Sparsification of Multimodal Latent Spaces in Conditional Variational Autoencoders,5
+2020,Stochastic Optimization with Laggard Data Pipelines,3
+2020,Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs,17
+2020,An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits,17
+2020,Can Graph Neural Networks Count Substructures?,51
+2020,A Bayesian Perspective on Training Speed and Model Selection,4
+2020,Stable and expressive recurrent vision models,10
+2020,BRP-NAS: Prediction-based NAS using GCNs,26
+2020,Deep Shells: Unsupervised Shape Correspondence with Optimal Transport,6
+2020,Regularizing Black-box Models for Improved Interpretability,18
+2020,Trust the Model When It Is Confident: Masked Model-based Actor-Critic,3
+2020,Semi-Supervised Neural Architecture Search,20
+2020,Consistency Regularization for Certified Robustness of Smoothed Classifiers,10
+2020,Make One-Shot Video Object Segmentation Efficient Again,5
+2020,Depth Uncertainty in Neural Networks,16
+2020,Non-Euclidean Universal Approximation,11
+2020,Shared Experience Actor-Critic for Multi-Agent Reinforcement Learning,15
+2020,When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes,8
+2020,Unsupervised Learning of Lagrangian Dynamics from Images for Prediction and Control,17
+2020,High-Dimensional Sparse Linear Bandits,8
+2020,Learning Compositional Rules via Neural Program Synthesis,27
+2020,Estimating Fluctuations in Neural Representations of Uncertain Environments,0
+2020,"Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation",3
+2020,Understanding Approximate Fisher Information for Fast Convergence of Natural Gradient Descent in Wide Neural Networks,5
+2020,SCOP: Scientific Control for Reliable Neural Network Pruning,25
+2020,"Robust, Accurate Stochastic Optimization for Variational Inference",9
+2020,Sense and Sensitivity Analysis: Simple Post-Hoc Analysis of Bias Due to Unobserved Confounding,7
+2020,Mix and Match: An Optimistic Tree-Search Approach for Learning Models from Mixture Distributions,0
+2020,Understanding Double Descent Requires A Fine-Grained Bias-Variance Decomposition,14
+2020,Fair Performance Metric Elicitation,4
+2020,LoCo: Local Contrastive Representation Learning,11
+2020,Modeling and Optimization Trade-off in Meta-learning,4
+2020,RELATE: Physically Plausible Multi-Object Scene Synthesis Using Structured Latent Spaces,14
+2020,Metric-Free Individual Fairness in Online Learning,10
+2020,GreedyFool: Distortion-Aware Sparse Adversarial Attack,6
+2020,RetroXpert: Decompose Retrosynthesis Prediction Like A Chemist,17
+2020,Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID,77
+2020,Computing Valid p-value for Optimal Changepoint by Selective Inference using Dynamic Programming,17
+2020,Joints in Random Forests,10
+2020,An implicit function learning approach for parametric modal regression,2
+2020,SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images,8
+2020,Coresets for Robust Training of Deep Neural Networks against Noisy Labels,16
+2020,Learning to solve TV regularised problems with unrolled algorithms,6
+2020,Object-Centric Learning with Slot Attention,98
+2020,Deep Smoothing of the Implied Volatility Surface,16
+2020,Provable Online CP/PARAFAC Decomposition of a Structured Tensor via Dictionary Learning,6
+2020,Sparse Learning with CART,4
+2020,Identifying Causal-Effect Inference Failure with Uncertainty-Aware Models,20
+2020,Hierarchical Granularity Transfer Learning,1
+2020,Deep active inference agents using Monte-Carlo methods,16
+2020,Manifold structure in graph embeddings,8
+2020,Adaptive Learned Bloom Filter (Ada-BF): Efficient Utilization of the Classifier with Application to Real-Time Information Filtering on the Web,11
+2020,In search of robust measures of generalization,16
+2020,Provably Efficient Reward-Agnostic Navigation with Linear Value Iteration,22
+2020,CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances,76
+2020,MATE: Plugging in Model Awareness to Task Embedding for Meta Learning,3
+2020,Predictive Information Accelerates Learning in RL,15
+2020,High-Fidelity Generative Image Compression,62
+2020,Counterexample-Guided Learning of Monotonic Neural Networks,4
+2020,Implicit Graph Neural Networks,16
+2020,Rethinking Importance Weighting for Deep Learning under Distribution Shift,23
+2020,Neural Topographic Factor Analysis for fMRI Data,3
+2020,MetaPoison: Practical General-purpose Clean-label Data Poisoning,39
+2020,Training Generative Adversarial Networks with Limited Data,207
+2020,FracTrain: Fractionally Squeezing Bit Savings Both Temporally and Spatially for Efficient DNN Training,9
+2020,Safe Reinforcement Learning via Curriculum Induction,16
+2020,Leverage the Average: an Analysis of KL Regularization in Reinforcement Learning,24
+2020,How Robust are the Estimated Effects of Nonpharmaceutical Interventions against COVID-19?,9
+2020,Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses,12
+2020,Minimax Estimation of Conditional Moment Models,25
+2020,Invertible Gaussian Reparameterization: Revisiting the Gumbel-Softmax,5
+2020,Adversarial Soft Advantage Fitting: Imitation Learning without Policy Optimization,5
+2020,Temporal Variability in Implicit Online Learning,3
+2020,Off-Policy Imitation Learning from Observations,7
+2020,Matérn Gaussian Processes on Riemannian Manifolds,19
+2020,wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations,385
+2020,"Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients",2
+2020,On Convergence of Nearest Neighbor Classifiers over Feature Transformations,4
+2020,Mitigating Manipulation in Peer Review via Randomized Reviewer Assignments,18
+2020,Generative Neurosymbolic Machines,11
+2020,How many samples is a good initial point worth in Low-rank Matrix Recovery?,4
+2020,Efficient estimation of neural tuning during naturalistic behavior,3
+2020,High-recall causal discovery for autocorrelated time series with latent confounders,4
+2020,GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators,21
+2020,SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows,19
+2020,Learning Causal Effects via Weighted Empirical Risk Minimization,6
+2020,Incorporating Interpretable Output Constraints in Bayesian Neural Networks,1
+2020,Multi-Stage Influence Function,1
+2020,ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA,25
+2020,Walking in the Shadow: A New Perspective on Descent Directions for Constrained Minimization,3
+2020,Reward Propagation Using Graph Convolutional Networks,1
+2020,"LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration",25
+2020,Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation,16
+2020,Autofocused oracles for model-based design,19
+2020,Trajectory-wise Multiple Choice Learning for Dynamics Generalization in Reinforcement Learning,5
+2020,CompRess: Self-Supervised Learning by Compressing Representations,13
+2020,The phase diagram of approximation rates for deep neural networks,39
+2020,Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network,9
+2020,A Spectral Energy Distance for Parallel Speech Synthesis,13
+2020,Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations,37
+2020,Learning from Positive and Unlabeled Data with Arbitrary Positive Shift,3
+2020,Quantifying Learnability and Describability of Visual Concepts Emerging in Representation Learning,0
+2020,Language-Conditioned Imitation Learning for Robot Manipulation Tasks,9
+2020,POMDPs in Continuous Time and Discrete Spaces,2
+2020,Program Synthesis with Pragmatic Communication,3
+2020,Principal Neighbourhood Aggregation for Graph Nets,75
+2020,Reliable Graph Neural Networks via Robust Aggregation,9
+2020,Instance Selection for GANs,7
+2020,Video Frame Interpolation without Temporal Priors,0
+2020,Learning compositional functions via multiplicative weight updates,9
+2020,Sample Complexity of Uniform Convergence for Multicalibration,10
+2020,The interplay between randomness and structure during learning in RNNs,8
+2020,A Generalized Neural Tangent Kernel Analysis for Two-layer Neural Networks,21
+2020,Instance-wise Feature Grouping,1
+2020,Optimization and Generalization of Shallow Neural Networks with Quadratic Activation Functions,12
+2020,A Convolutional Auto-Encoder for Haplotype Assembly and Viral Quasispecies Reconstruction,0
+2020,Evolving Normalization-Activation Layers,30
+2020,Efficient Learning of Discrete Graphical Models,21
+2020,Neurosymbolic Transformers for Multi-Agent Communication,7
+2020,Fairness in Streaming Submodular Maximization: Algorithms and Hardness,1
+2020,A Local Temporal Difference Code for Distributional Reinforcement Learning,6
+2020,Learning with Optimized Random Features: Exponential Speedup by Quantum Machine Learning without Sparsity and Low-Rank Assumptions,3
+2020,CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations,12
+2020,Deep Automodulators,1
+2020,Understanding Gradient Clipping in Private SGD: A Geometric Perspective,27
+2020,Identifying signal and noise structure in neural population activity with Gaussian process factor models,4
+2020,Equivariant Networks for Hierarchical Structures,2
+2020,"MinMax Methods for Optimal Transport and Beyond: Regularization, Approximation and Numerics",2
+2020,Transferable Graph Optimizers for ML Compilers,11
+2020,Beyond accuracy: quantifying trial-by-trial behaviour of CNNs and humans by measuring error consistency,20
+2020,RANet: Region Attention Network for Semantic Segmentation,8
+2020,Learning sparse codes from compressed representations with biologically plausible local wiring constraints,2
+2020,Self-Imitation Learning via Generalized Lower Bound Q-learning,7
+2020,Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping,10
+2020,Learning Deep Attribution Priors Based On Prior Knowledge,4
+2020,Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge,47
+2020,Graph Cross Networks with Vertex Infomax Pooling,12
+2020,Instance-optimality in differential privacy via approximate inverse sensitivity mechanisms,7
+2020,Calibration of Shared Equilibria in General Sum Partially Observable Markov Games,5
+2020,MOPO: Model-based Offline Policy Optimization,129
+2020,Building powerful and equivariant graph neural networks with structural message-passing,17
+2020,Efficient Model-Based Reinforcement Learning through Optimistic Policy Search and Planning,17
+2020,Mutual exclusivity as a challenge for deep neural networks,14
+2020,GradAug: A New Regularization Method for Deep Neural Networks,8
+2020,An Equivalence between Loss Functions and Non-Uniform Sampling in Experience Replay,10
+2020,Rational neural networks,11
+2020,DISK: Learning local features with policy gradient,18
+2020,GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network,10
+2020,Deep Inverse Q-learning with Constraints,7
+2020,Prediction with Corrupted Expert Advice,13
+2020,Knowledge Augmented Deep Neural Networks for Joint Facial Expression and Action Unit Recognition,8
+2020,Adversarial Attacks on Linear Contextual Bandits,13
+2020,Organizing recurrent network dynamics by task-computation to enable continual learning,21
+2020,Fast geometric learning with symbolic matrices,3
+2020,MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler,7
+2020,Learning the Linear Quadratic Regulator from Nonlinear Observations,5
+2020,Election Coding for Distributed Learning: Protecting SignSGD against Byzantine Attacks,14
+2020,Reducing Adversarially Robust Learning to Non-Robust PAC Learning,2
+2020,Top-k Training of GANs: Improving GAN Performance by Throwing Away Bad Samples,16
+2020,Black-Box Optimization with Local Generative Surrogates,8
+2020,Efficient Generation of Structured Objects with Constrained Adversarial Networks,7
+2020,Recovery of sparse linear classifiers from mixture of responses,1
+2020,Learning Sparse Prototypes for Text Generation,6
+2020,Rewriting History with Inverse RL: Hindsight Inference for Policy Improvement,18
+2020,When Do Neural Networks Outperform Kernel Methods?,39
+2020,Coresets via Bilevel Optimization for Continual Learning and Streaming,27
+2020,Understanding and Exploring the Network with Stochastic Architectures,1
+2020,Deep Evidential Regression,39
+2020,Bayesian Pseudocoresets,4
+2020,A Biologically Plausible Neural Network for Slow Feature Analysis,1
+2020,Online Adaptation for Consistent Mesh Reconstruction in the Wild,16
+2020,Online learning with dynamics: A minimax perspective,0
+2020,Stochastic Optimization with Heavy-Tailed Noise via Accelerated Gradient Clipping,18
+2020,From Trees to Continuous Embeddings and Back: Hyperbolic Hierarchical Clustering,23
+2020,Distributionally Robust Federated Averaging,15
+2020,COBE: Contextualized Object Embeddings from Narrated Instructional Video,4
+2020,Supermasks in Superposition,27
+2020,Robust Multi-Object Matching via Iterative Reweighting of the Graph Connection Laplacian,1
+2020,Calibrating Deep Neural Networks using Focal Loss,46
+2020,Learning Augmented Energy Minimization via Speed Scaling,7
+2020,Deep Rao-Blackwellised Particle Filters for Time Series Forecasting,7
+2020,Robust Sequence Submodular Maximization,1
+2020,System Identification with Biophysical Constraints: A Circuit Model of the Inner Retina,2
+2020,Active Invariant Causal Prediction: Experiment Selection through Stability,4
+2020,Markovian Score Climbing: Variational Inference with KL(p||q),8
+2020,"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection",9
+2020,Robustness of Bayesian Neural Networks to Gradient-Based Attacks,15
+2020,Sparse Weight Activation Training,8
+2020,Neural Sparse Voxel Fields,116
+2020,A Flexible Framework for Designing Trainable Priors with Adaptive Smoothing and Game Encoding,5
+2020,The Discrete Gaussian for Differential Privacy,38
+2020,Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes,3
+2020,Learning efficient task-dependent representations with synaptic plasticity,3
+2020,Consequences of Misaligned AI,4
+2020,Emergent Reciprocity and Team Formation from Randomized Uncertain Social Preferences,1
+2020,The Lottery Ticket Hypothesis for Pre-trained BERT Networks,60
+2020,Label-Aware Neural Tangent Kernel: Toward Better Generalization and Local Elasticity,7
+2020,AdvFlow: Inconspicuous Black-box Adversarial Attacks using Normalizing Flows,7
+2020,Few-shot Image Generation with Elastic Weight Consolidation,11
+2020,On the Expressiveness of Approximate Inference in Bayesian Neural Networks,20
+2020,"Dark Experience for General Continual Learning: a Strong, Simple Baseline",34
+2020,Neural encoding with visual attention,1
+2020,On the linearity of large non-linear models: when and why the tangent kernel is constant,20
+2020,Decentralized Langevin Dynamics for Bayesian Learning,4
+2020,"Attack of the Tails: Yes, You Really Can Backdoor Federated Learning",56
+2020,Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels,30
+2020,Skeleton-bridged Point Completion: From Global Inference to Local Adjustment,9
+2020,Compressing Images by Encoding Their Latent Representations with Relative Entropy Coding,8
+2020,Sparse Spectrum Warped Input Measures for Nonstationary Kernel Learning,0
+2020,Online Bayesian Persuasion,10
+2020,"Explore Aggressively, Update Conservatively: Stochastic Extragradient Methods with Variable Stepsize Scaling",23
+2020,Sub-linear Regret Bounds for Bayesian Optimisation in Unknown Search Spaces,0
+2020,Universal Domain Adaptation through Self Supervision,49
+2020,Stochastic Normalization,5
+2020,Constrained episodic reinforcement learning in concave-convex and knapsack settings,8
+2020,On Learning Ising Models under Huber's Contamination Model,3
+2020,DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation,15
+2020,Bayesian Attention Modules,8
+2020,A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network,5
+2020,Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks,13
+2020,Conditioning and Processing: Techniques to Improve Information-Theoretic Generalization Bounds,8
+2020,Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning,9
+2020,GAN Memory with No Forgetting,19
+2020,Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games,11
+2020,Simultaneously Learning Stochastic and Adversarial Episodic MDPs with Known Transition,16
+2020,Relative gradient optimization of the Jacobian term in unsupervised deep learning,8
+2020,Explicit Regularisation in Gaussian Noise Injections,10
+2020,Numerically Solving Parametric Families of High-Dimensional Kolmogorov Partial Differential Equations via Deep Learning,10
+2020,Interpolation Technique to Speed Up Gradients Propagation in Neural ODEs,12
+2020,AViD Dataset: Anonymized Videos from Diverse Countries,9
+2020,Probably Approximately Correct Constrained Learning,7
+2020,RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning,7
+2020,"Decisions, Counterfactual Explanations and Strategic Behavior",12
+2020,Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample,11
+2020,A Feasible Level Proximal Point Method for Nonconvex Sparse Constrained Optimization,1
+2020,PAC-Bayes Analysis Beyond the Usual Bounds,18
+2020,MPNet: Masked and Permuted Pre-training for Language Understanding,32
+2020,Zap Q-Learning With Nonlinear Function Approximation,9
+2020,Dynamic allocation of limited memory resources in reinforcement learning,2
+2020,CHIP: A Hawkes Process Model for Continuous-time Networks with Scalable and Consistent Estimation,3
+2020,Design Space for Graph Neural Networks,42
+2020,HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis,100
+2020,Identifying Mislabeled Data using the Area Under the Margin Ranking,39
+2020,Combining Deep Reinforcement Learning and Search for Imperfect-Information Games,21
+2020,High-Throughput Synchronous Deep RL,5
+2020,Contrastive Learning with Adversarial Examples ,19
+2020,Mixed Hamiltonian Monte Carlo for Mixed Discrete and Continuous Variables,1
+2020,Adversarial Sparse Transformer for Time Series Forecasting,7
+2020,Hierarchical Gaussian Process Priors for Bayesian Neural Network Weights,9
+2020,Directional convergence and alignment in deep learning,31
+2020,Functional Regularization for Representation Learning: A Unified Theoretical Perspective,4
+2020,Provably Efficient Online Hyperparameter Optimization with Population-Based Bandits,8
+2020,Understanding Global Feature Contributions With Additive Importance Measures,44
+2020,Online Non-Convex Optimization with Imperfect Feedback,4
+2020,Succinct and Robust Multi-Agent Communication With Temporal Message Control,4
+2020,Neural Execution Engines: Learning to Execute Subroutines,15
+2020,Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors,15
+2020,Disentangling by Subspace Diffusion,9
+2020,Discovering Symbolic Models from Deep Learning with Inductive Biases,75
+2020,Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs,0
+2020,Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models,4
+2020,CO-Optimal Transport,11
+2020,"Synthesize, Execute and Debug: Learning to Repair for Neural Program Synthesis",8
+2020,Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations,8
+2020,Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting,25
+2020,Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies,12
+2020,Robust large-margin learning in hyperbolic space,7
+2020,Adversarially Robust Few-Shot Learning: A Meta-Learning Approach,14
+2020,Digraph Inception Convolutional Networks,6
+2020,Stochastic Stein Discrepancies,7
+2020,Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search,15
+2020,Fair Multiple Decision Making Through Soft Interventions,3
+2020,Inverse Learning of Symmetries,4
+2020,DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic Multigrid Pooling,6
+2020,Efficient Nonmyopic Bayesian Optimization via One-Shot Multi-Step Trees,7
+2020,Effective Diversity in Population Based Reinforcement Learning,19
+2020,Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Class-Imbalanced Data,6
+2020,Direct Policy Gradients: Direct Optimization of Policies in Discrete Action Spaces,4
+2020,WoodFisher: Efficient Second-Order Approximation for Neural Network Compression,17
+2020,Learning to Prove Theorems by Learning to Generate Theorems,7
+2020,3D Self-Supervised Methods for Medical Imaging,28
+2020, Bayesian filtering unifies adaptive and non-adaptive neural network optimization methods ,12
+2020,Improving model calibration with accuracy versus uncertainty optimization,15
+2020,The Convolution Exponential and Generalized Sylvester Flows,12
+2020,Precise expressions for random projections: Low-rank approximation and randomized Newton,7
+2020,The MAGICAL Benchmark for Robust Imitation,7
+2020,X-CAL: Explicit Calibration for Survival Analysis,5
+2020,Decentralized Accelerated Proximal Gradient Descent,7
+2020,BERT Loses Patience: Fast and Robust Inference with Early Exit,47
+2020,Regularizing Towards Permutation Invariance In Recurrent Models,1
+2020,What if Neural Networks had SVDs?,0
+2020,A Matrix Chernoff Bound for Markov Chains and Its Application to Co-occurrence Matrices,3
+2020,CoMIR: Contrastive Multimodal Image Representation for Registration,10
+2020,Ensuring Fairness Beyond the Training Data,13
+2020,Pre-training via Paraphrasing,67
+2020,Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks,10
+2020,Measuring Robustness to Natural Distribution Shifts in Image Classification,86
+2020,Can I Trust My Fairness Metric? Assessing Fairness with Unlabeled Data and Bayesian Inference,6
+2020,RandAugment: Practical Automated Data Augmentation with a Reduced Search Space,626
+2020,Variational Inference for Graph Convolutional Networks in the Absence  of Graph Data and Adversarial Settings,15
+2020,Supervised Contrastive Learning,415
+2020,Learning Optimal Representations with the Decodable Information Bottleneck,6
+2020,Neural Non-Rigid Tracking,6
+2020,Collegial Ensembles,3
+2020,AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients,83
+2020,Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding,14
+2020,Modern Hopfield Networks and Attention for Immune Repertoire Classification,20
+2020,Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks,7
+2020,Content Provider Dynamics and Coordination in Recommendation Ecosystems,0
+2020,Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation,4
+2020,ColdGANs: Taming Language GANs with Cautious Sampling Strategies,8
+2020,The Origins and Prevalence of Texture Bias in Convolutional Neural Networks,48
+2020,Provable Overlapping Community Detection in Weighted Graphs,3
+2020,Fast Unbalanced Optimal Transport on a Tree,9
+2020,Acceleration with a Ball Optimization Oracle,13
+2020,Avoiding Side Effects By Considering Future Tasks,7
+2020,Handling Missing Data with Graph Representation Learning,18
+2020,MMA Regularization: Decorrelating Weights of Neural Networks by Maximizing the Minimal Angles,2
+2020,Fair regression via plug-in estimator and recalibration with statistical guarantees,13
+2020,Modeling Shared responses in Neuroimaging Studies through MultiView ICA,8
+2020,Efficient Planning in Large MDPs with Weak Linear Function Approximation,10
+2020,Efficient Learning of Generative Models via Finite-Difference Score Matching,5
+2020,Transferable Calibration with Lower Bias and Variance in Domain Adaptation,7
+2020,Online Bayesian Goal Inference for Boundedly Rational Planning Agents,14
+2020,BayReL: Bayesian Relational Learning for Multi-omics Data Integration,0
+2020,Rethinking the Value of Labels for Improving Class-Imbalanced Learning,56
+2020,No Subclass Left Behind: Fine-Grained Robustness in Coarse-Grained Classification Problems,22
+2020,Self-Adaptive Training: beyond Empirical Risk Minimization,31
+2020,Effective Dimension Adaptive Sketching Methods for Faster Regularized Least-Squares Optimization,14
+2020,Untangling tradeoffs between recurrence and self-attention in artificial neural networks,6
+2020,Online Learning in Contextual Bandits using Gated Linear Networks,6
+2020,Throughput-Optimal Topology Design for Cross-Silo Federated Learning,8
+2020,Asymptotically Optimal Exact Minibatch Metropolis-Hastings,8
+2020,Learning Search Space Partition for Black-box Optimization using Monte Carlo Tree Search,16
+2020,Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests,1
+2020,Space-Time Correspondence as a Contrastive Random Walk,54
+2020,Exponential ergodicity of mirror-Langevin diffusions,13
+2020,Parameterized Explainer for Graph Neural Network,34
+2020,HYDRA: Pruning Adversarially Robust Neural Networks,40
+2020,NVAE: A Deep Hierarchical Variational Autoencoder,142
+2020,What Do Neural Networks Learn When Trained With Random Labels?,15
+2020,Learning Disentangled Representations and Group Structure of Dynamical Environments,10
+2020,Universal Function Approximation on Graphs,0
+2020,Comparator-Adaptive Convex Bandits,1
+2020,Model-based Reinforcement Learning for Semi-Markov Decision Processes with Neural ODEs,13
+2020,The Adaptive Complexity of Maximizing a Gross Substitutes Valuation,0
+2020,Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition,5
+2020,Reinforcement Learning with Augmented Data,133
+2020,Batch Normalization Biases Residual Blocks Towards the Identity Function in Deep Networks,39
+2020,Learning Retrospective Knowledge with Reverse Reinforcement Learning,4
+2020,Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data,2
+2020,GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs,52
+2020,A General Large Neighborhood Search Framework for Solving Integer Linear Programs,8
+2020,A Theoretical Framework for Target Propagation,14
+2020,OrganITE: Optimal transplant donor organ offering using an individual treatment effect,2
+2020,The Primal-Dual method for Learning Augmented Algorithms,13
+2020,A Class of Algorithms for General Instrumental Variable Models,14
+2020,Black-Box Ripper: Copying black-box models using generative evolutionary algorithms,6
+2020,TorsionNet: A Reinforcement Learning Approach to Sequential Conformer Search,5
+2020,A Simple Language Model for Task-Oriented Dialogue,114
+2020,A mean-field analysis of two-player zero-sum games,17
+2020,Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge,28
+2020,Pipeline PSRO: A Scalable Approach for Finding Approximate Nash Equilibria in Large Games,13
+2020,Guided Adversarial Attack for Evaluating and Enhancing Adversarial Defenses,11
+2020,Noise2Same: Optimizing A Self-Supervised Bound for Image Denoising,13
+2020,Movement Pruning: Adaptive Sparsity by Fine-Tuning,53
+2020,Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot,9
+2020,Graph Information Bottleneck,17
+2020,RNNPool: Efficient Non-linear Pooling for RAM Constrained Inference,11
+2020,Auto-Panoptic: Cooperative Multi-Component Architecture Search for Panoptic Segmentation,4
+2020,Differentiable Top-k with Optimal Transport,17
+2020,Information-theoretic Task Selection for Meta-Reinforcement Learning,4
+2020,On Completeness-aware Concept-Based Explanations in Deep Neural Networks,50
+2020,Why Normalizing Flows Fail to Detect Out-of-Distribution Data,42
+2020,Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation,22
+2020,Optimally Deceiving a Learning Leader in Stackelberg Games,4
+2020,IDEAL: Inexact DEcentralized Accelerated Augmented Lagrangian Method,7
+2020,Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation,14
+2020,Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder,17
+2020,Meta-Learning through Hebbian Plasticity in Random Networks,14
+2020,Top-KAST: Top-K Always Sparse Training,19
+2020,Meta-Learning with Adaptive Hyperparameters,11
+2020,Tight last-iterate convergence rates for no-regret learning in multi-player games,8
+2020,Curvature Regularization to Prevent Distortion in Graph Embedding,3
+2020,Statistical and Topological Properties of Sliced Probability Divergences,14
+2020,Probabilistic Active Meta-Learning,7
+2020,"Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher",3
+2020,The Generalization-Stability Tradeoff In Neural Network Pruning,14
+2020,Linearly Converging Error Compensated SGD,18
+2020,Canonical 3D Deformer Maps: Unifying parametric and non-parametric methods for dense weakly-supervised category reconstruction,3
+2020,A Self-Tuning Actor-Critic Algorithm,25
+2020,High-Dimensional Bayesian Optimization via Nested Riemannian Manifolds,3
+2020,Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features,18
+2020,Fair Hierarchical Clustering,8
+2020,Log-Likelihood Ratio Minimizing Flows: Towards Robust and Quantifiable Neural Distribution Alignment,0
+2020,Escaping the Gravitational Pull of Softmax,8
+2020,Implicit Regularization in Deep Learning May Not Be Explainable by Norms,43
+2020,POMO: Policy Optimization with Multiple Optima for Reinforcement Learning,8
+2020,Uncertainty-aware Self-training for Few-shot Text Classification,31
+2020,A Measure-Theoretic Approach to Kernel Conditional Mean Embeddings,11
+2020,Efficient Clustering for Stretched Mixtures: Landscape and Optimality,9
+2020,A Group-Theoretic Framework for Data Augmentation,39
+2020,ContraGAN: Contrastive Learning for Conditional Image Generation,21
+2020,On the distance between two neural networks and the stability of learning,11
+2020,A Topological Filter for Learning with Label Noise,10
+2020,Personalized Federated Learning with Moreau Envelopes,89
+2020,Geometric Dataset Distances via Optimal Transport,16
+2020,Task-Agnostic Amortized Inference of Gaussian Process Hyperparameters,1
+2020,User-Dependent Neural Sequence Models for Continuous-Time Event Data,4
+2020,Active Structure Learning of Causal DAGs via Directed Clique Trees,4
+2020,Convergence and Stability of Graph Convolutional Networks on Large Random Graphs,13
+2020,Robust Federated Learning: The Case of Affine Distribution Shifts,26
+2020,Generating Adjacency-Constrained Subgoals in Hierarchical Reinforcement Learning,8
+2020,Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion,6
+2020,Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms,21
+2020,H-Mem: Harnessing synaptic plasticity with Hebbian Memory Networks,2
+2020,Neural Unsigned Distance Fields for Implicit Function Learning,26
+2020,Curriculum By Smoothing,11
+2020,Fast Transformers with Clustered Attention,31
+2020,"The Convex Relaxation Barrier, Revisited: Tightened Single-Neuron Relaxations for Neural Network Verification",20
+2020,Strongly Incremental Constituency Parsing with Graph Neural Networks,6
+2020,Delta-STN: Efficient Bilevel Optimization for Neural Networks using Structured Response Jacobians,3
+2020,Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning,16
+2020,Hard Negative Mixing for Contrastive Learning,80
+2020,MOReL: Model-Based Offline Reinforcement Learning,120
+2020,Learning Semantic-aware Normalization for Generative Adversarial Networks,3
+2020,Differentiable Causal Discovery from Interventional Data,12
+2020,Robust Persistence Diagrams using Reproducing Kernels,0
+2020,Contextual Games: Multi-Agent Learning with Side Information,4
+2020,Goal-directed Generation of Discrete Structures with Conditional Generative Models,2
+2020,Minibatch Stochastic Approximate Proximal Point Methods,1
+2020,CrossTransformers: spatially-aware few-shot transfer,41
+2020,Model Fusion via Optimal Transport,19
+2020,Set2Graph: Learning Graphs From Sets,19
+2020,Gradient Boosted Normalizing Flows,2
+2020,Open Graph Benchmark: Datasets for Machine Learning on Graphs,303
+2020,Texture Interpolation for Probing Visual Perception,4
+2020,Focus of Attention Improves Information Transfer in Visual Features,2
+2020,Auditing Differentially Private Machine Learning: How Private is Private SGD?,29
+2020,A Dynamical Central Limit Theorem for Shallow Neural Networks,11
+2020,Measuring Systematic Generalization in Neural Proof Generation with Transformers,12
+2020, Fast Matrix Square Roots with Applications to Gaussian Processes and Bayesian Optimization,13
+2020,Firefly Neural Architecture Descent: a General Approach for Growing Neural Networks,5
+2020,PLANS: Neuro-Symbolic Program Learning from Videos,3
+2020,MeshSDF: Differentiable Iso-Surface Extraction,20
+2020,Variational Interaction Information Maximization for Cross-domain Disentanglement,0
+2020,Faithful Embeddings for Knowledge Base Queries,19
+2020,Wasserstein Distances for Stereo Disparity Estimation,6
+2020,Multi-agent Trajectory Prediction with Fuzzy Query Attention,4
+2020,Distributed Distillation for On-Device Learning,11
+2020,Sampling-Decomposable Generative Adversarial Recommender,4
+2020,Limits to Depth Efficiencies of Self-Attention,10

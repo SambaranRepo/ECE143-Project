@@ -50,7 +50,7 @@ def author_paper_citations(year, praw , df, adata, pname, i):
     return updated
 
 def get_affiliation(data): 
-    for i in tqdm(range(534 + 371 + 1885,len(data))): 
+    for i in tqdm(range(534 + 371 + 1885 + 411,len(data))): 
         praw = str(data['TITLE'][i])
         year = data['YEAR'][i]
         pname = praw.lower().replace(" ", "")
