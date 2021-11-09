@@ -19,7 +19,7 @@ for nips_links in tqdm(nips):
     exceptions = 0
     for papers in tqdm(section.find_all('li')): 
         try:
-            author = papers.i.text
+            author = str(papers.i.text)
             link_str = str(papers.a)
             title = papers.a.text
             link = link_str.split('href="')
@@ -31,7 +31,7 @@ for nips_links in tqdm(nips):
             abstract = abstract_section.find_all('p')[3].text
             entry = [year, title, author, link, abstract]
         except Exception as e:
-            entry = ['']
+            entry = ''
             exceptions +=1
         csv_writer.writerow(entry)
 print('Number of exceptions: {}'.format(exceptions))

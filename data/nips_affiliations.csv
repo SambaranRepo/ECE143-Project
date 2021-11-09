@@ -1,0 +1,1486 @@
+aazyear,paper,affiliations
+2018,Synthesized Policies for Transfer and Adaptation across Tasks and Environments,Google
+2018,On GANs and GMMs,"PhD Student, The Hebrew University of Jerusalem"
+2018,Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks,Lunit Inc.
+2018,Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies,LG AI Research
+2018,Adaptive Sampling Towards Fast Graph Representation Learning,Tsinghua University
+2018,Identification and Estimation of Causal Effects from Dependent Data,Johns Hopkins University
+2018,Learning SMaLL Predictors,Massachusetts Institute of Technology (MIT)
+2018,Objective and efficient inference for couplings in neuronal networks,RIKEN Center for Brain Science
+2018,Unsupervised Adversarial Invariance,"Applied Scientist, Amazon Alexa Natural Understanding"
+2018,Critical initialisation for deep signal propagation in noisy rectifier neural networks,"Research Scientist, InstaDeep Ltd"
+2018,Learning sparse neural networks via sensitivity-driven regularization,"Maître de conférences, Télécom Paris - Institut Polytechnique de Paris"
+2018,Cooperative neural networks (CoNN): Exploiting prior independence structure for improved classification,PhD student @ Georgia Institute of Technology
+2018,Data center cooling using model-predictive control,DeepMind
+2018,COLA: Decentralized Linear Learning,"PhD in CS, EPFL"
+2018,Leveraging the Exact Likelihood of Deep Latent Variable Models,"Research scientist, Inria"
+2018,Probabilistic Neural Programmed Networks for Scene Generation,Princeton University
+2018,Differentially Private Bayesian Inference for Exponential Families,University of Massachusetts Amherst
+2018,Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog,NAVER CLOVA and NAVER AI Lab
+2018,Learning Plannable Representations with Causal InfoGAN,"Research Scientist, Cruise llc"
+2018,Interactive Structure Learning with Structural Query-by-Committee,Columbia University
+2018,The streaming rollout of deep networks - towards fully model-parallel execution,Bosch Center for Artificial Intelligence
+2018,Contextual Stochastic Block Models,"Member of Research Staff, Voleon (Typical Set, LLC)"
+2018,Unsupervised Learning of Artistic Styles with Archetypal Style Analysis,"Machine Learning Scientist, Ava France"
+2018,Generalisation in humans and deep neural networks,University of Tübingen · International Max Planck Research School for Intelligent Systems …
+2018,IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis,"Associate Professor, NLPR, CASIA"
+2018,A Dual Framework for Low-rank Tensor Completion,Facebook AI
+2018,Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation,"Institute of Information Engineering, Chinese Academy of Sciences"
+2018,A Bayesian Nonparametric View on Count-Min Sketch,Princeton University
+2018,Middle-Out Decoding,Carnegie Mellon University
+2018,Total stochastic gradient algorithms and applications in reinforcement learning,Kyoto University
+2018,Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models,Max Planck Institute for Intelligent System
+2018,Random Feature Stein Discrepancies,"Assistant Professor of Statistics, Boston University"
+2018,Hessian-based Analysis of Large Batch Training and Robustness to Adversaries,"Microsoft, University of California, Berkeley"
+2018,Statistical Optimality of Stochastic Gradient Descent on Hard Learning Problems through Multiple Passes,"Ecole Polytechnique de Lausanne, EPFL"
+2018,Bayesian Structure Learning by Recursive Bootstrap,"Research Scientist, Intel Labs"
+2018,Efficient Convex Completion of Coupled Tensors using Coupled Nuclear Norms,"Project Specific Researcher, Kyoto Unversity"
+2018,Semi-Supervised Learning with Declaratively Specified Entropy Constraints,Carnegie Mellon University
+2018,The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization,"Professor of Computer Science, MIT"
+2018,Greedy Hash: Towards Fast Optimization for Accurate Hash Coding in CNN,Peking University
+2018,Which Neural Net Architectures Give Rise to Exploding and Vanishing Gradients?,"Assistant Professor, Princeton ORFE"
+2018,CatBoost: unbiased boosting with categorical features,Yandex
+2018,Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders,IBM TJ Watson Research Center
+2018,"Deep, complex, invertible  networks for inversion of transmission effects in multimode optical fibres",Inscribe
+2018,Scalable Hyperparameter Transfer Learning,"Applied Science Manager, Amazon"
+2018,Wasserstein Distributionally Robust Kalman Filtering,"Postdoctoral Scholar, ETH Zurich"
+2018,Generalized Zero-Shot Learning with Deep Calibration Network,University of Southern California
+2018,"Modelling sparsity, heterogeneity, reciprocity and community structure in temporal interaction data",Imperial College london
+2018,Heterogeneous Multi-output Gaussian Process Prediction,"DTU Compute, Technical University of Denmark"
+2018,Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis,Sun Yat-sen University
+2018,Learning towards Minimum Hyperspherical Energy,"University of Cambridge, MPI Tübingen"
+2018,Neural Code Comprehension: A Learnable Representation of Code Semantics,ETH Zurich
+2018,Amortized Inference Regularization,Stanford University
+2018,Structure-Aware Convolutional Neural Networks,"Researcher, Huawei Cloud; before at NLPR, CASIA"
+2018,Gradient Descent for Spiking Neural Networks,
+2018,Uplift Modeling from Separate Labels,Université Paris Dauphine - PSL/RIKEN
+2018,Heterogeneous Bitwidth Binarization in Convolutional Neural Networks,Head of Machine Learning at OctoML
+2018,BRUNO: A Deep Recurrent Model for Exchangeable Data,Ghent University
+2018,Gaussian Process Prior Variational Autoencoders,insitro
+2018,Variational Inference with Tail-adaptive f-Divergence,Facebook
+2018,Modelling and unsupervised learning of symmetric deformable object categories,Unitary Ltd
+2018,Information-theoretic Limits for Community Detection in Network Models,Purdue University
+2018,Dendritic cortical microcircuits approximate the backpropagation algorithm,"Institute of Neuroinformatics, ETH Zürich, Switzerland"
+2018,Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces,Massachusetts Institute of Technology
+2018,Unsupervised Learning of Object Landmarks through Conditional Image Generation,"PhD Student, VGG, University of Oxford"
+2018,Scalable Coordinated Exploration in Concurrent Reinforcement Learning,"Senior Research Scientist, Netflix - Stanford University"
+2018,Learning to Reconstruct Shapes from Unseen Classes,Ph.D. Candidate at MIT CSAIL
+2018,Out-of-Distribution Detection using Multiple Semantic Label Representations,"PhD Candidate, Bar-Ilan University"
+2018,Factored Bandits,University of Copenhagen
+2018,Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks,"Graduate Research Assistant, University of Maryland"
+2018,Implicit Probabilistic Integrators for ODEs,University of Kent
+2018,Distilled Wasserstein Learning for Word Embedding and Topic Modeling,"Associate Professor (Tenure-Track), Renmin University of China"
+2018,Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization,Research Scientist @ Facebook AI
+2018,Multi-Agent Generative Adversarial Imitation Learning,Stanford University
+2018,Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning,VISTEC
+2018,Variational Learning on Aggregate Outputs with Gaussian Processes,"DPhil in Statistics, University Of Oxford"
+2018,Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction,Tel Aviv University
+2018,Meta-Gradient Reinforcement Learning,Sea AI Lab
+2018,GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration,University of Pennsylvania
+2018,Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data,"AI Research Scientist, AstraZeneca"
+2018,Sanity Checks for Saliency Maps,MIT
+2018,Differentially Private Uniformly Most Powerful Tests for Binomial Data,"Assistant Professor, Purdue University"
+2018,Semidefinite relaxations for certifying robustness to adversarial examples,"PhD Student, Stanford University"
+2018,Multitask Boosting for Survival Analysis with Competing Risks,University of Cambridge
+2018,Deep Dynamical Modeling and Control of Unsteady Fluid Flows,Stanford University
+2018,Disconnected Manifold Learning for Generative Adversarial Networks,"PhD candidate, Rutgers University"
+2018,Automating Bayesian optimization with Bayesian optimization,Intel
+2018,Leveraged volume sampling for linear regression,Assistant Professor at University of Michigan
+2018,Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training,A Tiny Ph.D. Student @ UIUC ECE
+2018,Wasserstein Variational Inference,Donder's institute of Cognition
+2018,Bayesian Control of Large MDPs with Unknown Dynamics in Data-Poor Environments,"Assistant Professor of Electrical and Computer Engineering, Northeastern University"
+2018,A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks,"School of Computing Technologies, RMIT University"
+2018,The Price of Privacy for Low-rank Factorization,"Researcher, Apple"
+2018,Inferring Networks From Random Walk-Based Node Similarities,University of Chicago
+2018,Extracting Relationships by Multi-Domain Matching,Apple Inc
+2018,Modular Networks: Learning to Decompose Neural Computation,The Swiss AI Lab IDSIA
+2018,The Convergence of Sparsified Gradient Methods,IST Austria
+2018,Chain of Reasoning for Visual Question Answering,Microsoft Research Asia
+2018,Differentially Private k-Means with Constant Multiplicative Error,Tel Aviv University
+2018,Contamination Attacks and Mitigation in Multi-Party Machine Learning,University College London
+2018,Training Deep Neural Networks with 8-bit Floating Point Numbers,IBM TJ Watson Research Center (nwang@us.ibm.com)
+2018,ATOMO: Communication-efficient Learning via Atomic Sparsification,Carnegie Mellon University
+2018,Depth-Limited Solving for Imperfect-Information Games,"Research Scientist, Facebook AI Research"
+2018,Adversarial Risk and Robustness: General Definitions and Implications for the Uniform Distribution,"University of Oklahoma, School of Computer Science"
+2018,Efficient Anomaly Detection via Matrix Sketching,Stanford University
+2018,Playing hard exploration games by watching YouTube,"Research Scientist, DeepMind"
+2018,Navigating with Graph Representations for Fast and Scalable Decoding of Neural Language Models,Microsoft Research
+2018,Coordinate Descent with Bandit Sampling,Ph. D. Student at EPFL
+2018,PAC-Bayes bounds for stable algorithms with instance-dependent priors,University College London
+2018,Rest-Katyusha: Exploiting the Solution's Structure via Scheduled Restart Schemes,University of Cambridge
+2018,Automatic Program Synthesis of Long Programs with a Learned Garbage Collector,Tel Aviv University
+2018,Quantifying Learning Guarantees for Convex but Inconsistent Surrogates,"НИУ-ВШЭ, Факультет компьютерных наук, Департамент больших данных и …"
+2018,Unsupervised Text Style Transfer using Language Models as Discriminators,Carnegie Mellon University
+2018,Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions,"University of Amsterdam, MIT-IBM Watson AI Lab"
+2018,Confounding-Robust Policy Improvement,Cornell University
+2018,Mesh-TensorFlow: Deep Learning for Supercomputers,Google Inc.
+2018,Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences,DeepMind
+2018,The Description Length of Deep Learning models,"Facebook AI Research, Université Paris Saclay, Inria"
+2018,Semi-crowdsourced Clustering with Deep Generative Models,Max Planck Institute for Intelligent Systems
+2018,Scalable Laplacian K-modes,"Thales, CortAix"
+2018,Non-Adversarial Mapping with VAEs,The Hebrew University of Jerusalem
+2018,Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models,Princeton University
+2018,The challenge of realistic music generation: modelling raw audio at scale,"Research Scientist, DeepMind"
+2018,Towards Robust Interpretability with Self-Explaining Neural Networks,"Senior Researcher, Microsoft Research"
+2018,Predictive Uncertainty Estimation via Prior Networks,"Senior Research Scientist, Yandex Research"
+2018,An Off-policy Policy Gradient Theorem Using Emphatic Weightings,University of Alberta
+2018,Multiple-Step Greedy Policies in Approximate and Online Reinforcement Learning,"Microsoft Research, New York"
+2018,Scaling the Poisson GLM to massive neural datasets through polynomial approximations,Princeton University
+2018,Hybrid Macro/Micro Level Backpropagation for Training Deep Spiking Neural Networks,Facebook (previous: Texas A&M)
+2018,Global Non-convex Optimization with Discretized Diffusions,Stanford University
+2018,Invariant Representations without Adversarial Training,MIT CSAIL
+2018,Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo,University of Cambridge
+2018,Fully Neural Network Based Speech Recognition on Mobile and Embedded Devices,Samsung Research
+2018,Collaborative Learning for Deep Neural Networks,
+2018,Multi-Task Learning as Multi-Objective Optimization,Intel Labs
+2018,Neural Voice Cloning with a Few Samples,Google
+2018,Low-Rank Tucker Decomposition of Large Tensors Using TensorSketch,"Alvarez Postdoctoral Fellow, Lawrence Berkeley National Laboratory"
+2018,A Probabilistic U-Net for Segmentation of Ambiguous Images,DeepMind
+2018,Bandit Learning in Concave N-Person Games,"Faculty of Engineering and Sciences, Universidad Adolfo Ibáñez"
+2018,Lipschitz-Margin Training: Scalable Certification of Perturbation Invariance for Deep Neural Networks,"Preferred Networks, Inc."
+2018,3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data,University of Amsterdam
+2018,Toddler-Inspired Visual Object Learning,Data Science & Machine Learning at Nationwide Children's Hospital
+2018,Reducing Network Agnostophobia,University of Colorado Colorado Springs
+2018,Deep Functional Dictionaries: Learning Consistent Semantic Structures on 3D Models from Functions,KAIST
+2018,Learning to Decompose and Disentangle Representations for Video Prediction,Carnegie Mellon University
+2018,Weakly Supervised Dense Event Captioning in Videos,Tsinghua
+2018,e-SNLI: Natural Language Inference with Natural Language Explanations,"Postdoctoral researcher in Computer Science, University of Oxford"
+2018,Gamma-Poisson Dynamic Matrix Factorization Embedded with Metadata Influence,University of Technology Sydney
+2018,A Block Coordinate Ascent Algorithm for Mean-Variance Optimization,University of Illinois at Urbana-Champaign
+2018,Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features,PhD student at ETH Zurich
+2018,Unsupervised Learning of Shape and Pose with Differentiable Point Clouds,University of Oxford
+2018,Learning Concave Conditional Likelihood Models for Improved Analysis of Tandem Mass Spectra,UC Davis
+2018,Approximate Knowledge Compilation by Online Collapsed Importance Sampling,"PhD Student, UCLA"
+2018,Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation,Alibaba Group
+2018,A Lyapunov-based Approach to Safe Reinforcement Learning,"Research Scientist, Google Research"
+2018,Deep Poisson gamma dynamical systems,
+2018,Generalizing Graph Matching beyond Quadratic Assignment Model,The Chinese University of Hong Kong (Shenzhen)
+2018,Regularizing by the Variance of the Activations' Sample-Variances,Research Scientist at Apple
+2018,Single-Agent Policy Tree Search With Guarantees,Research Scientist at Google DeepMind
+2018,Bias and Generalization in Deep Generative Models: An Empirical Study,Stanford University
+2018,Joint Autoregressive and Hierarchical Priors for Learned Image Compression,Google
+2018,A flexible model for training action localization with varying levels of supervision,INRIA
+2018,A probabilistic population code based on neural samples,"Student, University of Rochester"
+2018,Generative Probabilistic Novelty Detection with Adversarial Autoencoders,Ph.D. student
+2018,Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data,Assistant Professor at CMU
+2018,Informative Features for Model Comparison,Google Research
+2018,Reinforcement Learning of Theorem Proving,University of Innsbruck
+2018,On Fast Leverage Score Sampling and Optimal Learning,INRIA - École Normale Supérieure
+2018,Robustness of conditional GANs to noisy labels,University of Illinois at Urbana-Champaign
+2018,Removing Hidden Confounding by Experimental Grounding,Cornell University
+2018,Legendre Decomposition for Tensors,"Associate Professor, National Institute of Informatics"
+2018,Bilevel learning of the Group Lasso structure,Istituto Italiano di Tecnologia
+2018,SING: Symbol-to-Instrument Neural Generator,Facebook
+2018,LinkNet: Relational Embedding for Scene Graph,KAIST
+2018,Meta-Learning MCMC Proposals,"Massachusetts Institute of Technology; University of California, Berkeley; Facebook AI …"
+2018,Bayesian Pose Graph Optimization via Bingham Distributions and Tempered Geodesic MCMC,Stanford University
+2018,Uniform Convergence of Gradients for Non-Convex Learning and Optimization,Microsoft Research
+2018,Multi-Agent Reinforcement Learning via Double Averaging Primal-Dual Optimization,"Assistant Professor, The Chinese University of Hong Kong"
+2018,Neural Tangent Kernel: Convergence and Generalization in Neural Networks,"PhD student, EPFL"
+2018,Randomized Prior Functions for Deep Reinforcement Learning,DeepMind
+2018,On the Convergence and Robustness of Training GANs with Regularized Optimal Transport,Facebook AI
+2018,Uncertainty Sampling is Preconditioned Stochastic Gradient Descent on Zero-One Loss,"Computer Science Postdoc, University of Washington"
+2018,Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making,Tesla
+2018,Distributed Stochastic Optimization via Adaptive SGD,Boston University
+2018,Smoothed Analysis of Discrete Tensor Decomposition and Assemblies of Neurons,Stanford University
+2018,Deep State Space Models for Time Series Forecasting,Amazon
+2018,Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding,Harvard University
+2018,Deep Anomaly Detection Using Geometric Transformations,"M.Sc. Student, Technion -- Israel Institute of Technology"
+2018,On Oracle-Efficient PAC RL with Rich Observations,"Research Scientist, Google"
+2018,Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution,The Chinese University of Hong Kong
+2018,Non-delusional Q-learning and value-iteration,"Research Scientist, Google"
+2018,An intriguing failing of convolutional neural networks and the CoordConv solution,ML Collective; Google Brain
+2018,Adversarially Robust Optimization with Gaussian Processes,"Postdoctoral researcher, ETH Zurich"
+2018,Neural Proximal Gradient Descent for Compressive Imaging,"Research Scientist, Stanford University"
+2018,Stochastic Nonparametric Event-Tensor Decomposition,"School of Computing, University of Utah"
+2018,Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures,DeepMind
+2018,Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning,"Senior Research Scientist, DeepMind"
+2018,Connecting Optimization and Regularization Paths,Carnegie Mellon University
+2018,MetaReg: Towards Domain Generalization using Meta-Regularization,"PhD student at University of Maryland, College Park"
+2018,Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals,UC Berkeley
+2018,Complex Gated Recurrent Neural Networks,University of Bonn - Fraunhofer Center for Machine Learning and SCAI
+2018,Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation,"PhD, University of Pennsylvania"
+2018,Learning Loop Invariants for Program Verification,McGill University & Mila
+2018,Learning Others' Intentional Models in Multi-Agent Settings Using Interactive POMDPs,University of Illinois at Chicago
+2018,Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks,Akasha Imaging
+2018,Balanced Policy Evaluation and Learning,Cornell University
+2018,TADAM: Task dependent adaptive metric for improved few-shot learning,Research Scientist at Unity
+2018,A Bayes-Sard Cubature Method,"Postdoctoral Researcher, University of Helsinki"
+2018,Learning to Infer Graphics Programs from Hand-Drawn Images,"Cornell, MIT"
+2018,Overcoming Language Priors in Visual Question Answering with Adversarial Regularization,Autonomous Vehicles Computer Vision Engineer at NVIDIA
+2018,Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis,Google Brain
+2018,Learning to Solve SMT Formulas,ETH Zurich
+2018,Learning to Repair Software Vulnerabilities with Generative Adversarial Networks,MIT Lincoln Labs
+2018,Algorithmic Linearly Constrained Gaussian Processes,Professor of math and data science
+2018,ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions,"Assistant Professor, Department of Computer Science, Iowa State University"
+2018,On Controllable Sparse Alternatives to Softmax,"Mila, Université de Montréal"
+2018,Gaussian Process Conditional Density Estimation,University of Cambridge
+2018,Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images,Google
+2018,Learning Attentional Communication for Multi-Agent Cooperation,"Ph.D. student, Peking University"
+2018,Multi-domain Causal Structure Learning in Linear Systems,Johns Hopkins University
+2018,Policy Optimization via Importance Sampling,"Postdoctoral Researcher, Politecnico di Milano"
+2018,Task-Driven Convolutional Recurrent Models of the Visual System,"Neurosciences Ph.D. Candidate, Stanford University"
+2018,Hunting for Discriminatory Proxies in Linear Regression Models,Carnegie Mellon University
+2018,Entropy and mutual information in models of deep neural networks,"Postdoc, NYU Center for Data Science, Flatiron Institute CCM"
+2018,A Simple Cache Model for Image Recognition,NYU
+2018,Quadrature-based features for kernel approximation,Max Planck Institute for Intelligent Systems
+2018,A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices,Butlr
+2018,Object-Oriented Dynamics Predictor,Tsinghua University
+2018,To Trust Or Not To Trust A Classifier,"Research Scientist, Google Research"
+2018,Deep Reinforcement Learning of Marked Temporal Point Processes,CTO/co-founder Reason.al
+2018,Distributed Learning without Distress: Privacy-Preserving Empirical Risk Minimization,Research Assistant at University of Virginia
+2018,Hybrid Knowledge Routed Modules for Large-scale Object Detection,Sun Yat-san University
+2018,Supervising Unsupervised Learning,Massachusetts Institute of Technology (MIT)
+2018,"Overlapping Clustering Models, and One (class) SVM to Bind Them All",The University of Texas at Austin
+2018,Improving Online Algorithms via ML Predictions,Google
+2018,Causal Inference via Kernel Deviance Measures,Research Scientist at DeepMind
+2018,"Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects","Research Scientist, DeepMind"
+2018,Learning with SGD and Random Features,"Postdoctoral Researcher, University of Genoa"
+2018,Boolean Decision Rules via Column Generation,IBM Research
+2018,Boosting Black Box Variational Inference,"Senior Applied Scientist, Amazon AWS"
+2018,Variational Bayesian Monte Carlo,"Assistant Professor of Machine and Human Intelligence, University of Helsinki"
+2018,Tangent: Automatic differentiation using source-code transformation for dynamically typed array programming,Google
+2018,Learning Task Specifications from Demonstrations,"Computer Science PhD Student at University of California, Berkeley"
+2018,"FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction",University of Oxford
+2018,Simple random search of static linear policies is competitive for reinforcement learning,Massachusetts Institute of Technology
+2018,Automatic differentiation in ML: Where we are and where we should be going,Google
+2018,Discretely Relaxing Continuous Variables for tractable Variational Inference,University of Toronto
+2018,Learning and Testing Causal Models with Interventions,"Assistant Professor, Cornell University"
+2018,Evolved Policy Gradients,Netflix Research
+2018,Demystifying excessively volatile human learning: A Bayesian persistent prior and a neural approximation,"University of California, San Diego"
+2018,Distributionally Robust Graphical Models,Carnegie Mellon University
+2018,Iterative Value-Aware Model Learning,"Vector Institute, University of Toronto"
+2018,Faster Neural Networks Straight from JPEG,Amazon Robotics
+2018,Densely Connected Attention Propagation for Reading Comprehension,"Research Scientist, Google AI"
+2018,Content preserving text generation with attribute controls,University of Michigan
+2018,Policy-Conditioned Uncertainty Sets for Robust Markov Decision Processes,Inria Lille
+2018,Deep Generative Models for Distribution-Preserving Lossy Compression,Apple Inc.
+2018,"With Friends Like These, Who Needs Adversaries?","Postdoctoral Researcher, INRIA Paris Saclay"
+2018,Learning to Teach with Dynamic Loss Functions,Microsoft Research
+2018,Distributed Multitask Reinforcement Learning with Quadratic Convergence,Massachusetts Institute of Technology
+2018,Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks,UC Berkeley
+2018,Integrated accounts of behavioral and neuroimaging data using flexible recurrent neural network models,"Data61, CSIRO"
+2018,"Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation","University of California, Los Angeles"
+2018,SLAYER: Spike Layer Error Reassignment in Time,"Intel Labs, USA"
+2018,A Convex Duality Framework for GANs,"Assistant Professor, Chinese University of Hong Kong"
+2018,Empirical Risk Minimization Under Fairness Constraints,Amazon
+2018,End-to-End Differentiable Physics for Learning and Control,Carnegie Mellon University
+2018,A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation,Massachusetts Institute of Technology
+2018,Horizon-Independent Minimax Linear Regression,MIT
+2018,Beauty-in-averageness and its contextual modulations: A Bayesian statistical account,"University of California, San Diego"
+2018,The committee machine: Computational to statistical gaps in learning a two-layers neural network,Init ML - ClipDrop
+2018,Adversarial vulnerability for any classifier,"Research Scientist, Google DeepMind"
+2018,Adversarial Examples that Fool both Computer Vision and Time-Limited Humans,"Research Scientist, Google Research, Brain Team"
+2018,Evolution-Guided Policy Gradient in Reinforcement Learning,Applied Scientist II at Microsoft
+2018,Bayesian Distributed Stochastic Gradient Descent,"Graduate Student, University of Oxford"
+2018,Faithful Inversion of Generative Models for Effective Amortized Inference,"Software Engineer (Infrastructure), Facebook"
+2018,Stochastic Chebyshev Gradient Descent for Spectral Optimization,Yale University
+2018,Model-based targeted dimensionality reduction for neuronal population data,"Assistant Professor, UCSD Neurobiology & Halıcıoğlu Data Science Institute"
+2018,Online Robust Policy Learning in the Presence of Unknown Adversaries,University of Illinois Urbana Champaign
+2018,Representer Point Selection for Explaining Deep Neural Networks,"PhD, Machine Learning Department, Carnegie Mellon University"
+2018,Watch Your Step: Learning Node Embeddings via Graph Attention,"PhD Student, USC"
+2018,Learning to Optimize Tensor Programs,Carnegie Mellon University
+2018,Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities,University of Birmingham
+2018,Rectangular Bounding Process,University of New South Wales
+2018,Causal Discovery from Discrete Data using Hidden Compact Representation,"Professor of Computer Science, Guangdong University of Technology"
+2018,Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search,"Nuro, Inc."
+2018,Modeling Dynamic Missingness of Implicit Feedback for Recommendation,eBay Inc.
+2018,The Sparse Manifold Transform,"Postdoc Researcher, Facebook AI Research (FAIR); Visiting Scholar, Berkeley AI Research …"
+2018,Probabilistic Model-Agnostic Meta-Learning,"Stanford University, Google"
+2018,Deep Neural Networks with Box Convolutions,Skolkovo Institute of Science and Technology
+2018,Neighbourhood Consensus Networks,Facebook AI Research
+2018,Adaptive Methods for Nonconvex Optimization,Google Research
+2018,How Does Batch Normalization Help Optimization?,"Postdoc, Stanford University"
+2018,Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning,浙江大学特聘副研究员
+2018,MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models,Zhejiang University
+2018,Multiplicative Weights Updates with Constant Step-Size in Graphical Constant-Sum Games,"Department of Computer Science, Royal Holloway University of London"
+2018,Implicit Reparameterization Gradients,DeepMind
+2018,MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare,KAIST
+2018,Flexible and accurate inference and learning for deep generative models,DeepMind
+2018,Constructing Deep Neural Networks by Bayesian Network Structure Learning,"Research Scientist, Intel Labs"
+2018,"Training Deep Models Faster with Robust, Approximate Importance Sampling",Apple
+2018,Learning Beam Search Policies via Imitation Learning,Carnegie Mellon University
+2018,An Efficient Pruning Algorithm for Robust Isotonic Regression,The Voleon Group
+2018,Bilinear Attention Networks,NAVER AI Lab
+2018,Constructing Fast Network through Deconstruction of Convolution,mofl inc.
+2018,Turbo Learning for CaptionBot and DrawingBot,"Microsoft Research, Redmond"
+2018,Learning semantic similarity in a continuous space,Ecole Polytechnique
+2018,See and Think: Disentangling Semantic Scene Completion,Tencent Technology (Shanghai)
+2018,L4: Practical loss-based stepsize adaptation for deep learning,Max Planck Institute for Intelligent Systems
+2018,Generalisation of structural knowledge in the hippocampal-entorhinal system,University of Oxford
+2018,Data-dependent PAC-Bayes priors via differential privacy,Google Brain
+2018,Sigsoftmax: Reanalysis of the Softmax Bottleneck,NTT
+2018,DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors,Senior Research Scientist at NVIDIA Research
+2018,GumBolt: Extending Gumbel trick to Boltzmann priors,Borealis AI
+2018,Adding One Neuron Can Eliminate All Bad Local Minima,University of Illinois at Urbana-Champaign
+2018,Dialog-based Interactive Image Retrieval,Facebook
+2018,Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies,"Applied Scientist, Amazon Web Services and Caltech"
+2018,Computationally and statistically efficient learning of causal Bayes nets using path queries,Purdue University
+2018,On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport,EPFL
+2018,Differentially Private Contextual Linear Bandits,"PhD Student, University of Alberta"
+2018,Learning to Reason with Third Order Tensor Products,IDSIA
+2018,Deep Structured Prediction with Nonlinear Output Transformations,University of Illinois at Urbana-Champaign
+2018,Training Neural Networks Using Features Replay,"Research Scientist, Google"
+2018,Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network,"Associate Professor, The University of Chicago"
+2018,Representation Learning for Treatment Effect Estimation from Observational Data,Alibaba Group
+2018,DeepExposure: Learning to Expose Photos with Asynchronously Reinforced Adversarial Learning,
+2018,Insights on representational similarity in neural networks with canonical correlation,"Research Scientist, Facebook AI Research"
+2018,Efficient nonmyopic batch active search,Facebook
+2018,Fast Similarity Search via Optimal Sparse Lifting,"The Chinese University of Hong Kong, Shenzhen"
+2018,Evidential Deep Learning to Quantify Classification Uncertainty,"Department of Computer Science, University College London"
+2018,A Game-Theoretic Approach to Recommendation Systems with Strategic Content Providers,"Post-Doctoral Fellow, Tel-Aviv University"
+2018,Adaptive Path-Integral Autoencoders: Representation Learning and Planning for Dynamical Systems,"Learning & Intelligent Systems, TU Berlin, Max Planck Institute for Intelligent Systems"
+2018,Towards Text Generation with Adversarially Learned Neural Outlines,"Mila, University of Montreal"
+2018,Conditional Adversarial Domain Adaptation,"Associate Professor, Tsinghua University"
+2018,Bayesian Nonparametric Spectral Estimation,Universidad de Chile
+2018,A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks,"Postdoc, UC Berkeley"
+2018,Differential Privacy for Growing Databases,Columbia University
+2018,Learning Pipelines with Limited Data and Domain Knowledge: A Study in Parsing Physics Problems,"Assistant Professor, ETH Zurich"
+2018,Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise,"PhD Student, UC Berkeley"
+2018,Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching,Huawei Zurich Research Center
+2018,Dual Principal Component Pursuit: Improved Analysis and Efficient Algorithms,"Assistant Professor, University of Denver"
+2018,Generative modeling for protein structures,"Bioengineering Dept, Stanford University"
+2018,Relating Leverage Scores and Density using Regularized Christoffel Functions,"IRIT, Université Toulouse 3 Paul Sabatier"
+2018,"Online Adaptive Methods, Universality and Acceleration",Assistant Professor at Technion - Israel Institute of Technology
+2018,Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents,"Facebook, MIT, Uber"
+2018,SimplE Embedding for Link Prediction in Knowledge Graphs,"Research Scientist, Google"
+2018,A Structured Prediction Approach for Label Ranking,ENSAE/CREST
+2018,Sparsified SGD with Memory,"Research Scientist, EPFL"
+2018,Model Agnostic Supervised Local Explanations,Carnegie Mellon University
+2018,Large Scale computation of Means and Clusters for Persistence Diagrams using Optimal Transport,"Maître de Conférence, Université Gustave Eiffel"
+2018,Probabilistic Matrix Factorization for Automated Machine Learning,"Senior Principal Researcher, Microsoft Research"
+2018,Cluster Variational Approximations for Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data,Machine Learning Engineer @Kausa.ai
+2018,Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions,INRIA - École Normale Supérieure
+2018,Dirichlet-based Gaussian Processes for Large-scale Calibrated Classification,"Post Doctoral Fellow, EURECOM"
+2018,Latent Alignment and Variational Attention,"PhD Student, Harvard University"
+2018,The Pessimistic Limits and Possibilities of Margin-based Losses in Semi-supervised Learning,Delft University of Technology
+2018,Porcupine Neural Networks: Approximating Neural Network Landscapes,"University of Maryland, College Park"
+2018,Learning Disentangled Joint Continuous and Discrete Representations,"PhD student, University of Oxford"
+2018,Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples,"Ph.D. Student, Purdue University"
+2018,Learning To Learn Around A Common Mean,University College of London
+2018,Recurrent Relational Networks,IT University of Copenhagen
+2018,Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach,"Mechanical and Industrial Engineering, University of Toronto; Vector Institute"
+2018,Differentiable MPC for End-to-end Planning and Control,Facebook AI Research (FAIR)
+2018,"Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs","PhD student, MIT"
+2018,Fairness Behind a Veil of Ignorance: A Welfare Analysis for Automated Decision Making,Carnegie Mellon University
+2018,A Unified View of Piecewise Linear Neural Network Verification,Deepmind
+2018,Wavelet regression and additive models for irregularly spaced data,McGill University
+2018,Self-Erasing Network for Integral Object Attention,"Associate professor, Nankai University"
+2018,Training deep learning based denoisers without ground truth data,Huawei
+2018,Realistic Evaluation of Deep Semi-Supervised Learning Algorithms,Google Brain
+2018,Long short-term memory and Learning-to-learn in networks of spiking neurons,EPFL
+2018,Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering,"UC Berkeley, University of Illinois Urbana Champaign"
+2018,Distributed Multi-Player Bandits - a Game of Thrones Approach,Stanford University
+2018,Blockwise Parallel Decoding for Deep Autoregressive Models,"PhD Student, UC Berkeley"
+2018,Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization,"University of Oxford, UK"
+2018,FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification,The Chinese University of Hong Kong
+2018,Graphical Generative Adversarial Networks,"Tenure-track Assistant Professor in Gaoling School of AI, Renmin University of China"
+2018,Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives,"Principal RSM, IBM"
+2018,M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search,Kent State University
+2018,Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound,Apple Inc.
+2018,Group Equivariant Capsule Networks,Max Planck Institute for Informatics
+2018,Searching for Efficient Multi-Scale Architectures for Dense Image Prediction,"Research Scientist, Google LA"
+2018,Adversarial Scene Editing: Automatic Object Removal from Weak Supervision,Max Planck Institute for Informatics
+2018,Variational Inverse Control with Events: A General Framework for Data-Driven Reward Definition,UC Berkeley
+2018,MULAN: A Blind and Off-Grid Method for Multichannel Echo Retrieval,École Polytechnique Fédérale de Lausanne
+2018,Breaking the Activation Function Bottleneck through Adaptive Parameterization,Research Scientist at DeepMind
+2018,Topkapi: Parallel and Fast Sketches for Finding Top-K Frequent Elements,"PhD Candidate, Georgia Institute of Technology"
+2018,The Price of Fair PCA: One Extra dimension,Research Group Leader. Max Planck Institute for Intelligent Systems
+2018,Orthogonally Decoupled Variational Gaussian Processes,Imperial College London
+2018,Algorithmic Assurance: An Active Approach to Algorithmic Testing using Bayesian Optimisation,Deakin University
+2018,High Dimensional Linear Regression using Lattice Basis Reduction,"CDS Moore-Sloan Fellow, New York University"
+2018,Efficient inference for time-varying behavior during learning,"Graduate Student, Princeton University"
+2018,Re-evaluating evaluation,XTX Markets
+2018,Learning Abstract Options,IBM
+2018,PG-TS: Improved Thompson Sampling for Logistic Contextual Bandits,Cambridge University
+2018,Variance-Reduced Stochastic Gradient Descent on Streaming Data,Carnegie Mellon University
+2018,GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training,Dolby Laboratory
+2018,Theoretical Linear Convergence of Unfolded ISTA and Its Practical Weights and Thresholds,"Electrical and Computer Engineering (DICE) , University of Texas at Austin"
+2018,Neural Edit Operations for Biological Sequences,Toyota Central R&D Lab
+2018,Temporal alignment and latent Gaussian process factor inference in population spike trains,Stanford University
+2018,Dimensionality Reduction for Stationary Time Series via Stochastic Nonconvex Optimization,Georgia Institute of Technology
+2018,"Nonlocal Neural Networks, Nonlocal Diffusion and Nonlocal Modeling","Research Scientist, ByteDance"
+2018,SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient,"PhD Student, Stanford University"
+2018,Preference Based Adaptation for Learning Objectives,"Assistant Professor, Zhejiang University"
+2018,Learning Invariances using the Marginal Likelihood,Imperial College London
+2018,NEON2: Finding Local Minima via First-Order Oracles,Microsoft Research Redmond
+2018,Lipschitz regularity of deep neural networks: analysis and efficient estimation,Huawei
+2018,Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation,"CS PhD candidate, Stanford University"
+2018,Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base,Sun Yat-Sen University
+2018,Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language,York University
+2018,Exploration in Structured Reinforcement Learning,"Assistant Professor, CSE/AI, POSTECH"
+2018,Tree-to-tree Neural Networks for Program Translation,"EECS, UC Berkeley"
+2018,Virtual Class Enhanced Discriminative Embedding Learning,Beijing University of Posts and Telecommunications
+2018,How to Start Training: The Effect of Initialization and Architecture,"Assistant Professor, Princeton ORFE"
+2018,Video-to-Video Synthesis,NVIDIA Research
+2018,Occam's razor is insufficient to infer the preferences of irrational agents,"James Martin Research Fellow, Future of Humanity Institute, Oxford University"
+2018,Adversarial Regularizers in Inverse Problems,"PhD Student, University of Cambridge"
+2018,The emergence of multiple retinal cell types through efficient coding of natural movies,Stanford
+2018,Approximating Real-Time Recurrent Learning with Random Kronecker Factors,PhD candidate at ETH
+2018,Hyperbolic Neural Networks,"MIT, CSAIL"
+2018,Mean Field for the Stochastic Blockmodel: Optimization Landscape and Convergence Issues,"INSPIRE Faculty at ISRU at ISI, Kolkata"
+2018,Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity,Facebook
+2018,Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks,ByteDance AILab
+2018,DeepProbLog:  Neural Probabilistic Logic Programming,"DTAI, KU Leuven"
+2018,Image-to-image translation for cross-domain disentanglement,"Computer Vision Scientist, wrnch"
+2018,TopRank: A practical algorithm for online stochastic ranking,DeepMind
+2018,Minimax Estimation of Neural Net Distance,"Postdoc at the University of Michigan, Ann Arbor"
+2018,Using Large Ensembles of Control Variates for Variational Inference,"University of Massachusetts, Amherst"
+2018,Practical Methods for Graph Two-Sample Testing,Technical University of Munich
+2018,Learning to Navigate in Cities Without a Map,Staff Research Scientist at DeepMind
+2018,Fast greedy algorithms for dictionary selection with generalized sparsity constraints,National Institute of Informatics
+2018,Invertibility of Convolutional Generative Networks from Partial Measurements,Apple; MIT
+2018,Towards Robust Detection of Adversarial Examples,Tsinghua University; Sea AI Lab
+2018,Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding,"Google, Deepmind, Mila"
+2018,Dynamic Network Model from Partial Observations,Vector Institute
+2018,Actor-Critic Policy Optimization in Partially Observable Multiagent Environments,Google
+2018,Relational recurrent neural networks,DeepMind
+2018,Kalman Normalization: Normalizing Internal Representations Across Network Layers,University of Oxford
+2018,Are GANs Created Equal? A Large-Scale Study,"Research Scientist, Google Brain"
+2018,Recurrent Transformer Networks for Semantic Correspondence,"Assistant Professor of CS, Korea University"
+2018,FRAGE: Frequency-Agnostic Word Representation,University of Texas at Austin
+2018,Joint Active Feature Acquisition and Classification with Variable-Size Set Encoding,KAIST
+2018,Data-Efficient Hierarchical Reinforcement Learning,Google Brain
+2018,Verifiable Reinforcement Learning via Policy Extraction,University of Pennsylvania
+2018,A Simple Proximal Stochastic Gradient Method for Nonsmooth Nonconvex Optimization,"Research Scientist, KAUST"
+2018,Hierarchical Graph Representation Learning with Differentiable Pooling,Stanford University
+2018,Efficient Loss-Based Decoding on Graphs for Extreme Classification,Technion - Israel Institute of Technology
+2018,Scalable methods for 8-bit training of neural networks,Machine Learning Researcher @ Intel & Technion
+2018,Solving Large Sequential Games with the Excessive Gap Technique,"Assistant Professor, Columbia University"
+2018,Step Size Matters in Deep Learning,"University of California, Berkeley"
+2018,Convex Elicitation of Continuous Properties,University of Colorado Boulder
+2018,Bandit Learning with Positive Externalities,Stanford University
+2018,Learning long-range spatial dependencies with horizontal gated recurrent units,Brown University
+2018,(Probably) Concave Graph Matching,NVIDIA Research
+2018,HOUDINI: Lifelong Learning as Program Synthesis,University of Edinburgh
+2018,Snap ML: A Hierarchical Framework for Machine Learning,Max Planck Institute for Intelligent Systems
+2018,Embedding Logical Queries on Knowledge Graphs,"Assistant Professor of Computer Science, McGill University and Mila"
+2018,Learning Versatile Filters for Efficient Convolutional Neural Networks,"Senior Researcher, Noah's Ark Lab, Huawei Technologies."
+2018,Neural Nearest Neighbors Networks,TU Darmstadt
+2018,Learning latent variable structured prediction models with Gaussian perturbations,Purdue University
+2018,Differentially Private Change-Point Detection,Columbia University
+2018,Proximal Graphical Event Models,"Researcher, IBM TJ Watson Research Center"
+2018,Low-rank Interaction with Sparse Additive Effects Model for Large Data Frames,"Chargée de Recherche, CNRS, Université d'Évry Val d'Essonne, Évry, France"
+2018,Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels,"PhD Student, Cornell University"
+2018,Inference Aided Reinforcement Learning for Incentive Mechanism Design in Crowdsourcing,
+2018,Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting,University College London
+2018,Neural Architecture Search with Bayesian Optimisation and Optimal Transport,"University of California, Berkeley"
+2018,BinGAN: Learning Compact Binary Descriptors with a Regularized GAN,"Wroclaw University of  Science and Technology, Tooploox"
+2018,Communication Efficient Parallel Algorithms for Optimization on Manifolds,"postdoctoral position, University of Rochester"
+2018,Why so gloomy? A Bayesian explanation of human pessimism bias in the multi-armed bandit task,University of California San Diego
+2018,Robust Subspace Approximation in a Stream,Carnegie Mellon University
+2018,Learning convex bounds for linear quadratic control policy synthesis,"Postdoctoral associate, MIT"
+2018,Mean-field theory of graph neural networks in graph partitioning,National Institute of Advanced Industrial Science and Technology
+2018,Assessing Generative Models via Precision and Recall,Google Brain
+2018,Improved Network Robustness with Adversary Critic,Imperial College London
+2018,A Practical Algorithm for Distributed Clustering and Outlier Detection,Google Research
+2018,Loss Functions for Multiset Prediction,"Postdoctoral scholar, University of Washington"
+2018,SEGA: Variance Reduction via Gradient Sketching,"Research Assistant Professor, TTIC"
+2018,Flexible neural representation for physics prediction,Stanford University
+2018,A Stein variational Newton method,"Machine Learning Scientist, Amazon"
+2018,LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning,"Assistant Professor, Rensselaer Polytechnic Institute"
+2019,XNAS: Neural Architecture Search with Expert Advice,
+2019,Multi-resolution Multi-task Gaussian Processes,"The University of Warwick, The Alan Turing Institute"
+2019,Deep Equilibrium Models,"Machine Learning Department, Carnegie Mellon University"
+2019,Cross Attention Network for Few-shot Classification,"Institute of Computing Technology, Chinese Academy of Sciences"
+2019,Asymmetric Valleys: Beyond Sharp and Flat Local Minima,Tsinghua University
+2019,Improved Precision and Recall Metric for Assessing Generative Models,"PhD student, Aalto University"
+2019,Hyperspherical Prototype Networks,"Assistant Professor, University of Amsterdam"
+2019,Generalization of Reinforcement Learners with Working and Episodic Memory,Google DeepMind
+2019,DTWNet: a Dynamic Time Warping Network,"University of Connecticut, Baidu Research"
+2019,Explicit Explore-Exploit Algorithms in Continuous State Spaces,Facebook AI Research
+2019,Hyperbolic Graph Convolutional Neural Networks,Stanford University
+2019,SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers,ARM ML Research
+2019,Information-Theoretic Generalization Bounds for SGLD via Data-Dependent Estimates,University of Toronto
+2019,Robust exploration in linear quadratic reinforcement learning,"Postdoctoral associate, MIT"
+2019,Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections,"Research Scientist, Intel Labs"
+2019,Meta-Surrogate Benchmarking for Hyperparameter Optimization,AWS Research Berlin
+2019,State Aggregation Learning from Markov Transition Data,Princeton University
+2019,Reliable training and estimation of variance networks,"Postdoc, Section for Cognitive Systems, Technical University of Denmark (DTU)"
+2019,Meta-Learning with Implicit Gradients,"Facebook AI Research (FAIR), UC Berkeley"
+2019,Differentially Private Markov Chain Monte Carlo,"PhD student, University of Helsinki"
+2019,Universal Boosting Variational Inference,"Assistant Professor, Statistics, UBC"
+2019,The Geometry of Deep Networks: Power Diagram Subdivision,Facebook AI Research New York2019,Equal Opportunity in Online Classification with Partial Feedback,Hebrew University of Jerusalem
+2019,Interior-Point Methods Strike Back: Solving the Wasserstein Barycenter Problem,
+2019,GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism,Google Brain
+2019,DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node,Carnegie Mellon University
+2019,Linear Stochastic Bandits Under Safety Constraints,UCLA
+2019,Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models,University of Oxford
+2019,Language as an Abstraction for Hierarchical Deep Reinforcement Learning,"PhD Student, Carnegie Mellon University"
+2019,High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes,Amazon
+2019,Learning Macroscopic Brain Connectomes via Group-Sparse Factorization,"Research Assistant, University of Alberta"
+2019,DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs,University of Florida
+2019,Retrosynthesis Prediction with Conditional Graph Logic Network,Google Brain
+2019,Unsupervised Emergence of Egocentric Spatial Structure from Sensorimotor Prediction,Sony AI
+2019,Adversarial Robustness through Local Linearization,"Research Scientist, DeepMind"
+2019,Generalized Off-Policy Actor-Critic,University of Oxford
+2019,"Average Individual Fairness: Algorithms, Generalization and Experiments","PhD Student of Statistics and Data Science, University of Pennsylvania"
+2019,Approximate Bayesian Inference for a Mechanistic Model of Vesicle Release at a Ribbon Synapse,University of Tübingen
+2019,Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation,Stanford University
+2019,Semi-supervisedly Co-embedding Attributed Networks,"University of Cambridge, University of Glasgow, Sun Yat-sen University"
+2019,Training Image Estimators without Image Ground Truth,"Research Scientist, Adobe"
+2019,The Label Complexity of Active Learning from Observational Data,University of California San Diego
+2019,Learning Fairness in Multi-Agent Systems,"Ph.D. student, Peking University"
+2019,Discovery of Useful Questions as Auxiliary Tasks,University of Michigan
+2019,"Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask",Mila; Université de Montréal
+2019,Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes,"University of Cambridge, Invenia"
+2019,A Simple Baseline for Bayesian Uncertainty in Deep Learning,"PhD student in data science, New York University"
+2019,Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees,Amadeus SAS
+2019,Finding the Needle in the Haystack with Convolutions: on the benefits of architectural bias,"École Normale Supérieure, Paris"
+2019,Learning Local Search Heuristics for Boolean Satisfiability,"PhD student, Carnegie Mellon University"
+2019,Learning to Perform Local Rewriting for Combinatorial Optimization,"EECS, UC Berkeley"
+2019,A Unified Bellman Optimality Principle Combining Reward Maximization and Empowerment,Eisler Capital
+2019,Probabilistic Logic Neural Networks for Reasoning,Quebec AI Institute (Mila)
+2019,Joint-task Self-supervised Learning for Temporal Correspondence,"University of California, Merced"
+2019,Dying Experts: Efficient Algorithms with Optimal Regret Bounds,University of Victoria
+2019,A Bayesian Theory of Conformity in Collective Decision Making,Allen Institute
+2019,Sequence Modeling with Unconstrained Generation Order,"Yandex, Russia; National Research University Higher School of Economics, Russia"
+2019,Visualizing and Measuring the Geometry of BERT,Google
+2019,Copulas as High-Dimensional Generative Models: Vine Copula Autoencoders,Swiss Data Science Center
+2019,q-means: A quantum algorithm for unsupervised machine learning,CNRS Senior Researcher & QC WARE
+2019,RUDDER: Return Decomposition for Delayed Rewards,Dynatrace Research
+2019,Convergence Guarantees for Adaptive Bayesian Quadrature Methods,EURECOM
+2019,A First-Order Algorithmic Framework for Distributionally Robust Logistic Regression,The Chinese University of Hong Kong
+2019,Semantic-Guided Multi-Attention Localization for Zero-Shot Learning,Research Scientist at Bytedance
+2019,Distributionally Robust Optimization and Generalization in Kernel Methods,Two Sigma Investments
+2019,Metalearned Neural Memory,"Research Scientist, Google"
+2019,Large Scale Adversarial Representation Learning,"Research Scientist, DeepMind"
+2019,Hindsight Credit Assignment,DeepMind
+2019,Zero-shot Learning via Simultaneous Generating and Learning,"Robotics Institute, Carnegie Mellon University"
+2019,Trivializations for Gradient-Based Optimization on Manifolds,University of Oxford
+2019,On the Fairness of Disentangled Representations,"Senior Applied Scientist, Amazon AWS"
+2019,Correlation Priors for Reinforcement Learning,"Research Associate, Technische Universität Darmstadt"
+2019,Accurate Uncertainty Estimation and Decomposition in Ensemble Learning,Google Research and Harvard University
+2019,Globally Optimal Learning for Structured Elliptical Losses,Hebrew University
+2019,MixMatch: A Holistic Approach to Semi-Supervised Learning,Google AI
+2019,Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks,"University of California, Berkeley"
+2019,Attentive State-Space Modeling of Disease Progression,"Broad institute of MIT and Harvard, Massachusetts Institute of Technology"
+2019,ADDIS: an adaptive discarding algorithm for online FDR control with conservative nulls,Ph.D. in Statistics at Carnegie Mellon University
+2019,Exploring Algorithmic Fairness in Robust Graph Covering Problems,PhD student at University of Southern California
+2019,Neural networks grown and self-organized by noise,"Graduate Student, California Institute of Technology"
+2019,HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs,Indian Institute of Science
+2019,Asymptotics for Sketching in Least Squares Regression,"Statistics & Computer Science, University of Pennsylvania"
+2019,Chirality Nets for Human Pose Regression,"Research Assistant Professor, Toyota Technology Institute at Chicago"
+2019,TAB-VCR: Tags and Attributes based VCR Baselines,University of Illinois at Urbana-Champaign
+2019,Multiclass Performance Metric Elicitation,University of Illinois Urbana-Champaign
+2019,Assessing Social and Intersectional Biases in Contextualized Word Representations,Yale University
+2019,MaCow: Masked Convolutional Generative Flow,"Information Sciences Institute, University of Southern California"
+2019,High-Quality Self-Supervised Deep Image Denoising,"Distinguished Research Scientist, NVIDIA"
+2019,Augmented Neural ODEs,"PhD student, University of Oxford"
+2019,Regularizing Trajectory Optimization with Denoising Autoencoders,"Doctoral Candidate, Aalto University"
+2019,Multi-Criteria Dimensionality Reduction with Applications to Fairness,Twitter
+2019,Turbo Autoencoder: Deep learning based channel codes for point-to-point communication channels,University of Washington
+2019,Diffusion Improves Graph Learning,Technical University of Munich
+2019,A Convex Relaxation Barrier to Tight Robustness Verification of Neural Networks,MIT
+2019,A Latent Variational Framework for Stochastic Optimization,ETH Zürich
+2019,"Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates",University of Alberta
+2019,Tight Regret Bounds for Model-Based Reinforcement Learning with Greedy Policies,"Microsoft Research, New York"
+2019,Weighted Linear Bandits for Non-Stationary Environments,ENS Paris
+2019,Neural Lyapunov Control,"PhD Student, UCSD"
+2019,Stochastic Variance Reduced Primal Dual Algorithms for Empirical Composition Optimization,Stanford University
+2019,Hamiltonian Neural Networks,"Oregon State University, ML Collective, ex-Google Brain"
+2019,Differentiable Cloth Simulation for Inverse Problems,"Ph. D. student of Computer Science, University of Maryland, College Park"
+2019,Detecting Overfitting via Adversarial Examples,Microsoft
+2019,Region-specific Diffeomorphic Metric Mapping,UNC Chapel Hill
+2019,Domain Generalization via Model-Agnostic Learning of Semantic Features,"Assistant Professor, The Chinese University of Hong Kong"
+2019,Unconstrained Monotonic Neural Networks,"Phd Student (FNRS), University of Liège"
+2019,Efficient Identification in Linear Structural Causal Models with Instrumental Cutsets,Purdue University
+2019,Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model,UCLA
+2019,Interval timing in deep reinforcement learning agents,Princeton University
+2019,Uncertainty-based Continual Learning with Adaptive Regularization,Sungkyunkwan University
+2019,Subspace Attack: Exploiting Promising Subspaces for Query-Efficient Black-box Attacks,Research Scientist
+2019,Combinatorial Bayesian Optimization using the Graph Cartesian Product,"PhD student, University of Amsterdam"
+2019,Stacked Capsule Autoencoders,"Research Scientist, DeepMind"
+2019,"N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules",MILA-UdeM
+2019,The spiked matrix model with generative priors,Init ML - ClipDrop
+2019,A coupled autoencoder approach for multi-modal analysis of cell types,Allen Institute
+2019,Meta-Inverse Reinforcement Learning with Probabilistic Context Variables,"Ph.D. Student, Computer Science Department, Stanford University"
+2019,Exact inference in structured prediction,Purdue University
+2019,Practical and Consistent Estimation of f-Divergences,Apple Inc.
+2019,R2D2: Reliable and Repeatable Detector and Descriptor,"Research Scientist, Naver Labs Europe"
+2019,First Order Motion Model for Image Animation,unitn.it
+2019,Scalable inference of topic evolution via models for latent geometric structures,"Research Staff Member, IBM Research AI"
+2019,Anti-efficient encoding in emergent communication,Facebook AI Research and CoML
+2019,PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation,Northeastern University
+2019,Stand-Alone Self-Attention in Vision Models,Google Brain
+2019,Explicit Disentanglement of Appearance and Perspective in Generative Models,"Postdoc, Section for Cognitive Systems, Technical University of Denmark (DTU)"
+2019,Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees,"PhD student, Cornell University"
+2019,On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks,Computer Scientist @ Los Alamos National Laboratory
+2019,Symmetry-Based Disentangled Representation Learning requires Interaction with Environments,"Postdoctoral Researcher, ISIR (Sorbonne University)"
+2019,Mining GOLD Samples for Conditional GANs,"Ph.D. Student, KAIST"
+2019,Few-shot Video-to-Video Synthesis,NVIDIA Research
+2019,Unlocking Fairness: a Trade-off Revisited,University of Massachusetts
+2019,Evaluating Protein Transfer Learning with TAPE,"PhD Student, UC Berkeley"
+2019,Recurrent Space-time Graph Neural Networks,Bitdefender
+2019,Singleshot : a scalable Tucker tensor decomposition,No affiliation
+2019,DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction,"Ph.D. student at USC, MS at Columbia University"
+2019,Personalizing Many Decisions with High-Dimensional Covariates,Ph.D. student at Stanford
+2019,Fully Neural Network based Model for General Temporal Point Processes,The University of Tokyo
+2019,Improving Textual Network Learning with Variational Homophilic Embeddings,Facebook Inc
+2019,"Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting",Google
+2019,Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso,INRIA Paris-Saclay
+2019,Efficient Neural Architecture Transformation Search in Channel-Level for Object Detection,
+2019,CXPlain: Causal Explanations for Model Interpretation under Uncertainty,GSK AI/ML
+2019,Principal Component Projection and Regression in Nearly Linear Time through Asymmetric SVRG,Stanford University
+2019,A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning,NYU
+2019,On Fenchel Mini-Max Learning,"Applied Scientist, Amazon; Former Senior Research Associate, Duke University (Statistics …"
+2019,Stability of Graph Scattering Transforms,"Postdoctoral Research Associate, Rice University"
+2019,More Is Less: Learning Efficient Video Representations by Big-Little Network and Depthwise Temporal Aggregation,IBM
+2019,Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs,Research Data Scientist
+2019,Defending Against Neural Fake News,"Ph.D. Student, University of Washington"
+2019,Robust and Communication-Efficient Collaborative Learning,"Postdoctoral Associate, LIDS, MIT"
+2019,Learning Robust Global Representations by Penalizing Local Predictive Power,"LTI, Carnegie Mellon University"
+2019,Average-Case Averages: Private Algorithms for Smooth Sensitivity and Mean Estimation,"Assistant Professor, Boston University"
+2019,Faster Boosting with Smaller Memory,Facebook
+2019,Modelling the Dynamics of Multiagent Q-Learning in Repeated Symmetric Games: a Mean Field Theoretic Approach,Postdoctoral Fellow at National University of Singapore
+2019,Bootstrapping Upper Confidence Bound,Deepmind
+2019,DETOX: A Redundancy-based Framework for Faster and More Robust Gradient Aggregation,"Graduate Student, University of Wisconsin - Madison"
+2019,Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition,Indiana University
+2019,Learning-In-The-Loop Optimization: End-To-End Control And Co-Design Of Soft Robots Through Learned Deep Latent Representations,Massachusetts Institute of Technology
+2019,Invariance and identifiability issues for word embeddings,Lancaster University
+2019,PC-Fairness: A Unified Framework for Measuring Causality-based Fairness,Clemson University
+2019,Worst-Case Regret Bounds for Exploration via Randomized Value Functions,Columbia University
+2019,Glyce: Glyph-vectors for Chinese Character Representations,Shannon.AI
+2019,Fast and Provable ADMM for Learning with Generative Priors,"PhD Student, EPFL"
+2019,GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series,KU Leuven
+2019,General E(2)-Equivariant Steerable CNNs,University of Amsterdam
+2019,Learning nonlinear level sets for dimensionality reduction in function approximation,Oak Ridge National Laboratory
+2019,Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets,Stanford University
+2019,Limitations of the empirical Fisher approximation for natural gradient descent,University of British Columbia
+2019,"Fast, Provably convergent IRLS Algorithm for p-norm Linear Regression","PhD Student, Department of Computer Science, University of Toronto"
+2019,Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness,Princeton University
+2019,Drill-down: Interactive Retrieval of Complex Scenes using Natural Language Queries,"Researcher, Samsung AI Center, Cambridge"
+2019,Graph Agreement Models for Semi-Supervised Learning,"Research Scientist, Google"
+2019,Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection,Peking University
+2019,Model Similarity Mitigates Test Set Overuse,Massachusetts Institute of Technology
+2019,Explicit Planning for Efficient Exploration in Reinforcement Learning,University of Science and Technology of China
+2019,vGraph: A Generative Model for Joint Community Detection and Node Representation Learning,"Ph.D. student at Computer Science, Stanford University"
+2019,Can Unconditional Language Models Recover Arbitrary Sentences?,Predoctoral Resident at AI2
+2019,A Kernel Loss for Solving the Bellman Equation,UT Austin
+2019,Covariate-Powered Empirical Bayes Estimation,"Statistics Department, Stanford University"
+2019,AGEM: Solving Linear Inverse Problems via Deep Priors and Sampling,Tencent
+2019,Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks,Institute of computing technology
+2019,Learning Robust Options by Conditional Value at Risk Optimization,NEC Central Research Laboratories
+2019,Towards modular and programmable architecture search,Carnegie Mellon University
+2019,A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models,"Senior Research Scientist, Insilico Medicine"
+2019,Beating SGD Saturation with Tail-Averaging  and Minibatching,Technical University Brunswick
+2019,Extending Stein's unbiased risk estimator to train deep denoisers with correlated pairs of noisy images,Graduate student
+2019,Understanding the Role of Momentum in Stochastic Gradient Methods,"Applied Scientist, Microsoft"
+2019,DAC: The Double Actor-Critic Architecture for Learning Options,University of Oxford
+2019,Safe Exploration for Interactive Machine Learning,PhD at ETH Zurich
+2019,Neuropathic Pain Diagnosis Simulator for Causal Discovery Algorithm Evaluation,KTH Royal Institute of Technology
+2019,Parameter elimination in particle Gibbs sampling,"PhD student, Uppsala University"
+2019,Understanding Sparse JL for Feature Hashing,"PhD Student, UC Berkeley"
+2019,Dynamic Local Regret for Non-convex Online Forecasting,Amazon Web Services
+2019,"Write, Execute, Assess: Program Synthesis with a REPL","Cornell, MIT"
+2019,Conformalized Quantile Regression,"Assistant Professor of Electrical Engineering and Computer Science, Technion, Israel"
+2019,High-Dimensional Optimization in Adaptive Random Subspaces,Stanford University
+2019,Cold Case: The Lost MNIST Digits,UC San Diego
+2019,RUBi: Reducing Unimodal Biases for Visual Question Answering,Sorbonne University
+2019,Text-Based Interactive Recommendation via Constraint-Augmented Reinforcement Learning,Adobe Research
+2019,Learning to Correlate in Multi-Player General-Sum Sequential Games,"Assistant Professor, Bocconi University"
+2019,Learning Sample-Specific Models with Low-Rank Personalized Regression,"MIT, Broad Institute"
+2019,Learning Reward Machines for Partially Observable Reinforcement Learning,University of Toronto
+2019,Addressing Sample Complexity in Visual Tasks Using HER and Hallucinatory GANs,Student at Georgia Institute of Technology
+2019,Unsupervised Scalable Representation Learning for Multivariate Time Series,"Sorbonne Université, LIP6"
+2019,Bayesian Learning of Sum-Product Networks,"Machine learning researcher, Aalto University"
+2019,Policy Optimization Provably Converges to Nash Equilibria in Zero-Sum Linear Quadratic Games,"LIDS and CSAIL, Massachusetts Institute of Technology"
+2019,Real-Time Reinforcement Learning,"Mila, Universty of Montreal"
+2019,Discriminative Topic Modeling with Logistic LDA,Ghent University
+2019,Streaming Bayesian Inference for Crowdsourced Classification,University of Manchester
+2019,Disentangling Influence: Using disentangled representations to audit model predictions,Stanford University
+2019,Demystifying Black-box Models with Symbolic Metamodels,"Broad institute of MIT and Harvard, Massachusetts Institute of Technology"
+2019,U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging,"PhD Student @ Department of Computer Science, University of Copenhagen"
+2019,Meta-Curvature,SungKyunKwan University
+2019,Exploration via Hindsight Goal Generation,University of Illinois at Urbana-Champaign
+2019,Reducing Noise in GAN Training with Variance Reduced Extragradient,University of California Berkeley
+2019,Knowledge Extraction with No Observable Data,PhD Candidate at Seoul National University
+2019,Neural Jump Stochastic Differential Equations,Facebook AI
+2019,Learning about an exponential amount of conditional distributions,Montreal Institute for Learning Algorithms
+2019,Statistical bounds for entropic optimal transport: sample complexity and the central limit theorem,University of Oxford
+2019,Scalable Bayesian dynamic covariance modeling with variational Wishart and inverse Wishart processes,"Ministry of Health, Singapore"
+2019,Variational Bayesian Decision-making for Continuous Utilities,University of Helsinki
+2019,Optimal Sparsity-Sensitive Bounds for  Distributed Mean Estimation,Fudan University
+2019,Search on the Replay Buffer: Bridging Planning and Reinforcement Learning,"CMU, Google"
+2019,Transductive Zero-Shot Learning with Visual Structure Constraint,City University of Hong Kong
+2019,Certainty Equivalence is Efficient for Linear Quadratic Control,Massachusetts Institute of Technology
+2019,Stein Variational Gradient Descent With Matrix-Valued Kernels,Facebook
+2019,Universality and individuality in neural dynamics across large populations of recurrent networks,Google Brain
+2019,When to Trust Your Model: Model-Based Policy Optimization,UC Berkeley
+2019,Blind Super-Resolution Kernel Estimation using an Internal-GAN,Weizmann Institute of Science
+2019,Is Deeper Better only when Shallow is Good?,"School of Computer Science, Hebrew University"
+2019,Deep Leakage from Gradients,"Ph.D. student, MIT"
+2019,Pure Exploration with Multiple Correct Answers,INRIA Lille
+2019,The Thermodynamic Variational Objective,University of British Columbia
+2019,Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss,Stanford University
+2019,"Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers",Microsoft Research Redmond
+2019,Approximation Ratios of Graph Neural Networks for Combinatorial Problems,Kyoto University
+2019,Variational Denoising Network: Toward Blind Noise Modeling and Removal,The University of Hong Kong
+2019,Multi-task Learning for Aggregated Data using Gaussian Processes,The University of Sheffield
+2019,Keeping Your Distance: Solving Sparse Reward Tasks Using Self-Balancing Shaped Rewards,Salesforce Research
+2019,Efficient characterization of electrically evoked responses for neural interfaces,"Graduate Student, Stanford University"
+2019,The Synthesis of XNOR Recurrent Neural Networks with Stochastic Logic,McGill University
+2019,McDiarmid-Type Inequalities for Graph-Dependent Variables and Stability Bounds,"School of Mathematics, Monash University"
+2019,Are deep ResNets provably better than linear predictors?,"PhD Student, Massachusetts Institute of Technology"
+2019,Hyperparameter Learning via Distributional Transfer,"DPhil in Statistics, University Of Oxford"
+2019,Levenshtein Transformer,Facebook AI Research
+2019,Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting,"University of California, Santa Barbara"
+2019,Updates of Equilibrium Prop Match Gradients of Backprop Through Time in an RNN with Static Input,Research Scientist @ IBM Research
+2019,Image Captioning: Transforming Objects into Words,"Research Scientist, Yahoo Research"
+2019,Uncoupled Regression from Pairwise Comparison Data,The University of Tokyo
+2019,No-Regret Learning in Unknown Games with Correlated Payoffs,ETH Zürich
+2019,Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos,Meituan
+2019,Structured Variational Inference in Continuous Cox Process Models,University of Warwick
+2019,Channel Gating Neural Networks,Cornell University
+2019,Rethinking Generative Mode Coverage: A Pointwise Guaranteed Approach,Google Research
+2019,A Domain Agnostic Measure for Monitoring and Evaluating GANs,ETH Zurich
+2019,Enabling hyperparameter optimization in sequential autoencoders for spiking neural data,Apple
+2019,Grid Saliency for Context Explanations of Semantic Segmentation,ETH Zürich
+2019,DM2C: Deep Mixed-Modal Clustering,"Institute of Information Engineering, Chinese Academy of Sciences"
+2019,Fast AutoAugment,"Assistant Professor, UNIST, Artificial Intelligence & Industrial Engineering"
+2019,Variance Reduction for Matrix Games,Tel Aviv University
+2019,Efficient Forward Architecture Search,Carnegie Mellon University
+2019,"Poincaré Recurrence, Cycles and Spurious Equilibria in Gradient-Descent-Ascent for Non-Convex Non-Concave Zero-Sum Games","PhD Candidate in Computer Science, Columbia University"
+2019,End-to-End Learning on 3D Protein Structure for Interface Prediction,"Founder & CEO, Atomic AI"
+2019,Positional Normalization,Cornell University
+2019,Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model,University of Oxford
+2019,Algorithm-Dependent Generalization Bounds for Overparameterized Deep Residual Networks,"Postdoctoral Researcher, UC Berkeley"
+2019,A unified theory for the origin of grid cells through the lens of pattern formation,Stanford University
+2019,Functional Adversarial Attacks,"University of California, Berkeley"
+2019,Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning,"Applied Science Manager, Amazon"
+2019,Image Synthesis with a Single (Robust) Classifier,"Postdoc, Stanford University"
+2019,Unsupervised State Representation Learning in Atari,"Mila, Université de Montréal"
+2019,Meta Learning with Relational Information for Short Sequences,"Researcher in machine learning, Microsoft"
+2019,Private Learning Implies Online Learning: An Efficient Reduction,OrCam
+2019,Kernel quadrature with DPPs,ENS Lyon
+2019,Learning Temporal Pose Estimation from Sparsely-Labeled Videos,"Assistant Professor, University of North Carolina at Chapel Hill"
+2019,Learning Generalizable Device Placement Algorithms for Distributed Machine Learning,Massachusetts Institute of Technology
+2019,On the equivalence between graph isomorphism testing and function approximation with GNNs,New York University
+2019,SPoC: Search-based Pseudocode to Code,Stanford University
+2019,Oblivious Sampling Algorithms for Private Data Analysis,University of Waterloo
+2019,On Relating Explanations and Adversarial Examples,"Faculty of Information Technology, Monash University"
+2019,Greedy Sampling for Approximate Clustering in the Presence of Outliers,University of Utah
+2019,Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology,"CSSI, Kellogg School of Management, Northwestern University"
+2019,Single-Model Uncertainties for Deep Learning,Swiss Data Science Center
+2019,Wasserstein Weisfeiler-Lehman Graph Kernels,COO @Visium; PhD from ETH Zurich
+2019,DATA: Differentiable ArchiTecture Approximation,"Researcher, Huawei Cloud; before at NLPR, CASIA"
+2019,Fast Structured Decoding for Sequence Models,"Language Technologies Institute, Carnegie Mellon University"
+2019,Comparison Against Task Driven Artificial Neural Networks Reveals Functional Properties in Mouse Visual Cortex,University of Washington
+2019,Interpreting and improving natural-language processing (in machines) with  natural language-processing (in the brain),Carnegie Mellon University
+2019,Adversarial training for free!,"Graduate Research Assistant, University of Maryland"
+2019,Guided Similarity Separation for Image Retrieval,Layer6 AI
+2019,Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks,WeBank
+2019,Addressing Failure Prediction by Learning Model Confidence,CNAM / Valeo.AI
+2019,Towards Automatic Concept-based Explanations,PhD Student
+2019,Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs,Co-Founder @ Three Thirds
+2019,Logarithmic Regret for Online Control,"Senior Research Scientist, Google AI Princeton"
+2019,Offline Contextual Bayesian Optimization,"PhD Student, Carnegie Mellon"
+2019,Uncertainty on Asynchronous Time Event Prediction,"PhD student, Technical University of Munich"
+2019,Hierarchical Decision Making by Generating and Following Natural Language Instructions,Facebook AI Research
+2019,Accelerating Rescaled Gradient Descent: Fast Optimization of Smooth Functions,Assistant Professor at MIT
+2019,Reconciling meta-learning and continual learning with online mixtures of tasks,"Duke University, UC Berkeley, Google Brain"
+2019,Neural Spline Flows,DeepMind
+2019,Embedding Symbolic Knowledge into Deep Networks,National University of Singapore
+2019,Sparse Variational Inference: Bayesian Coresets from Scratch,"Assistant Professor, Statistics, UBC"
+2019,Learning Hierarchical Priors in VAEs,"PhD Student, Technical University of Munich"
+2019,From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI,"PhD student, Weizmann institute"
+2019,Reverse KL-Divergence Training of Prior Networks: Improved Uncertainty and Adversarial Robustness,"Senior Research Scientist, Yandex Research"
+2019,Adversarial Fisher Vectors for Unsupervised Representation Learning,Apple Inc.
+2019,Dichotomize and Generalize: PAC-Bayesian Binary Activated Deep Neural Networks,"PhD Student, Laval University"
+2019,Coresets for Archetypal Analysis,Leuphana University Lüneburg
+2019,List-decodable Linear Regression,The University of Texas at Austin
+2019,Infra-slow brain dynamics as a marker for cognitive function and decline,Indian Institute of Science
+2019,Statistical Analysis of Nearest Neighbor Methods for Anomaly Detection,Carnegie Mellon University
+2019,Full-Gradient Representation for Neural Network Visualization,Research Assistant at Idiap Research Institute / PhD student at EPFL
+2019,The Implicit Metropolis-Hastings Algorithm,
+2019,Coresets for Clustering with Fairness Constraints,Huawei TCS Lab
+2019,Rethinking the CSC Model for Natural Images,"Computer Science Department, Technion"
+2019,Max-value Entropy Search for Multi-Objective Bayesian Optimization,Washington State University
+2019,Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors,"PhD Student, New York University"
+2019,Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift,University of Toronto / Vector Institute for Artificial Intelligence
+2019,Shadowing Properties of Optimization Algorithms,"PhD student, ETH Zürich"
+2019,Bayesian Batch Active Learning as Sparse Subset Approximation,"PhD Student, University of Cambridge"
+2019,On the Ineffectiveness of Variance Reduced Optimization for Deep Learning,Facebook AI Research
+2019,Putting An End to End-to-End: Gradient-Isolated Learning of Representations,University of Amsterdam
+2019,Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains,Cognizant AI Labs
+2019,Decentralized Cooperative Stochastic Bandits,University of Oxford
+2019,Powerset Convolutional Neural Networks,ETH Zürich
+2019,"Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning",PhD in Computer Science
+2019,Continual Unsupervised Representation Learning,DeepMind
+2019,Multiple Futures Prediction,Deep Learning Startup
+2019,Multiview Aggregation for Learning Category-Specific Shape Reconstruction,"Assistant Professor of Computer Science, Brown University"
+2019,Reinforcement Learning with Convex Constraints,Princeton University
+2019,Learning Hawkes Processes from a handful of events,Ph. D. Student at EPFL
+2019,"Accurate, reliable and fast robustness evaluation","Emmy Noether Fellow, University of Tübingen"
+2019,"UniXGrad: A Universal, Adaptive Algorithm with Optimal Guarantees for Constrained Optimization","Doctoral Assistant, LIONS, EPFL"
+2019,Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller,"PhD Student, Massachusetts Institute of Technology"
+2019,Learning from Bad Data via Generation,Peking University
+2019,Hierarchical Optimal Transport for Document Representation,"Research Staff Member, IBM Research AI"
+2019,PerspectiveNet: A Scene-consistent Image Generator for New View Synthesis in Real Indoor Environments,Facebook AI Research
+2019,End to end learning and optimization on graphs,"PhD Student in Computer Science, Harvard University"
+2019,Robust Bi-Tempered Logistic Loss Based on Bregman Divergences,Research Scientist at Google
+2019,Non-Asymptotic Pure Exploration by Solving Games,INRIA Lille
+2019,Perceiving the arrow of time in autoregressive motion,University of Tübingen & Max Planck Institute for Intelligent Systems Empirical Inference …
+2019,Decentralized sketching of low rank matrices,"PhD candidate, Georgia Institute of Technology"
+2019,Private Testing of Distributions via Sample Permutations,University of Massachusetts Amherst
+2019,Selecting Optimal Decisions via Distributionally Robust Nearest-Neighbor Regression,"PhD, Systems Engineering, Boston University"
+2019,Adapting Neural Networks for the Estimation of Treatment Effects,"PhD Student, Columbia University"
+2019,Solving graph compression via optimal transport,Massachusetts Institute of Technology (MIT)
+2019,Incremental Scene Synthesis,Siemens Technology
+2019,Computing Linear Restrictions of Neural Networks,Stanford University
+2019,Limiting Extrapolation in Linear Approximate Value Iteration,"Postdoctoral Scholar, UC Berkeley"
+2019,Finding Friend and Foe in Multi-Agent Games,Massachusetts Institute of Technology
+2019,Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks,"University of California, Los Angeles"
+2019,Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum,Apple Inc
+2019,Multi-Resolution Weak Supervision for Sequential Data,"Graduate Student, Stanford University"
+2019,Maximum Mean Discrepancy Gradient Flow,Inria - Univ. Grenoble Alpes
+2019,Causal Confusion in Imitation Learning,"Qualcomm AI Research, University of Amsterdam"
+2019,MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies,"University of California, Berkeley"
+2019,Screening Sinkhorn Algorithm for Regularized Optimal Transport,LMAC Laboratory - University of Technology of Compiègne
+2019,Learning Deep Bilinear Transformation for Fine-grained Image Representation,USTC
+2019,Learning Compositional Neural Programs with Recursive Tree Search and Planning,"InstaDeep, Sorbonne Université"
+2019,Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks,"Assistant Professor, Johns Hopkins University"
+2019,Bipartite expander Hopfield networks as self-decoding high-capacity error correcting codes,"Assistant Professor, University of California, Davis"
+2019,Provably Global Convergence of Actor-Critic: A Case for Linear Quadratic Regulator with Ergodic Cost,Princeton University
+2019,Deep ReLU Networks Have Surprisingly Few Activation Patterns,"Assistant Professor, Princeton ORFE"
+2019,ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models,"MIT, CSAIL"
+2019,The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection,
+2019,Recovering Bandits,Imperial College London
+2019,A neurally plausible model for online recognition and postdiction in a dynamical environment,"Gatsby Unit, University College London"
+2019,Importance Resampling for Off-policy Prediction,University of Alberta
+2019,MaxGap Bandit: Adaptive Algorithms for Approximate Ranking,Amazon
+2019,Exact Rate-Distortion in Autoencoders via Echo Noise,University of Southern California
+2019,BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling,Co-Founder & CTO at Corti | Adj. Assoc. Professor of Machine Learning
+2019,Bridging Machine Learning and Logical Reasoning by Abductive Learning,Imperial College London
+2019,Variational Structured Semantic Inference for Diverse Image Captioning,"Research Fellow, NUS"
+2019,Input-Output Equivalence of Unitary and Contractive RNNs,"Ph.D. Candidate, Electrical and Computer Engineering, UCLA"
+2019,Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization,Vrije Universiteit
+2019,Continuous-time Models for Stochastic Optimization Algorithms,"PhD student, ETH Zürich"
+2019,A Zero-Positive Learning Approach for Diagnosing Software Performance Regressions,"Software Engineer, Google"
+2019,Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics,"PhD Student, MILA, Université de Montréal"
+2019,Large Memory Layers with Product Keys,"Research Scientist, Facebook AI Research"
+2019,AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification,Fudan University
+2019,Policy Learning for Fairness in Ranking,"Applied Research Scientist, Pinterest Inc."
+2019,Integer Discrete Flows and Lossless Compression,"PhD Student, University of Amsterdam"
+2019,Generative Well-intentioned Networks,"Research Engineer, Google Health Genomics"
+2019,An Embedding Framework for Consistent Polyhedral Surrogates,University of Colorado Boulder
+2019,The Normalization Method for Alleviating Pathological Sharpness in Wide Neural Networks,AIST (National Institute of Advanced Industrial Science and Technology)
+2019,Reconciling λ-Returns with Experience Replay,Northeastern University
+2019,Finite-Sample Analysis for SARSA with Linear Function Approximation,"Assistant Professor, University at Buffalo the State University of New York"
+2019,Network Pruning via Transformable Architecture Search,University of Technology Sydney
+2019,Selective Sampling-based Scalable Sparse Subspace Clustering,The University of Tokyo
+2019,On the Expressive Power of Deep Polynomial Neural Networks,"Assistant Professor, University of Texas at Austin"
+2019,BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos,Columbia University
+2019,Accurate Layerwise Interpretable Competence Estimation,The Johns Hopkins University Applied Physics Laboratory
+2019,On the Global Convergence of (Fast) Incremental Expectation Maximization Methods,"Baidu Research USA, CCL"
+2019,Gossip-based Actor-Learner Architectures for Deep Reinforcement Learning,PhD student at McGill University; Mila
+2019,Learning Latent Process from High-Dimensional Event Sequences via Efficient Sampling,Shanghai Jiao Tong University
+2019,Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty,"PhD Student, UC Berkeley"
+2019,Space and Time Efficient Kernel Density Estimation in High Dimensions,Microsoft Research
+2019,One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers,"Research Scientist, Facebook AI Research"
+2019,Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules,"Ph.D. student at Machine Learning Group, TU Berlin"
+2019,Combining Generative and Discriminative Models for Hybrid Inference,University of Amsterdam
+2019,Region Mutual Information Loss for Semantic Segmentation,University of Connecticut
+2019,Variational Graph Recurrent Neural Networks,"AI Research Scientist, AstraZeneca"
+2019,Stochastic Bandits with Context Distributions,ETH Zurich
+2019,Training Language GANs from Scratch,DeepMind
+2019,Foundations of Comparison-Based Hierarchical Clustering,Technical University of Munich
+2019,On the Accuracy of Influence Functions for Measuring Group Effects,Stanford University
+2019,Neural Similarity Learning,"University of Cambridge, MPI Tübingen"
+2019,Multi-objective Bayesian optimisation with preferences over objectives,"Associate research fellow  @ Applied Artificial Intelligence Institute (A²I²), Deakin University"
+2019,The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data,"PhD Candidate, University of Massachusetts Amherst"
+2019,Spatially Aggregated Gaussian Processes with Multivariate Areal Outputs,NTT
+2019,Seeing the Wind: Visual Wind Speed Prediction with a Coupled Convolutional and Recurrent Neural Network,"PhD Candidate in Mechanical Engineering, Stanford University"
+2019,Hyper-Graph-Network Decoders for Block Codes,Tel-Aviv University & Facebook AI Research (FAIR)
+2019,Coordinated hippocampal-entorhinal replay as structural inference,Imperial College London
+2019,Invert to Learn to Invert,University of Amsterdam
+2019,Optimal Sparse Decision Trees,"PhD Student, Carnegie Mellon University"
+2019,This Looks Like That: Deep Learning for Interpretable Image Recognition,"Assistant Professor in Computer Science, the University of Maine"
+2019,Fast Parallel Algorithms for Statistical Subset Selection Problems,"Applied Math PhD Student, Harvard University"
+2019,On Lazy Training in Differentiable Programming,EPFL
+2019,Using Embeddings to Correct for Unobserved Confounding in Networks,"University of Chicago, Google"
+2019,Emergence of Object Segmentation in Perturbed Generative Models,University of Bern
+2019,On the Optimality of Perturbations in Stochastic and Adversarial Multi-armed Bandit Problems,"Twitter Inc, PhD in Statistics, University of Michigan"
+2019,Deep imitation learning for molecular inverse problems,"Assistant Professor, UChicago CS"
+2019,Ease-of-Teaching and Language Structure from Emergent Communication,Amazon
+2019,Distributed estimation of the inverse Hessian by determinantal averaging,Assistant Professor at University of Michigan
+2019,muSSP: Efficient Min-cost Flow Algorithm for Multi-object Tracking,Virginia Tech
+2019,Controlling Neural Level Sets,Weizmann Institute of Science
+2019,Learning GANs and Ensembles Using Discrepancy,Google Research
+2019,Neural Relational Inference with Fast Modular Meta-learning,MIT
+2019,Identification of Conditional Causal Effects under Markov Equivalence,"PhD Student, Purdue University"
+2019,Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis,UC Berkeley
+2019,Piecewise Strong Convexity of Neural Networks,"PhD Candidate, University of Toronto"
+2019,No Pressure! Addressing the Problem of Local Minima in Manifold Learning Algorithms,Google Research
+2019,Approximate Inference Turns Deep Networks into Gaussian Processes,"Center for Advanced Intelligence Project (AIP), RIKEN, Tokyo"
+2019,SGD on Neural Networks Learns Functions of Increasing Complexity,"PhD student, Harvard University"
+2019,Visualizing the PHATE of Neural Networks,"Senior Machine Learning Scientist, Immunai"
+2019,Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks,Peking University
+2019,Practical Deep Learning with Bayesian Principles,ETH Zurich
+2019,Deep Active Learning with a Neural Architecture Search,Technion - Israel Institute of Technology
+2019,Quality Aware Generative Adversarial Networks,"Indian Institute of Technology, Hyderabad"
+2019,Off-Policy Evaluation via Off-Policy Classification,Google Brain
+2019,Variational Temporal Abstraction,Amazon Web Services
+2019,Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations,Incoming Assistant Professor at MIT CSAIL.
+2019,Control What You Can: Intrinsically Motivated Task-Planning Agent,"PhD Student, Max-Planck Institute for Intelligent Systems"
+2019,Adversarial Self-Defense for Cycle-Consistent GANs,Boston University
+2019,Ultrametric Fitting by Gradient Descent,"Assistant professor, Université Paris Est, ESIEE Paris"
+2019,PerspectiveNet: 3D Object Detection from a Single RGB Image via Perspective Points,"University of California, Los Angeles"
+2019,Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs,University of New Hampshire
+2019,Spatial-Aware Feature Aggregation for Image based Cross-View Geo-Localization,Australian National University
+2019,Leveraging Labeled and Unlabeled Data for Consistent Fair Binary Classification,Université Paris-Saclay
+2019,Minimum Stein Discrepancy Estimators,University of Cambridge
+2019,Explanations can be manipulated and geometry is to blame,TU-Berlin
+2019,Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks,University of Maryland College Park
+2019,Paradoxes in Fair Machine Learning,Carnegie Mellon University
+2019,Learning Conditional Deformable Templates with Convolutional Networks,Harvard Medical School & Massachusetts Institute of Technology
+2019,Volumetric Correspondence Networks for Optical Flow,Carnegie Mellon University
+2019,Variance Reduction in Bipartite Experiments through Correlation Clustering,Google Research
+2019,Attribution-Based Confidence Metric For Deep Neural Networks,"Principal Scientist, SRI International"
+2019,Are Disentangled Representations Helpful for Abstract Visual Reasoning?,Postdoctoral Researcher at the Swiss AI Lab IDSIA
+2019,Beyond Alternating Updates for Matrix Factorization with Inertial Bregman Proximal Gradient Algorithms,"Mathematical Optimization Group, University of Tübingen"
+2019,Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks,Assistant Professor at CMU
+2019,"PyTorch: An Imperative Style, High-Performance Deep Learning Library",Google
+2019,Learning to Infer Implicit Surfaces without 3D Supervision,University of Southern California
+2019,Are Labels Required for Improving Adversarial Robustness?,"DeepMind, London"
+2019,Stochastic Frank-Wolfe for Composite Convex Minimization,"Senior Applied Scientist, Amazon AWS"
+2019,Modeling Dynamic Functional Connectivity with Latent Factor Gaussian Processes,"University of California, Irvine"
+2019,ETNet: Error Transition Network for Arbitrary Style Transfer,Shenzhen University
+2019,Cross-lingual Language Model Pretraining,Google
+2019,Icebreaker: Element-wise Efficient Information Acquisition with a Bayesian Deep Latent Gaussian Model,University of Cambridge
+2019,Efficient and Thrifty Voting by Any Means Necessary,Max Planck Institute for Software Systems
+2019,Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms,Oregon State University
+2019,Limitations of Lazy Training of Two-layers Neural Network,"Software Engineer, Google Research"
+2019,Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models,"Columbia University, Google"
+2019,Constrained Reinforcement Learning Has Zero Duality Gap,Rensselaer Polytechnic Institute
+2019,Metric Learning for Adversarial Robustness,"PhD student at CS, Columbia University"
+2019,Learning to Control Self-Assembling Morphologies: A Study of Generalization via Modularity,"Assistant Professor, Carnegie Mellon University"
+2019,Alleviating Label Switching with Optimal Transport,Ecole Normale Supérieure
+2019,Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction,RISE Research Institutes of Sweden
+2019,SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits,"Postdoc, EPFL"
+2019,A Step Toward Quantifying Independently Reproducible Machine Learning Research,Booz Allen Hamilton
+2019,Manipulating a Learning Defender and Ways to Counteract,Max Planck Institute for Software Systems (MPI-SWS)
+2019,Privacy Amplification by Mixing and Diffusion Mechanisms,DeepMind
+2019,Ultra Fast Medoid Identification via Correlated Sequential Halving,"Graduate Student, Stanford University"
+2019,On the Inductive Bias of Neural Tangent Kernels,NYU
+2019,Implicit Regularization of Accelerated Methods in Hilbert Spaces,Università degli studi di Genova
+2019,Transfer Learning via Minimizing the Performance Gap Between Domains,"Department of Computer Science, University of Western Ontario"
+2019,ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks,"Research Scientist, Allen Institute of Artificial Intelligence"
+2019,Planning with Goal-Conditioned Policies,The University of Texas at Austin
+2019,Goal-conditioned Imitation Learning,"Undergraduate, Computer Science, University of California, Berkeley"
+2019,Superset Technique for Approximate Recovery in One-Bit Compressed Sensing,"Ph.D., Univerity of Massachusetts Amherst"
+2019,Iterative Least Trimmed Squares for Mixed Linear Regression,University of Texas at Austin
+2019,Time-series Generative Adversarial Networks,Research Scientist at Google Cloud AI
+2019,Learning Nonsymmetric Determinantal Point Processes,"Senior Researcher, Criteo AI Lab"
+2019,Quantum Embedding of Knowledge for Reasoning,"IBM India Research Lab, Bangalore, India"
+2019,Online Normalization for Training Neural Networks,"Machine Learning Team, Cerebras Systems"
+2019,Equitable Stable Matchings in Quadratic Time,Northeastern University
+2019,A New Defense Against Adversarial Images: Turning a Weakness into a Strength,Carnegie Mellon University
+2019,Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks,"McGill University, Mila"
+2019,On Human-Aligned Risk Minimization,"Ph.D. Student, Machine Learning Department, School of Computer Science, Carnegie …"
+2019,Robustness Verification of Tree-based Models,"PhD, MIT EECS"
+2019,Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition,Institute of Computing Technology
+2019,A Primal Dual Formulation For Deep Learning With Constraints,IIT Delhi
+2019,DualDICE: Behavior-Agnostic Estimation of Discounted Stationary Distribution Corrections,Google Brain
+2019,Intrinsic dimension of data representations in deep neural networks,"AREA Science Park, Research and Technology Institute"
+2019,Data-driven Estimation of Sinusoid Frequencies,Facebook AI Research / École normale supérieure
+2019,Discovering Neural Wirings,University of Washington
+2019,Locally Private Learning without Interaction Requires Separation,Hebrew University
+2019,Fixing the train-test resolution discrepancy,Facebook AI Research
+2019,Quadratic Video Interpolation,Nanyang Technological University
+2019,Efficient Graph Generation with Graph Recurrent Attention Networks,University of Toronto
+2019,Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks,Stanford University
+2019,Re-examination of the Role of Latent Variables in Sequence Modeling,Carnegie Mellon University
+2019,Consistency-based Semi-supervised Learning for Object detection,Qualcomm AI research
+2019,Kernel Truncated Randomized Ridge Regression: Optimal Rates and Low Noise Acceleration,The University of Arizona
+2019,Exact Combinatorial Optimization with Graph Convolutional Neural Networks,Polytechnique Montréal
+2019,Comparing Unsupervised Word Translation Methods Step by Step,University of Copenhagen
+2019,"Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge","Zhejiang University, The university of Sydney, Delft University of Technology"
+2019,Compiler Auto-Vectorization with Imitation Learning,University of Illinois at Urbana-Champaign
+2019,Fast Sparse Group Lasso,NTT
+2019,Deep Random Splines for Point Process Intensity Estimation of Neural Population Data,Layer 6 AI
+2019,Deep Signature Transforms,"Postgraduate Research Student, University of Oxford"
+2019,Guided Meta-Policy Search,Carnegie Mellon University
+2019,Learning elementary structures for 3D shape generation and matching,ENPC Paris Tech
+2019,Learning Disentangled Representation for Robust Person Re-identification,Yonsei University
+2019,On Testing for Biases in Peer Review,Carnegie Mellon University
+2019,Learning Deterministic Weighted Automata with Queries and Counterexamples,Technion - Israel Institute of Technology
+2019,Making the Cut: A Bandit-based Approach to Tiered Interviewing,University of Maryland
+2019,Manifold-regression to predict from MEG/EEG brain signals without source modeling,INRIA
+2019,Sim2real transfer learning for 3D human pose estimation: motion to the rescue,"Research Scientist, DeepMind"
+2019,Unsupervised Curricula for Visual Meta-Reinforcement Learning,UC Berkeley
+2019,Recurrent Kernel Networks,Inria
+2019,A Universally Optimal Multistage Accelerated Stochastic Gradient Method,"Industrial Engineering, Penn State University"
+2019,Offline Contextual Bandits with High Probability Fairness Guarantees,University of Massachusetts Amherst
+2019,Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting,"Assistant Professor of Computer Science, UCLA"
+2019,LCA: Loss Change Allocation for Neural Network Training,Facebook AI Research
+2019,Polynomial Cost of Adaptation for X-Armed Bandits,University of Amsterdam
+2019,Modelling heterogeneous distributions with an Uncountable Mixture of Asymmetric Laplacians,Research Engineer at BSC-CNS. Ending the Industrial Ph.D. at BBVA D&A and UB
+2019,GNNExplainer: Generating Explanations for Graph Neural Networks,Stanford University
+2019,Unsupervised learning of object structure and dynamics from videos,"Research Scientist, Google Brain"
+2019,Scalable Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data,Machine Learning Engineer @Kausa.ai
+2019,Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training,"Senior Research Scientist, Horizon Robotics"
+2019,Identifying Causal Effects via Context-specific Independence Relations,"Postdoctoral researcher, University of Jyväskylä"
+2019,Ordered Memory,"Mila, Universite de Montreal"
+2019,Approximating the Permanent by Sampling from Adaptive Partitions,Stanford University
+2019,Reverse engineering recurrent networks for sentiment classification reveals line attractor dynamics,Google Brain
+2019,Initialization of ReLUs for Dynamical Isometry,Harvard University
+2019,On the Transfer of Inductive Bias from Simulation to the Real World: a New Disentanglement Dataset,Max Planck Institute for Intelligent Systems
+2019,PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization,EPFL
+2019,"Distribution oblivious, risk-aware algorithms for multi-armed   bandits with unbounded rewards",Student at Stanford University
+2019,G2SAT: Learning to Generate SAT Formulas,"CS PhD candidate, Stanford University"
+2019,The Functional Neural Process,Qualcomm AI Research
+2019,Multi-source Domain Adaptation for Semantic Segmentation,Columbia University
+2019,On Exact Computation with an Infinitely Wide Neural Net,"Professor of Computer Science, Princeton University"
+2019,Conditional Independence Testing using Generative Adversarial Networks,University of Cambridge
+2019,Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components,Dr. Ing. hc F. Porsche AG
+2019,User-Specified Local Differential Privacy in Unconstrained Adaptive Online Learning,"PostDoc, Università degli Studi di Milano"
+2019,Learning Representations by Maximizing Mutual Information Across Views,Microsoft Research
+2019,A neurally plausible model learns successor representations in partially observable environments,DeepMind
+2019,Inherent Weight Normalization in Stochastic Neural Networks,University of California Irvine
+2019,Structure Learning with Side Information: Sample Complexity,University of Pennsylvania
+2019,Discrete Flows: Invertible Generative Models of Discrete Data,"Research Scientist, Google"
+2019,Online-Within-Online Meta-Learning,University College of London
+2019,Using Statistics to Automate Stochastic Optimization,MIT
+2019,D-VAE: A Variational Autoencoder for Directed Acyclic Graphs,Peking University
+2019,"Adversarial Examples Are Not Bugs, They Are Features",Massachusetts Institute of Technology
+2019,Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck,University of Oxford
+2019,Certifiable Robustness to Graph Perturbations,CISPA Helmholtz Center for Information Security
+2019,Rates of Convergence for Large-scale Nearest Neighbor Classification,"Associate Professor of Mathematical Sciences, Binghamton University"
+2019,Self-Routing Capsule Networks,Seoul National University
+2019,A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation,Stony Brook University
+2019,Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation,University of Oxford
+2019,On the Curved Geometry of Accelerated Optimization,Facebook AI Research
+2019,How to Initialize your Network? Robust Initialization for WeightNorm & ResNets,"Senior Research Scientist, Salesforce"
+2019,Gradient based sample selection for online continual learning,Researcher at Toyota Motor Europe
+2019,Selecting causal brain features with a single conditional independence test per feature,"Max Planck Institute for Intelligent Systems, Empirical Inference Department"
+2019,Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior,University of Texas at Austin
+2019,Copula-like Variational Inference,University College London
+2019,Towards Hardware-Aware Tractable Learning of Probabilistic Models,"Postdoctoral Researcher, University of California, Berkeley"
+2019,Two Time-scale Off-Policy TD Learning: Non-asymptotic Analysis over Markovian Samples,Ohio State University
+2019,Incremental Few-Shot Learning with Attention Attractor Networks,University of Toronto
+2019,Weight Agnostic Neural Networks,"Autodesk AI Lab, Autodesk"
+2019,DeepWave: A Recurrent Neural-Network for Real-Time Acoustic Imaging,Swiss Federal Institute of Technology (EPFL)
+2019,A Linearly Convergent Proximal Gradient Algorithm for Decentralized  Optimization,"Kuwait University, EE department"
+2019,Graph Structured Prediction Energy Networks,University of Illinois at Urbana-Champaign
+2019,Universal Invariant and Equivariant Graph Neural Networks,"CNRS, GIPSA-lab"
+2019,Transfusion: Understanding Transfer Learning for Medical Imaging,Cornell University and Google Brain
+2019,Face Reconstruction from Voice using Generative Adversarial Networks,Carnegie Mellon University
+2019,Using a Logarithmic Mapping to Enable Lower Discount Factors in Reinforcement Learning,Microsoft Research
+2019,Adversarial Music: Real world Audio Adversary against Wake-word Detection System,Carnegie Mellon University
+2019,A Little Is Enough: Circumventing Defenses For Distributed Learning,Bar Ilan University
+2019,Statistical Model Aggregation via Parameter Matching,"Research Staff Member, IBM Research AI"
+2019,A Meta-Analysis of Overfitting in Machine Learning,Google Research
+2019,Abstract Reasoning with Distracting Features,USTC
+2019,Deep Scale-spaces: Equivariance Over Scale,University of Amsterdam
+2019,Generalized Sliced Wasserstein Distances,"Assistant Professor of Computer Science, Vanderbilt University, Nashville, TN"
+2019,Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference,"PhD Candidate, Institute for Adaptive and Neural Computation, University of Edinburgh"
+2019,When does label smoothing help?,Twitter
+2019,CondConv: Conditionally Parameterized Convolutions for Efficient Inference,Google Brain
+2019,Nonzero-sum Adversarial Hypothesis Testing Games,"PhD Student, Indian Institute of Science"
+2019,Quantum Wasserstein Generative Adversarial Networks,"Graduate Student, University of Maryland - College Park"
+2019,Deep Learning without Weight Transport,University of Toronto
+2019,Implicit Regularization of Discrete Gradient Dynamics in Linear Neural Networks,"Assistant professor at Mila, University of Montréal (DIRO)"
+2019,Generative Models for Graph-Based Protein Design,"Generate Biomedicines, Inc"
+2019,Neural Taskonomy: Inferring the Similarity of Task-Derived Representations from Brain Activity,Carnegie Mellon Univerisity
+2019,Adaptive Gradient-Based Meta-Learning Methods,CMU
+2019,Meta-Learning Representations for Continual Learning,University of Alberta
+2019,Massively scalable Sinkhorn distances via the Nyström method,MIT
+2019,A Composable Specification Language for Reinforcement Learning Tasks,"PhD student, University of Pennsylvania"
+2019,Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer,"Ph.D. Student, University of Toronto"
+2019,On the Utility of Learning about Humans for Human-AI Coordination,"PhD student, UC Berkeley"
+2019,Maximum Expected Hitting Cost of a Markov Decision Process and Informativeness of Rewards,"PhD candidate, Toyota Technological Institute at Chicago"
+2019,Adaptive Influence Maximization with Myopic Feedback,Columbia University
+2019,Compression with Flows via Local Bits-Back Coding,Google Brain
+2019,High Fidelity Video Prediction with Large Stochastic Recurrent Neural Networks,"Research Scientist, Google Brain"
+2019,Certifying Geometric Robustness of Neural Networks,ETH Zurich
+2019,Constrained deep neural network architecture search for IoT devices accounting for hardware calibration,"IBM, ETH"
+2019,MAVEN: Multi-Agent Variational Exploration,University of Oxford
+2019,The continuous Bernoulli: fixing a pervasive error in variational autoencoders,Layer 6 AI
+2019,Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters,"Postdoctoral Researcher, Politecnico di Milano"
+2019,Multi-relational Poincaré Graph Embeddings,DeepMind
+2019,Episodic Memory in Lifelong Language Learning,DeepMind
+2019,Differentially Private Bayesian Linear Regression,University of Massachusetts Amherst
+2019,Wasserstein Dependency Measure for Representation Learning,DeepMind
+2019,Multi-Agent Common Knowledge Reinforcement Learning,University of Oxford
+2019,Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections,INRIA - École Normale Supérieure
+2019,Exact sampling of determinantal point processes with sublinear time preprocessing,Assistant Professor at University of Michigan
+2019,Experience Replay for Continual Learning,"McGill University, Mila Quebec AI Institute"
+2019,On the Downstream Performance of Compressed Word Embeddings,Research Scientist at Google
+2019,Nonparametric Density Estimation & Convergence Rates for GANs under Besov IPM Losses,"Postdoctoral Fellow, University of Texas at Austin"
+2019,Blended Matching Pursuit,Toulouse School of Economics
+2019,Who is Afraid of Big Bad Minima? Analysis of gradient-flow in spiked matrix-tensor models,Gatsby Computational Neuroscience Unit & Sainsbury Wellcome Centre | University College …
+2019,Online Convex Matrix Factorization with Representative Regions,
+2019,Differential Privacy Has Disparate Impact on Model Accuracy,"Cornell Tech, Cornell University"
+2019,Approximating Interactive Human Evaluation with Self-Play for Open-Domain Dialog Systems,"Research Scientist, Google Research"
+2019,On Tractable Computation of Expected Predictions,Computer Science PhD Student at UCLA
+2019,Stagewise Training Accelerates Convergence of Testing Error Over SGD,"Ph.D Student, University of Iowa"
+2019,Specific and Shared Causal Relation Modeling and Mechanism-Based Clustering,Carnegie Mellon University
+2019,Unsupervised Meta-Learning for Few-Shot Image Classification,Research Assistant
+2019,Transferable Normalization: Towards Improving Transferability of Deep Neural Networks,"PhD Student, Tsinghua University"
+2019,Efficient Approximation of Deep ReLU Networks for Functions on Low Dimensional Manifolds,Georgia Institute of Technology
+2019,GOT: An Optimal Transport framework for Graph comparison,"PhD student in Computer science, EPFL"
+2019,A Benchmark for Interpretability Methods in Deep Neural Networks,Google Brain
+2019,Biases for Emergent Communication in Multi-agent Reinforcement Learning,
+2019,Uniform Error Bounds for Gaussian Process Regression with Application to Safe Control,Technical University of Munich
+2019,Leader Stochastic Gradient Descent for Distributed Training of Deep Learning Models,New York University
+2019,Random deep neural networks are biased towards simple functions,"Scuola Normale Superiore (Pisa, Italy)"
+2019,Discrete Object Generation with Reversible Inductive Construction,Princeton University
+2019,Flow-based Image-to-Image Translation with Feature Disentanglement,"Toyota Central R&D Labs., Inc."
+2020,An Unsupervised Information-Theoretic Perceptual Quality Metric,"AI Resident, Google Research"
+2020,"Benchmarking Deep Inverse Models over time, and the Neural-Adjoint method",Duke University
+2020,Off-Policy Evaluation and Learning for External Validity under a Covariate Shift,Cornell University
+2020,Fast and Flexible Temporal Point Processes with Triangular Maps,"PhD student, Technical University of Munich"
+2020,Backpropagating Linearly Improves Transferability of Adversarial Examples,Research Scientist
+2020,PyGlove: Symbolic Programming for Automated Machine Learning,"Google Research, Brain Team"
+2020,Improving Local Identifiability in Probabilistic Box Embeddings,"PhD in Computer Science, UMass Amherst"
+2020,Statistical Guarantees of Distributed Nearest Neighbor Classification,Purdue University
+2020,Algorithmic recourse under imperfect causal knowledge: a probabilistic approach,Max Planck Institute for Intelligent Systems
+2020,How to Learn a Useful Critic? Model-based Action-Gradient-Estimator Policy Optimization,"PhD Student, Mila - Québec Artificial Intelligence Institute"
+2020,Learning Composable Energy Surrogates for PDE Order Reduction,Princeton University
+2020,Efficient Contextual Bandits with Continuous Actions,"Google, PhD New York University 2021"
+2020,Hard Shape-Constrained Kernel Machines,"PhD graduate, INRIA Paris"
+2020,On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law,Idiap Research Institute
+2020,Flows for simultaneous manifold learning and density estimation,New York University
+2020,One-bit Supervision for Image Classification,Hefei University of Technology
+2020,What is being transferred in transfer learning? ,"Staff Research Scientist, Google"
+2020,Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction,KAIST
+2020,Exploiting weakly supervised visual patterns to learn from partial annotations,"Research Scientist, Amazon AWS AI"
+2020,FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence,"Research Scientist, Google"
+2020,Reinforcement Learning with Combinatorial Actions: An Application to Vehicle Routing,"PhD Student, MIT"
+2020,Towards Playing Full MOBA Games with Deep Reinforcement Learning,Nanyang Technological University
+2020,Online Agnostic Boosting via Regret Minimization,Princeton University
+2020,Belief Propagation Neural Networks,Stanford University
+2020,Debugging Tests for Model Explanations,MIT
+2020,Fairness without Demographics through Adversarially Reweighted Learning,PhD student @ Max Planck Institute for Informatics
+2020,Ridge Rider: Finding Diverse Solutions by Following Eigenvectors of the Hessian,"DPhil Student, University of Oxford"
+2020,What went wrong and when? Instance-wise feature importance for time-series black-box models,"University of Toronto, Vector Institute"
+2020,Learning Guidance Rewards with Trajectory-space Smoothing,"University of Illinois, Urbana-Champaign"
+2020,Deep Structural Causal Models for Tractable Counterfactual Inference,"PhD Student, Imperial College London"
+2020,Convolutional Generation of Textured 3D Meshes,ETH Zurich
+2020,Higher-Order Spectral Clustering of Directed Graphs,University of Edinburgh
+2020,Bayesian Deep Ensembles via the Neural Tangent Kernel,University of Oxford
+2020,Improved Schemes for Episodic Memory-based Lifelong Learning,"Postdoc, UC Berkeley"
+2020,Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring,Max Planck Institute for Informatics
+2020,Discovering Reinforcement Learning Algorithms,"Research Scientist, DeepMind"
+2020,Taming Discrete Integration via the Boon of Dimensionality,Rice University
+2020,Simplify and Robustify Negative Sampling for Implicit Collaborative Filtering,Tsinghua University
+2020,Automatic Perturbation Analysis for Scalable Certified Robustness and Beyond,"Assistant Professor, Drexel University"
+2020,Ensembling geophysical models with Bayesian Neural Networks,"PhD Candidate in Engineering, University of Cambridge"
+2020,Delving into the Cyclic Mechanism in Semi-supervised Video Object Segmentation,tencent
+2020,Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability,Faculty
+2020,ExpandNets: Linear Over-parameterization to Train Compact Convolutional Networks,"PhD candidate of computer vision and machine learning, EPFL"
+2020,The Implications of Local Correlation on Learning Some Deep Functions,"School of Computer Science, Hebrew University"
+2020,Learning to search efficiently for causally near-optimal treatments,"PhD Student at the institute of neuroscience and physiology, Sahlgrenska academy"
+2020,A Game Theoretic Analysis of Additive Adversarial Attacks and Defenses,Johns Hopkins University
+2020,Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts,Technical University of Munich
+2020,Recurrent Quantum Neural Networks,University of Cambridge
+2020,No-Regret Learning and Mixed Nash Equilibria: They Do Not Mix,"PhD Candidate in Computer Science, Columbia University"
+2020,An Asymptotically Optimal Primal-Dual Incremental Algorithm for Contextual Linear Bandits,Inria Lille
+2020,A causal view of compositional zero-shot recognition,NVIDIA Research
+2020,CASTLE: Regularization via Auxiliary Causal Graph Discovery,"Facebook; University of California, Los Angeles"
+2020,Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect,Nanyang Technological University
+2020,Deep Archimedean Copulas,Carnegie Mellon University
+2020,Thunder: a Fast Coordinate Selection Solver for  Sparse Learning,"Postdoctoral Researcher, Baidu Research USA"
+2020, On Adaptive Attacks to Adversarial Example Defenses,"Visiting Researcher, Google Brain"
+2020,Online Sinkhorn: Optimal Transport distances from sample streams,DeepMind
+2020,Compositional Generalization via Neural-Symbolic Stack Machines,"EECS, UC Berkeley"
+2020,Graphon Neural Networks and the Transferability of Graph Neural Networks,"PhD candidate, University of Pennsylvania"
+2020,Efficient Exact Verification of Binarized Neural Networks,MIT
+2020,Self-Supervised Relationship Probing,"Research Scientist, Adobe Research"
+2020,Minimax Lower Bounds for Transfer Learning with Linear and One-hidden Layer Neural Networks,"Ph.D student in Electrical Engineering, University of Southern California"
+2020,SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks,University of Oxford
+2020,On the equivalence of molecular graph convolution and molecular wave function with poor basis set,National Institute of Advanced Industrial Science and Technology
+2020,Learning Affordance Landscapes for Interaction Exploration in 3D Environments,UT Austin
+2020,Cooperative Multi-player Bandit Optimization ,Stanford University
+2020,Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward,Carnegie Mellon University
+2020,Optimizing Neural Networks via Koopman Operator Theory,
+2020,SVGD as a kernelized Wasserstein gradient flow of the chi-squared divergence,"PhD Candidate, Massachusetts Institute of Technology"
+2020,Network Diffusions via Neural Mean-Field Dynamics,"PhD of Mathematics, Georgia State University"
+2020,Self-Distillation as Instance-Specific Label Smoothing,"PhD Student, Cornell University"
+2020,Rethinking pooling in graph neural networks,"Ph.D. student, Aalto University"
+2020,Pointer Graph Networks,"Staff Research Scientist, DeepMind | Affiliated Lecturer, University of Cambridge"
+2020,Forethought and Hindsight in Credit Assignment,McGill University / Mila
+2020,Robust Recursive Partitioning for Heterogeneous Treatment Effects with Uncertainty Quantification,Sejong University
+2020,Lower Bounds and Optimal Algorithms for Personalized Federated Learning,"Research Assistant Professor, TTIC"
+2020,Stationary Activations for Uncertainty Calibration in Deep Learning,PhD student
+2020,On Power Laws in Deep Ensembles,National Research University Higher School of Economics / Faculty of Computer Science …
+2020,Approximation Based Variance Reduction for Reparameterization Gradients,"University of Massachusetts, Amherst"
+2020,Inverse Reinforcement Learning from a Gradient-based Learner,ETH Zurich
+2020,Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance,"Computer Science PhD student, Weizmann Institute"
+2020,Attention-Gated Brain Propagation: How the brain can implement reward-based error backpropagation,"Centrum Wiskunde & Informatica, Netherlands Institute for Neuroscience"
+2020,Structured Prediction for Conditional Meta-Learning,University College London
+2020,Learning abstract structure for drawing by efficient motor program induction,Rockefeller University
+2020,Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? --- A Neural Tangent Kernel Perspective,Princeton University
+2020,Dual Instrumental Variable Regression,Max Planck Institute for Intelligent Systems
+2020,Network-to-Network Translation with Conditional Invertible Neural Networks,Heidelberg University
+2020,Intra-Processing Methods for Debiasing Neural Networks,"Ph.D. Candidate, Carnegie Mellon University"
+2020,Geometric All-way Boolean Tensor Decomposition,Purdue University
+2020,Modular Meta-Learning with Shrinkage,"Research Scientist, DeepMind"
+2020,A/B Testing in Dense Large-Scale Networks: Design and Inference,LinkedIn
+2020,Partial Optimal Tranport with applications on Positive-Unlabeled Learning,"Associate professor,  Université de Bretagne Sud, laboratoire IRISA"
+2020,Logarithmic Pruning is All You Need,Research Scientist at Google DeepMind
+2020,Adversarial Weight Perturbation Helps Robust Generalization,"Postdoctoral Researcher, University of Tokyo"
+2020,Fourier Spectrum Discrepancies in Deep Network Generated Images,Texas A&M University
+2020,"Lamina-specific neuronal properties promote robust, stable signal propagation in feedforward networks",OIST
+2020,Learning Dynamic Belief Graphs to Generalize on Text-Based Games,Microsoft Turing
+2020,Triple descent and the two kinds of overfitting: where & why do they appear?,"École Normale Supérieure, Paris"
+2020,Multimodal Graph Networks for Compositional Generalization in Visual Question Answering,"Princeton University, University of Toronto"
+2020,Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization,"Assistant Professor, Department of Electrical Engineering, City University of Hong Kong"
+2020,A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning Instances,Cornell University
+2020,Causal analysis of Covid-19 Spread in Germany,"Max Planck Institute for Intelligent Systems, Empirical Inference Department"
+2020,Adaptive Gradient Quantization for Data-Parallel SGD,"University of Toronto, Vector Institute"
+2020,Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies,"Technion, Israel Institute of Technology"
+2020,Compact task representations as a normative model for higher-order brain activity,Champalimaud Centre for the Unknown
+2020,Co-exposure Maximization in Online Social Networks,KTH
+2020,UCLID-Net: Single View Reconstruction in Object Space,EPFL
+2020,Complex Dynamics in Simple Neural Networks: Understanding Gradient Flow in Phase Retrieval,Gatsby Computational Neuroscience Unit & Sainsbury Wellcome Centre | University College …
+2020,Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs,Indian Institute of Science
+2020,Breaking the Communication-Privacy-Accuracy Trilemma,Stanford University
+2020,Self-Distillation Amplifies Regularization in Hilbert Space,Research Scientist @ Google
+2020,Coupling-based Invertible Neural Networks Are Universal Diffeomorphism Approximators,The University of Tokyo / RIKEN
+2020,"Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases",Carnegie Mellon University
+2020,Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement,"Student, Louisiana State University"
+2020,Inferring learning rules from animal decision-making,"Graduate Student, Princeton University"
+2020,Dual Manifold Adversarial Robustness: Defense against Lp and non-Lp Adversarial Attacks,Adobe
+2020,Cross-Scale Internal Graph Neural Network for Image Super-Resolution,Nanyang Technological University
+2020,Restoring Negative Information in Few-Shot Object Detection,Tsinghua University
+2020,Do Adversarially Robust ImageNet Models Transfer Better?,MIT
+2020,Robust Correction of Sampling Bias using Cumulative Distribution Functions,"Ph.D Student, California Institute of Technology"
+2020,Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach,"Ph.D. Candidate, MIT"
+2020,Classification with Valid and Adaptive Coverage,"Assistant Professor of Electrical Engineering and Computer Science, Technion, Israel"
+2020,Learning Global Transparent Models consistent with Local Contrastive Explanations,IBM Research
+2020,Learning Disentangled Representations of Videos with Missing Data,"Ph.D. student, Northeastern University"
+2020,Natural Graph Networks,"Qualcomm AI Research, University of Amsterdam"
+2020,Continual Learning with Node-Importance based Adaptive Group Sparse Regularization,Sungkyunkwan University
+2020,Deep Reinforcement and InfoMax Learning,Mila / McGill University
+2020,On ranking via sorting by estimated expected utility,Criteo AI Lab
+2020,Closing the Dequantization Gap: PixelCNN as a Single-Layer Flow,"PhD Student, Technical University of Denmark"
+2020,Variance reduction for Random Coordinate Descent-Langevin Monte Carlo,"Phd, UW-Madison Department of Mathematics"
+2020,All Word Embeddings from One Embedding,Tokyo Institute of Technology
+2020,How to Characterize The Landscape of Overparameterized Convolutional Neural Networks,Princeton University
+2020,Submodular Meta-Learning,"Ph.D. Student, University of Pennsylvania"
+2020,Rethinking Pre-training and Self-training,"Staff Research Scientist, Google Brain"
+2020,Unsupervised Sound Separation Using Mixture Invariant Training,Google Research
+2020,Adaptive Discretization for Model-Based Reinforcement Learning,Cornell University
+2020,CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching,Tencent Keen Lab
+2020,On Warm-Starting Neural Network Training,Postdoc at Microsoft Research NYC
+2020,Dissecting Neural ODEs,The University of Tokyo
+2020,Teaching a GAN What Not to Learn,"Ph.D. Scholar, Indian institute of Science"
+2020,Counterfactual Data Augmentation using Locally Factored Dynamics,"University of Toronto, Vector Institute"
+2020,Self-Supervised Relational Reasoning for Representation Learning,"University of Cambridge, Postdoctoral Researcher"
+2020,Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine,The Chinese University of Hong Kong
+2020,AttendLight: Universal Attention-Based Reinforcement Learning Model for Traffic Signal Control,SAS Institute
+2020,From Predictions to Decisions: Using Lookahead Regularization,Technion
+2020,Counterfactual Predictions under Runtime Confounding,Carnegie Mellon University
+2020,Efficient Exploration of Reward Functions in Inverse Reinforcement Learning via Bayesian Optimization,National University of Singapore
+2020,MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning,University of Amsterdam
+2020,How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods,"University of California, Los Angeles"
+2020,Munchausen Reinforcement Learning,"PhD Student, Google Research & Inria BIGS"
+2020,Object Goal Navigation using Goal-Oriented Semantic Exploration,"Carnegie Mellon University, Facebook AI Research"
+2020,Efficient semidefinite-programming-based inference for binary and multi-class MRFs,Stanford University
+2020,Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing,
+2020,"Heavy-tailed Representations, Text Polarity Classification & Data Augmentation","Télécom Paris, Institut polytechnique de Paris"
+2020,SuperLoss: A Generic Loss for Robust Curriculum Learning,Research engineer at Nota.ai
+2020,Liberty or Depth: Deep Bayesian Neural Nets Do Not Need Complex Weight Posterior Approximations,University of Oxford
+2020,Learning Differential Equations that are Easy to Solve,University of Toronto
+2020,Stability of Stochastic Gradient Descent on Nonsmooth Convex Losses,"Assistant Professor, Computer Science & Engineering, The Ohio State University"
+2020,Influence-Augmented Online Planning for Complex Environments,Delft University of Technology
+2020,Learning Structured Distributions From Untrusted Batches: Faster and Simpler,UC Berkeley
+2020,Diversity can be Transferred: Output Diversification for White- and Black-box Attacks,
+2020,POLY-HOOT: Monte-Carlo Planning in Continuous Space MDPs with Non-Asymptotic Analysis,University of Illinois at Urbana-Champaign
+2020,Reverse-engineering recurrent neural network solutions to a hierarchical inference task for mice,Stanford University
+2020,Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation,PhD candidate
+2020,Efficient Low Rank Gaussian Variational Inference for Neural Networks,PhD student at University of Cambridge
+2020,Bayesian Deep Learning and a Probabilistic Perspective of Generalization,New York University
+2020,Unsupervised Learning of Object Landmarks via Self-Training Correspondence,University of Nottingham
+2020,Generative View Synthesis: From Single-view Semantics to Novel-view Images,PhD Student TU Kaiserslautern
+2020,Multi-Task Reinforcement Learning with Soft Modularization,UC San Diego
+2020,Hierarchically Organized Latent Modules for Exploratory Search in Morphogenetic Systems,Inria
+2020,AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity,Massachusetts Institute of Technology
+2020,Probabilistic Orientation Estimation with Matrix Fisher Distributions,"PhD student, KTH/Tobii"
+2020,Towards Deeper Graph Neural Networks with Differentiable Group Normalization,Rice University
+2020,Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nystrom method,Assistant Professor at University of Michigan
+2020,Continual Learning of Control Primitives : Skill Discovery via Reset-Games,PhD Student at UC Berkeley
+2020,HOI Analysis: Integrating and Decomposing Human-Object Interaction,"Ph.D., Shanghai Jiao Tong University"
+2020,Deep Direct Likelihood Knockoffs,"Courant Institute, NYU"
+2020,Meta-Neighborhoods,University of North Carolina at Chapel Hill
+2020,Neural Dynamic Policies for End-to-End Sensorimotor Learning,Carnegie Mellon University
+2020,Decision-Making with Auto-Encoding Variational Bayes,"Postdoctoral Scholar, Genentech and Stanford"
+2020,Attribution Preservation in Network Compression for Reliable Network Interpretation,KAIST
+2020,Causal Estimation with Functional Confounders,"PhD student, CS, NYU"
+2020,Exact expressions for double descent and implicit regularization via surrogate random design,Assistant Professor at University of Michigan
+2020,Certifying Confidence via Randomized Smoothing,"University of Maryland, College Park"
+2020,Noise-Contrastive Estimation for Multivariate Point Processes,"Johns Hopkins University, Toyota Technology Institute at Chicago, The University of …"
+2020,Neural Path Features and Neural Path Kernel : Understanding the role of gates in deep learning,Indian Institute of Technology Palakkad
+2020,Multiscale Deep Equilibrium Models,"Machine Learning Department, Carnegie Mellon University"
+2020,Second Order PAC-Bayesian Bounds for the Weighted Majority Vote,University of Aalborg
+2020,Modeling Task Effects on Meaning Representation in the Brain via Zero-Shot MEG Prediction,Carnegie Mellon University
+2020,Robust Quantization: One Model to Rule Them All,Technion
+2020,Federated Accelerated Stochastic Gradient Descent,Stanford University
+2020,Robust Density Estimation under Besov IPM Losses,"Postdoctoral Fellow, University of Texas at Austin"
+2020,An analytic theory of shallow networks dynamics for hinge loss classification,"Postdoc, École normale supérieure, Paris"
+2020,Learning to Orient Surfaces by Self-supervised Spherical CNNs,"Postdoc, University of Bologna"
+2020,Generative causal explanations of black-box classifiers,Georgia Institute of Technology
+2020,Sub-sampling for Efficient Non-Parametric Bandit Exploration,CNRS/Inria
+2020,Language Through a Prism: A Spectral Approach for Multiscale Language Representations,"PhD Student, Stanford University"
+2020,DVERGE: Diversifying Vulnerabilities for Enhanced Robust Generation of Ensembles,"PhD student, Duke University"
+2020,The Value Equivalence Principle for Model-Based Reinforcement Learning,
+2020,Structured Convolutions for Efficient Neural Network Design,Qualcomm AI Research
+2020,Training Generative Adversarial Networks by Solving Ordinary Differential Equations,"Research Scientist, DeepMind"
+2020,Unfolding the Alternating Optimization for Blind Super Resolution,中国科学院自动化所
+2020,Entrywise convergence of iterative methods for eigenproblems,"PhD Student, Cornell University"
+2020,Self-supervised Co-Training for Video Representation Learning,"Visual Geometry Group, University of Oxford"
+2020,Meta-Learning Requires Meta-Augmentation,Postdoctoral Fellow at Mila - Quebec Artificial Intelligence Institute and University of …
+2020,SLIP: Learning to predict in unknown dynamical systems with long-term memory,"Ph.D. Candidate in EECS, University of California, Berkeley"
+2020,Bayesian Bits: Unifying Quantization and Pruning,"Machine Learning Researcher, Qualcomm AI Research"
+2020,MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers,Microsoft Research
+2020,Graph Contrastive Learning with Augmentations,"Ph.D. Student, Texas A&M University"
+2020,Gradient Surgery for Multi-Task Learning,Stanford University
+2020,Bayesian Probabilistic Numerical Integration with Tree-Based Models,"PhD Student, Imperial College London"
+2020,Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel,"Graduate student, Stanford University / Google Brain / DeepMind"
+2020,Evaluating Attribution for Graph Neural Networks,Research Scientist at Google Brain
+2020,On Second Order Behaviour in Augmented Neural ODEs,University of Cambridge
+2020,GPU-Accelerated Primal Learning for Extremely Fast Large-Scale Classification,UC Davis
+2020,Differentially-Private Federated Linear Bandits,Facebook AI Research
+2020,Learning Physical Graph Representations from Visual Scenes,Stanford University
+2020,Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking,PhD of Neuroscience in Princeton University
+2020,Sparse Symplectically Integrated Neural Networks,"Student, Dartmouth College"
+2020,Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision,"Ph. D. Student in Computer Science, University of Minnesota"
+2020,Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers,Telecom Paris
+2020,Predicting Training Time Without Training ,"PhD Student, University of Padova"
+2020,On 1/n neural representation and robustness,Stony Brook University
+2020,Demixed shared component analysis of neural population data from multiple brain areas,Osaka University
+2020,Unsupervised Data Augmentation for Consistency Training,"Carnegie Mellon University, Google Brain"
+2020,Multi-task Causal Learning with Gaussian Processes,University of Warwick
+2020,Generative 3D Part Assembly via Dynamic Graph Learning,"Phd student, Tsinghua University"
+2020,Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention,"PhD Candidate, University of Stuttgart"
+2020,Neural Bridge Sampling for Evaluating Safety-Critical Autonomous Systems,Stanford University
+2020,Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes,Carnegie Mellon University
+2020,Benchmarking Deep Learning Interpretability in Time Series Predictions,University of Maryland College Park
+2020,Neutralizing Self-Selection Bias in Sampling for Sortition,Carnegie Mellon University
+2020,Neural Power Units,Czech Technical University
+2020,Large-Scale Adversarial Training for Vision-and-Language Representation Learning,"Principal Researcher, Microsoft"
+2020,Compositional Visual Generation with Energy Based Models,MIT
+2020,Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs,EPFL
+2020,Autoregressive Score Matching,Stanford University
+2020,Neural Controlled Differential Equations for Irregular Time Series,"Postgraduate Research Student, University of Oxford"
+2020,Dynamic Regret of Policy Optimization in Non-Stationary Environments,Cornell University
+2020,Learning Strategic Network Emergence Games,Georgia Institute of Technology
+2020,Towards Interpretable Natural Language Understanding with Explanations as Latent Variables,Beihang University
+2020,The Mean-Squared Error of Double Q-Learning,"EECS, MIT"
+2020,Denoising Diffusion Probabilistic Models,Google Brain
+2020,Uncovering the Topology of Time-Varying fMRI Data using Cubical Persistence,"Institute of AI for Health, Helmholtz Zentrum München"
+2020,Hierarchical Poset Decoding for Compositional Generalization in Language,"ByteDance, Peking University"
+2020,CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection,City University of Hong Kong
+2020,"Regularized linear autoencoders recover the principal components, eventually",University of Toronto
+2020,GramGAN: Deep 3D Texture Synthesis From 2D Exemplars,"Postdoc, ETH Zurich"
+2020,UWSOD: Toward Fully-Supervised-Level Capacity Weakly Supervised Object Detection,Xiamen University
+2020,FedSplit: an algorithmic framework for fast federated optimization,"PhD Student, UC Berkeley"
+2020,Estimation and Imputation in Probabilistic Principal Component Analysis with Missing Not At Random Data,"PhD Sorbonne University, Ecole Polytechnique"
+2020,Auxiliary Task Reweighting for Minimum-data Learning,"PhD, UC Berkeley"
+2020,Interior Point Solving for LP-based prediction+optimisation,PhD Candidate
+2020,A simple normative network approximates local non-Hebbian learning in the cortex,"Associate Research Scientist, Center for Computational Neuroscience, Flatiron Institute"
+2020,Kernelized information bottleneck leads to biologically plausible 3-factor Hebbian learning in deep networks,"PhD student, Gatsby Computational Neuroscience Unit, UCL"
+2020,Understanding the Role of Training Regimes in Continual Learning,Washington State University
+2020,Fair regression with Wasserstein barycenters,Université Paris-Saclay
+2020,HyNet: Learning Local Descriptor with Hybrid Similarity Measure and Triplet Loss,Imperial College London
+2020,Preference learning along multiple criteria: A game-theoretic perspective,"University of California, Berkeley"
+2020,Online Neural Connectivity Estimation with Noisy Group Testing,Duke University
+2020,Implicit Neural Representations with Periodic Activation Functions,Incoming Assistant Professor at MIT CSAIL.
+2020,Rotated Binary Neural Network,"Ph.D, Xiamen University"
+2020,Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian,Research Data Scientist
+2020,Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness,Google Research and Harvard University
+2020,Adaptive Learning of Rank-One Models for Efficient Pairwise Sequence Alignment,Stanford University
+2020,Hierarchical nucleation in deep neural networks,SISSA
+2020,Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains,"Graduate student, UC Berkeley"
+2020,Differentiable Augmentation for Data-Efficient GAN Training,"Institute for Interdisciplinary Information Sciences, Tsinghua University"
+2020,Heuristic Domain Adaptation,Meituan Group
+2020,Part-dependent Label Noise: Towards Instance-dependent Label Noise,"Ph.D. student, The University of Sydney"
+2020,MRI Banding Removal via Adversarial Training,Facebook AI Research
+2020,The NetHack Learning Environment,Facebook AI Research
+2020,Language and Visual Entity Relationship Graph for Agent Navigation,"PhD Student, Australian National University"
+2020,ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping,King's College London
+2020,No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium,"Assistant Professor, Bocconi University"
+2020,Can Implicit Bias Explain Generalization? Stochastic Convex Optimization as a Case Study,
+2020,Boosting Adversarial Training with Hypersphere Embedding,Tsinghua University; Sea AI Lab
+2020,Modeling Continuous Stochastic Processes with Dynamic Normalizing Flows,Simon Fraser University
+2020,Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification,Heidelberg University
+2020,Detecting Hands and Recognizing Physical Contact in the Wild,"Ph.D. student, Stony Brook University"
+2020,Neural Star Domain as Primitive Representation,"The University of Tokyo, Toyota Research Institute of Advanced Technology"
+2020,Off-Policy Interval Estimation with Lipschitz Value Iteration,Ph.D. student of UT Austin
+2020,Inverse Rational Control with Partially Observable Continuous Nonlinear Dynamics,Assistant Professor at Soongsil University
+2020,Deep Statistical Solvers,PhD student @ RTE R&D and LRI (Université Paris-Sud)
+2020,Secretary and Online Matching Problems with Machine Learned Advice,University of Twente
+2020,"Overfitting Can Be Harmless for Basis Pursuit, But Only to a Degree","School of Electrical and Computer Engineering, Purdue University, West Lafayette"
+2020,Improving Generalization in Reinforcement Learning with Mixture Regularization,National University of Singapore
+2020,Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework,University of Pennsylvania
+2020,Subgraph Neural Networks,"PhD Student, MIT"
+2020,Posterior Re-calibration for Imbalanced Datasets,"PhD, Georgia Institute of Technology"
+2020,Novelty Search in Representational Space for Sample Efficient Exploration,University of Alberta
+2020,Robust Reinforcement Learning via Adversarial training with Langevin Dynamics,The Alan Turing Institute
+2020,Variational Bayesian Monte Carlo with Noisy Likelihoods,"Assistant Professor of Machine and Human Intelligence, University of Helsinki"
+2020,Finite-Sample Analysis of Contractive Stochastic Approximation Using Smooth Convex Envelopes,Georgia Institute of Technology
+2020,An efficient nonconvex reformulation of stagewise convex optimization problems,Deepmind
+2020,From Finite to Countable-Armed Bandits,Columbia Business School
+2020,Adversarial Distributional Training for Robust Deep Learning,Tsinghua University
+2020,Learning the Geometry of Wave-Based Imaging,University of Illinois at Urbana Champaign
+2020,Reparameterizing Mirror Descent as Gradient Descent,Research Scientist at Google
+2020,Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks,University of Illinois at Chicago
+2020,Beyond the Mean-Field: Structured Deep Gaussian Processes Improve the Predictive Uncertainties,Bosch Center for AI
+2020,PlanGAN: Model-based Planning With Sparse Rewards and Multiple Goals,University of Warwick
+2020,Bad Global Minima Exist and SGD Can Reach Them,MILA-UdeM
+2020,A Closer Look at Accuracy vs. Robustness,"University of California, San Diego"
+2020,Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks,Google
+2020,Characterizing emergent representations in a space of candidate learning rules for deep networks,"Department of Experimental Psychology, University of Oxford"
+2020,AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning,"Ph.D. student, Boston University"
+2020,"Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation","Student of Medicine, Isfahan University Of Medical Science"
+2020,Debiased Contrastive Learning,MIT
+2020,UCSG-NET- Unsupervised Discovering of Constructive Solid Geometry Tree,Warsaw University of Technology
+2020,Generalized Boosting,Carnegie Mellon University
+2020,COT-GAN: Generating Sequential Data via Causal Optimal Transport,London School of Economics
+2020,Understanding spiking networks through convex optimization,"Champalimaud Research, Ecole Normale Superieure"
+2020,Bandit Linear Control,"School of Computer Science, Tel Aviv University"
+2020,Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals,UC San Diego
+2020,Provably Efficient Neural Estimation of Structural Equation Models: An Adversarial Approach,Columbia University
+2020,Security Analysis of Safe and Seldonian Reinforcement Learning Algorithms,"Ph.D., UMass Amherst"
+2020,Learning to Play Sequential Games versus Unknown Opponents,ETH Zürich
+2020,Bridging Imagination and Reality for Model-Based Deep Reinforcement Learning,Tsinghua University
+2020,Exploiting Higher Order Smoothness in Derivative-free Optimization and Continuous Bandits,"PhD Student, ENSAE, IIT"
+2020,"Chaos, Extremism and Optimism: Volume Analysis of Learning in Games","Department of Computer Science, Royal Holloway University of London"
+2020,On Regret with Multiple Best Arms,University of Wisconsin-Madison
+2020,Matrix Completion with Hierarchical Graph Side Information,"Graduate Student, University of Minnesota"
+2020,Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation: Bayesian inference for latent Gaussian models and beyond,"PhD candidate in Statistics, Columbia University"
+2020,Learning Mutational Semantics,Stanford University
+2020,Towards Safe Policy Improvement for Non-Stationary MDPs,"PhD Candidate, University of Massachusetts, Amherst"
+2020,Causal Discovery in Physical Systems from Videos,MIT CSAIL
+2020,Self-Paced Deep Reinforcement Learning,TU Darmstadt
+2020,Optimal visual search based on a model of target detectability in natural images,"PHD Student, Computing and Information Systems, University of Melbourne"
+2020,Steady State Analysis of Episodic Reinforcement Learning,Rakuten Institute of Technology
+2020,Direct Feedback Alignment Scales to Modern Deep Learning Tasks and Architectures,Ph.D. Student at ENS / Extreme-Scale Project Lead at LightOn
+2020,A Boolean Task Algebra for Reinforcement Learning,University of the Witwatersrand
+2020,Dynamical mean-field theory for stochastic gradient descent in Gaussian mixture classification,"Ph. D. student, Institut de Physique Théorique, CEA, Saclay"
+2020,Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning,"PhD Student, Purdue University"
+2020,The Pitfalls of Simplicity Bias in Neural Networks,Google Research
+2020,Non-reversible Gaussian processes for identifying latent dynamical structure in neural data,"Gatsby Computational Neuroscience Unit, UCL - Janelia Research Campus, HHMI …"
+2020,BoxE: A Box Embedding Model for Knowledge Base Completion,University of Oxford
+2020,Coherent Hierarchical Multi-Label Classification Networks,University of Oxford
+2020,Federated Bayesian Optimization via Thompson Sampling,"Research Fellow, Department of Computer Science, National University of Singapore"
+2020,MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation,IIT Kanpur
+2020,Optimal Iterative Sketching Methods with the Subsampled Randomized Hadamard Transform,Stanford University
+2020,ShapeFlow: Learnable Deformation Flows Among 3D Shapes,Waymo LLC
+2020,Self-Supervised Learning by Cross-Modal Audio-Video Clustering,"PhD Student, KAUST"
+2020,GANSpace: Discovering Interpretable GAN Controls,"PhD student, Aalto University"
+2020,Differentiable Expected Hypervolume Improvement for Parallel Multi-Objective Bayesian Optimization,"Research Scientist, Facebook"
+2020,Limits on Testing Structural Changes in Ising Models,Boston University
+2020,Continual Learning in Low-rank Orthogonal Subspaces,DeepMind
+2020,Unsupervised Learning of Visual Features by Contrasting Cluster Assignments,Inria / FAIR
+2020,"Sharpened Generalization Bounds based on Conditional Mutual Information and an Application to Noisy, Iterative Algorithms","Ph.D. Candidate, University of Toronto"
+2020,Information theoretic limits of learning a sparse rule,"PhD student, EPFL"
+2020,A game-theoretic analysis of networked system control for common-pool resource management using multi-agent reinforcement learning,"Research Scientist, InstaDeep Ltd"
+2020,"What shapes feature representations? Exploring datasets, architectures, and training","PhD Candidate, Stanford University"
+2020,Optimal Best-arm Identification in Linear Bandits,"PhD student, KTH"
+2020,Data Diversification: A Simple Strategy For Neural Machine Translation,Nanyang Technological University
+2020,CoSE: Compositional Stroke Embeddings,"PhD Student, ETH Zurich"
+2020,Biological credit assignment through dynamic inversion of feedforward networks,Champalimaud Research
+2020,Learning Multi-Agent Communication through Structured Attentive Reasoning,"PhD Student, Virginia Tech"
