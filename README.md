@@ -9,3 +9,17 @@ To run cite2.py :
 Go to https://www.scraperapi.com/
 Free Signup using gmail 
 Copy API Key to the code and place the key in line11 and line43 of cite2.py
+
+To-do 26th November
+1. Number of publications per year 
+2. Citation dist and table of top 10 cited
+3. graph of institutes(university + industry) publications in combined dataset
+4. Authors sorted according to publications(top 20)()
+5. 
+Yuwei :- 
+1. trending areas(on whole dataset)
+2. lda on abstracts of individual conferences
+3. word cloud for each conference 
+4. heat map
+
+https://maithraraghu.com/blog/2019/Citation_Statistics_of_Machine_Learning_Papers/

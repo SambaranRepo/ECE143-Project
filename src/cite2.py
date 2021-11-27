@@ -24,16 +24,17 @@ def load_csv():
 
 
 def get_affiliation(data): 
-    for i in tqdm(range(4047,len(data))): 
+    for i in tqdm(range(len(data))): 
         praw = str(data['TITLE'][i])
         year = data['YEAR'][i]
-        try:
-            adata = scholarly.search_pubs(praw)
-            adata = next(adata)
-            citations = adata['num_citations']
-            csv_writer2.writerow([year, praw, citations])
-        except Exception as e: 
-            pass
+        if year==2021:
+            try:
+                adata = scholarly.search_pubs(praw)
+                adata = next(adata)
+                citations = adata['num_citations']
+                csv_writer2.writerow([year, praw, citations])
+            except Exception as e: 
+                pass
     csv_file2.close()
     return 1
 
