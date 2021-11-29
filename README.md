@@ -23,3 +23,10 @@ Yuwei :-
 4. heat map
 
 https://maithraraghu.com/blog/2019/Citation_Statistics_of_Machine_Learning_Papers/
+
+November 28 To-do: 
+1. complete plots for cvpr,icml,nips,iclr
+2. horizontal bar chart and look if it is better 
+3. Yuwei - decide plots to put, come up with conclusions and the bar chart race, and alternative for heatmap 
+4. Send datasets to Sambaran and put in branch main.
+5. Table of top 50 affiliations, see different representations of same company/inst and add them up into a single key. (individual conferences)
