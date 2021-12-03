@@ -27,4 +27,4 @@ Now run the dataset collection codes\
 After the dataset collection is done, get the citations for the papers using \
     $`python3 src/citation.py`
 
-Finally, we can run the visualisations.ipynb file for the analysis
+Finally, we use notebooks in `./notebooks` for the analysis
