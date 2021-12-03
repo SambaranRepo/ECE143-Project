@@ -1,9 +1,9 @@
 # ECE143-Project
 
 The aim of this project is to analyse top Machine Learning Conferences and to arrive at conclusions like:-\
-a. Most active institutes and authors in Machine Learning\ 
-b. Conferences with most relevant publications in Machine Learning\ 
-c. Trending topics of research in Machine Learning\ 
+a. Most active institutes and authors in Machine Learning <br /> 
+b. Conferences with most relevant publications in Machine Learning <br /> 
+c. Trending topics of research in Machine Learning <br />
 d. Provide a recommender system that can provide other closely related research papers for a given paper. 
 
 The libraries used for the project are :- \
