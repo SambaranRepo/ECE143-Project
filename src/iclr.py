@@ -3,6 +3,13 @@ import requests
 import csv
 from tqdm import tqdm
 
+'''
+This code is used to get the conference data from ICLR. 
+We use BeatuifulSoup and lxml to scrape data from the ICLR website. 
+We collect the year of publication, paper name, authors, affiliations and the abstract of the paper. 
+All these are then written to a csv file.
+'''
+
 iclr_links = ['https://iclr.cc/Conferences/2016/Schedule?type=Poster','https://iclr.cc/Conferences/2017/Schedule?type=Poster',\
     'https://iclr.cc/Conferences/2018/Schedule?type=Poster','https://iclr.cc/Conferences/2019/Schedule?type=Poster',\
         'https://iclr.cc/Conferences/2020/Schedule?type=Poster']

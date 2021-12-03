@@ -3,15 +3,21 @@ import requests
 import csv
 from tqdm import tqdm
 
-# nips_links = ['https://nips.cc/Conferences/2016/Schedule?type=Poster','https://nips.cc/Conferences/2017/Schedule?type=Poster',\
-    # 'https://nips.cc/Conferences/2018/Schedule?type=Poster','https://nips.cc/Conferences/2019/Schedule?type=Poster',\
-        # 'https://nips.cc/Conferences/2020/Schedule?type=Poster']
+'''
+This code is used to get the conference data from NeurIPS. 
+We use BeatuifulSoup and lxml to scrape data from the NeurIPS website. 
+We collect the year of publication, paper name, authors, affiliations and the abstract of the paper. 
+All these are then written to a csv file.
+'''
 
-nips_links = ['https://nips.cc/Conferences/2021/Schedule?type=Poster']
+nips_links = ['https://nips.cc/Conferences/2016/Schedule?type=Poster','https://nips.cc/Conferences/2017/Schedule?type=Poster',\
+    'https://nips.cc/Conferences/2018/Schedule?type=Poster','https://nips.cc/Conferences/2019/Schedule?type=Poster',\
+        'https://nips.cc/Conferences/2020/Schedule?type=Poster', 'https://nips.cc/Conferences/2021/Schedule?type=Poster']
+
 parent = '/home/sambaran/UCSD/Quarter2/ECE143/Project/data'
-csv_file = open(parent + '/nips_2016-2020.csv', 'a')
+csv_file = open(parent + '/nips_2016-2020.csv', 'w')
 csv_writer = csv.writer(csv_file)
-# csv_writer.writerow(['YEAR', 'TITLE', 'Authors', 'Paper Link', 'ABSTRACT', 'Affiliations'])
+csv_writer.writerow(['YEAR', 'TITLE', 'Authors', 'Paper Link', 'ABSTRACT', 'Affiliations'])
 
 for nips in tqdm(nips_links):
     year = nips.split('/')[4]

@@ -8,14 +8,17 @@ import csv
 import concurrent.futures
 import urllib3
 urllib3.disable_warnings()
-API_KEY = '4b0b8dca0b014234fcc934501e0960a2'
-proxies = {
-  'http': f'http://scraperapi:{API_KEY}@proxy-server.scraperapi.com:8001',
-}
 
+'''
+This code is to get the citations of papers in a conference. 
+From the dataset, we get the name of the paper. 
+The paper name is fed to the scholarly library which then generaltes a dictionary. 
+From the dictionary we can get the num_citations. 
+After we get the citation, it is written to a csv file.
+To avoid unusual traffic in google scholar, we use a API that establishes a proxy connection.
+'''
 csv_file2 = open('data/cvpr_citations.csv', 'w')
 csv_writer2 = csv.writer(csv_file2)
-# csv_writer1.writerow(['year','paper','affiliations'])
 csv_writer2.writerow(['year','paper', 'citations'])
 
 def load_csv():

@@ -3,6 +3,13 @@ import requests
 import csv
 from tqdm import tqdm
 
+'''
+This code is used to get the conference data from ICML. 
+We use BeatuifulSoup and lxml to scrape data from the ICML website. 
+We collect the year of publication, paper name, authors, affiliations and the abstract of the paper. 
+All these are then written to a csv file.
+'''
+
 icml_links = ['https://icml.cc/Conferences/2016/Schedule?type=Poster','https://icml.cc/Conferences/2017/Schedule?type=Poster','https://icml.cc/Conferences/2018/Schedule?type=Poster','https://icml.cc/Conferences/2019/Schedule?type=Poster','https://icml.cc/Conferences/2020/Schedule?type=Poster']
 
 parent = '/home/sambaran/UCSD/Quarter2/ECE143/Project/data'

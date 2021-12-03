@@ -2,7 +2,12 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 from tqdm import tqdm
-
+'''
+This code is used to get the conference data from CVPR. 
+We use BeatuifulSoup and lxml to scrape data from the CVPR website. 
+We collect the year of publication, paper name, authors, affiliations and the abstract of the paper. 
+All these are then written to a csv file.
+'''
 cvpr_links = ['https://openaccess.thecvf.com/CVPR2018?day=2018-06-19','https://openaccess.thecvf.com/CVPR2018?day=2018-06-20',\
     'https://openaccess.thecvf.com/CVPR2018?day=2018-06-21', 'https://openaccess.thecvf.com/CVPR2019?day=2019-06-18', \
     'https://openaccess.thecvf.com/CVPR2019?day=2019-06-19','https://openaccess.thecvf.com/CVPR2019?day=2019-06-20',\
