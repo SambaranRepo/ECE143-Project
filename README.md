@@ -1,6 +1,6 @@
 # ECE143-Project
 
-The aim of this project is to analyse top Machine Learning Conferences and to arrive at conclusions like:- \
+The aim of this project is to analyse top Machine Learning Conferences and to arrive at conclusions like:-\
 a. Most active institutes and authors in Machine Learning\ 
 b. Conferences with most relevant publications in Machine Learning\ 
 c. Trending topics of research in Machine Learning\ 
@@ -13,7 +13,7 @@ c. Scholarly\
 d. Standard third party python packages such as Numpy, Matplotlib, Pandas and Jupyter Notebook.
 
 To run the project, first create a conda environment using the provided conda.yaml file. \
-    $c`onda env create -f conda.yaml`
+    $`conda env create -f conda.yaml`
 
 Next, activate the conda environment\
     $`conda activate ece143`
