@@ -1,6 +1,6 @@
 # ECE143-Project
 
-The aim of this project is to analyse top Machine Learning Conferences and to arrive at conclusions like :- 
+The aim of this project is to analyse top Machine Learning Conferences and to arrive at conclusions like:- 
 a. Most active institutes and authors in Machine Learning. 
 b. Conferences with most relevant publications in Machine Learning. 
 c. Trending topics of research in Machine Learning. 
