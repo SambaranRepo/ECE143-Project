@@ -10,8 +10,8 @@ The libraries used for the project are :- \
 a. BeautifulSoup\
 b. LXML\
 c. Scholarly\
-d. NLTK \
-e. wordcloud \
+f. wordcloud \
+e. NLTK \
 f. bar_chart_race \
 g. Standard third party python packages such as Numpy, Matplotlib, Pandas and Jupyter Notebook.
 
