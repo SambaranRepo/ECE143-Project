@@ -24,6 +24,7 @@ Repository Structure
     ├── ICLR-2017-18-19-21.csv 
     ├── cvpr_16-21.csv
     ├── cvpr_citations.csv
+    ├── cvpr_data.csv
     ├── icml.csv
     ├── icml_affiliations.csv
     ├── icml_citations.csv
