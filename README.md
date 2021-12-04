@@ -1,4 +1,4 @@
-# ECE143-Project
+# ECE143 Project : Top Conferences' Paper Analysis
 
 The aim of this project is to analyse top Machine Learning Conferences and to arrive at conclusions like:-\
 a. Most active institutes and authors in Machine Learning <br /> 
