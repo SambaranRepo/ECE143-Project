@@ -10,7 +10,10 @@ The libraries used for the project are :- \
 a. BeautifulSoup\
 b. LXML\
 c. Scholarly\
-d. Standard third party python packages such as Numpy, Matplotlib, Pandas and Jupyter Notebook.
+d. NLTK \
+e. wordcloud \
+f. bar_chart_race \
+g. Standard third party python packages such as Numpy, Matplotlib, Pandas and Jupyter Notebook.
 
 To run the project, first create a conda environment using the provided conda.yaml file. \
     $`conda env create -f conda.yaml`
