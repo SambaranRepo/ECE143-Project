@@ -36,15 +36,7 @@ Repository Structure
         ├── analysis_cvpr-checkpoint.ipynb
         ├── final_notebook-checkpoint.ipynb
         ├── visualisation-checkpoint.ipynb
-    ├── Citation_Visualization.ipynb
-    ├── Final_Notebook.ipynb
-    ├── analysis_all.ipynb
-    ├── analysis_cvpr.ipynb
-    ├── analysis_iclr.ipynb
-    ├── analysis_icml.ipynb
-    ├── analysis_nips.ipynb
-    ├── icml_citations.csv
-    ├── visualisation.ipynb
+    ├── Final_Visualization_Notebook.ipynb
     
 ├── src
     ├── ipynb_checkpoints
